@@ -1,0 +1,3614 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="3">
+
+  <Content>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. SKYSCRAPER, BATHROOM - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>HARPER (late 20s), stares at herself in a large bathroom mirror.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She takes a deep breath. A smile forms but soon fades.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Skyscraper, 88th floor - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A young INVESTMENT BANKER walks past an empty slew of cubicles. A maintenance worker vacuums while nodding his head to the music in his headphones.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He taps his foot against the marble floors as an empty elevator car opens up in front of him.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="7/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BUSINESSMAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. SKYSCRAPER, elevator - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The banker is alone. He checks his watch.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A lip presses close to his ear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HaRPER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Peek-a-boo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A silver metal staff smacks the back of the banker’s legs and he falls down.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper stands over him, staff pressed against his chest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We can do this the easy way or the hard way. I’ll admit, I kind of like the hard way.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BusinesSMAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Wha</Text>
+      <Text>—? Who the hell are you?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t act stupid. We both know how this ends. Give up now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Businessman</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have no idea what’s going on.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>[</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">find</Text>
+      <Text> a better way to setup this fight]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The daemon rises to it’s feet and laughs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A stony-green hand grabs Harper by the throat and lifts her off the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper clasps her hands together and pushes a blast of energy into the beasts chest. The two of them fly apart, the monster tearing through the metal side of the elevator.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper is pushed to the other side but quickly grabs her staff and jumps into the shaft after it.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="5/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. SKYSCRAPER, ELEVATOR SHAFT - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper balances on a beam between elevator tracks. She looks around.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The shaft is mostly shadows with plenty of spots for the daemon to hide.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A couple elevators are still moving.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper closes her eyes and focuses.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Her vision shifts to the astral plane where she can sense the consciousness of those around her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lurking in a shadow above, she can see through the eyes of the daemon as he leaps down, ready to smash her with his giant fists.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper dodges the strike and starts counter-attacking with her staff.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two of them exchange blows for a while on the beam.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The daemon lunges forward and shoulders Harper off.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She lands on an elevator car below and hurls another ball of energy at the daemon who flies backwards into the wall of the elevator shaft.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Skyscraper, 88th floor - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The maintenance worker is oblivious, listening to his music, as the entire floor shakes and a picture falls off the wall behind him.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. skyscraper, EleVATOR SHAFT - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The daemon recovers and uses the wall to launch himself at Harper, tackling her as he flies up the elevator shaft with her slung over his shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="3" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>EXT. SKYSCRAPER, ROOFTOP - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The daemon breaks through the ventilation shaft to the room and begins soaring upwards over the building.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper is struggling against it’s grasp.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>An radiant arrow pierces the daemon’s chest.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>On the rooftop below, we see AIKO (early </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">30s</Text>
+      <Text>) holding a bow made of pure energy. Standing next to her is Harper.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The daemon grabs the Harper over his shoulder as she dematerializes with a smile.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Another arrow flies into the Daemon, tearing through it’s wing. It begins to fall.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The daemon strikes the rooftop below with a smash.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Struggling for air, the wounded daemon stares as Harper and Aiko stand over it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>[</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">insert</Text>
+      <Text> witty banter]</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="5/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ARCH-HUNTRESS"></CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+          <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. shadowcrest, courtyard - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Two teenagers, MAYA (19) and QUENTIN (19), are standing erect, eyes forward.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Arch-huntress</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is a very important day for the two of you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Arch-Huntress VENJI </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">ASAHD</Text>
+      <Text> (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">50s</Text>
+      <Text>, fit) stands in front of them, long flowing black hair jostling in the wind. (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">WTF</Text>
+      <Text>?)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Arch-HUNTRESS (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>As Initiates now, you will be faced with real obstacles and real challenges. Your days in the classroom are behind you and from here on out, your actions will have real and dangerous consequences. I hope you are ready.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General">
+      <DualDialogue>
+        <Paragraph Type="Character">
+          <Text>Quentin</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>Yes, ma’am.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+          <Text>MAYA</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>Yes, ma’am.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Venji nods.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VENJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright, let’s begin.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 5/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+          <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. shadowcrest, apex - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ENTRANCE</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Arch-Huntress leads the two Initiates inside.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VENJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Welcome to the Apex, the facility where you will eat, sleep, train and study for the next year.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She guides them through a long corridor to a crowded COMMON AREA.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>COMMONS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maya’s jaw drops as she looks around, excited to finally be inside. Quentin is less impressed; he has been there before due to his father being the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Archmage</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VenJI (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is where all Hunter operations in both our world and the Human world originate. We coordinate with agents scattered amongst both worlds to fight real threats in real time.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Two Huntresses, Harper and Aiko, pass by.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VENJI (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Maya and Quentin)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll be back in a moment.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Venji (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Harper and Aiko)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ladies.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They turn and follow her into an office.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ADMIN</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Aiko</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Please don’t stick us with the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">newbies</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VenJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you have to report?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Aiko</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ll only report if you promise not to stick us with the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">newbies</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VenJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Harper?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Apprenhension</Text>
+      <Text> successful. We’ve brought the body back to the Loremage camp for further study.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VenJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Aiko shakes her head at Harper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VeNJI (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh, by the way...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AIkO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here it comes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VeNJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m assigning the Initiates to you two.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AiKO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There she goes.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Harper)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>See what you did?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course, Arch-Huntress.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Aiko</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(mockingly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course, Arch-Huntress.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VENJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I presume you know them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HarPER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yeah, they’re both friends of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Lina’s</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VenJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I assigned her as security on a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Terran</Text>
+      <Text> dig site. She reported daemonic presence. I told her to await your back up before investigating. Bring the kids along. Could be a good learning experience.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AIkO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A dig site? With the nerds?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VeNJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They’re called </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Loremages</Text>
+      <Text> and you’ll be happy to know that you won’t be bothering them with your presence as you’ve been assigned as new mission from the Council.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Aiko yelps with glee.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>COMMONS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maya and Quentin are sitting down on a bench in the commons, looking kind of bored.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VENJI (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Initiates.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They rise to attention.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VeNJI (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You will join Huntress Evans on an assignment to Terra.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Quentin</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>As in Earth? We’re heading to Earth? Already?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t we need more training.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Venji</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’ll be in a secluded area with no Human contact. Simply follow Harper’s orders and keep your wits about you and you’ll be fine. Understood?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They both nod.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VeNJI (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright then. Set out and good luck.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. ancient tombs, meadow - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A butterfly lands on a wild tulip.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Crouching above it are Emmett (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">30s</Text>
+      <Text>, nerdy) and Morgan (19).</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>See here? I’m pretty sure they call this one a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">butterflea</Text>
+      <Text>. Humans consider them quite beautiful but you’ll notice it’s quite grotesque up close.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(intrigued)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hmm.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So, ironically, they serve as a sort of analogy for the Humans.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Could be said about Mages also.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett and Morgan turn around, startled.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ah, Harper. We didn’t see you arrive.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hello, Huntress Evans.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HarpER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(smiling)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Out here on Earth we don’t use titles. And remember, it’s always Earth, instead of Terra.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, ma’am.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EmmeTT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s good to see you friend.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You too. Now let’s head back to camp, sun’s going down soon.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 6/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. ancient tombS, LOREMAGE CAMP - dusk</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett and Harper sitting on a log, drinking cider.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(avoiding eye contact)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So, I imagine you must come out here a lot with Dante.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper laughs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, we’re in Venezuela right and Dante lives in Manhattan, so it’s a bit of a trek. It’s not exactly around the corner.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ah, I see. I’m not very familiar with their geography.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You should spend more time here. It’s pretty fun.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EmMETT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s debatable.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper shakes her head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HarPER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You never know, Em. You might find a nice </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Terran</Text>
+      <Text> girl and fall in love.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I could never love one of them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t be so close-minded.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s not </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">that...It’s</Text>
+      <Text> just...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He takes a deep gulp and looks at the side of Harper’s face in the firelight.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(turning to face him)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
+      <Text> used to say never let happiness slip by you.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(grabbing his hand)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett smiles and nods.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Speaking of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
+      <Text>, how’s </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Lina</Text>
+      <Text> doing?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EmmeTT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She’s doing well. She understands this world better than I do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HarpER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s not saying a lot.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two of them laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Across the camp site, The Initiates are gathered around the campfire, excited.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So how was it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It was breath-taking.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MaYA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did it last long?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They said it did but it felt like it was over in a flash.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>QuenTIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I really don’t want to hear about this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then close your ears.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And then, she called my name, I walked up there, looking fabulous, grabbed the badge and shook her hand. She called me Morgan.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s so awesome. The Arch-Huntress didn’t do anything like that for us. She told us we’re Initiates and gave us a tour.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MorGAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There’s not a lot of action and dazzle in </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Lorecraft</Text>
+      <Text> so it seems like we take any excuse to celebrate as an opportunity to go all out.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Quentin</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Losermages</Text>
+      <Text> like to have parties? How surprising.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan slaps him on the shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOrgaN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t think just because you’re a Hunter, I still can’t beat you up. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Somethings</Text>
+      <Text> never change little brother.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Quentin</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(under his breath)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>By two minutes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>QuenTIN (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(normal voice)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Have you spoken to Mother or Father?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Father came to visit the Arch-Loremage before Emmett and I left. He said he was very proud of us.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quentin smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper and Emmett approach.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HarpER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright, so I brought a treat for your first adventure here on Earth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She reaches into her bag and produces a bag and two boxes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re going to make a mystical treat that Humans refer to </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">as...S’mores</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. AnciENT TOMBS, LOREMAGE CAMP - morning</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper packs up her tent and walks over to the campfire.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Initiates and Emmett are sleeping wildly around the snuffed out campfire with white and brown streaks across their smiling faces.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper notices a trail of ants crawling up Quentin’s face.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He jumps up, trying to swipe the bugs from his cheek but losing his balance as his hands are still inside the bag. He topples over the equipment, waking everyone up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Great, everyone’s awake. I’m scouting ahead to link up with </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Lina</Text>
+      <Text>. Meet you guys at the dig site.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A half-awake Emmett nods as everyone tries to get their bearings.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Ancient tombs, entrance - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper treks through the forest, using her staff to push aside the branches of the thick brush.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She enters a clearing and sees the moss-covered, nature-reclaimed tomb they have been sent to investigate.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She hears a twig break nearby.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dammit.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know you can’t sneak up on me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>One of these days.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Keep telling yourself that.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two of them hug.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HarPER (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How have you been?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Aside from getting my ass eaten by mosquitoes, dandy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper hesitates.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shut up. Where’s the nerds?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There on their way. Along with Maya and Q. They’re my new Initiates.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Awesome!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HarpeR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ll see. They both need some work.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, I mean, I couldn’t fight before you started training me but look at me now.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She pulls out her hatchet with a flourish and puts it back in it’s hip holster.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s not the fighting. I don’t know if they have the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">mindset</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina looks confused.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know she’s super closed-off and he’s out to prove himself. Both of those things can be dangerous out here.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina nods and leads them over to a log near where she has a sleeping bag rolled up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, just keeping trying. You got through to me somehow and I’m sure you’ll make great Hunters out of them too. I’ll work with them too. They trust me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Wait, wait, wait. So you’re officially a “Great Hunter” now? When did this happen? Wasn’t I just called in to help you secure a your location.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I mean, I could handle it. I just wanted an excuse to see my </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">bestie</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HarPER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(laughing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Uh huh. You and </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
+      <Text> really are cut from the same mold.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The mood gets a little dark.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I really miss him sometimes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(patting Lina’s shoulder)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina is startled.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Cuz</Text>
+      <Text> I see him in you all the time. He would be super proud of you right now. He’d be jealous that I get to see the great Huntress that you have become.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you agree that I’m great?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think he’d also be proud of you. I hear you’re spending more and more time on Earth. Things going well with Dante?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper smiles and nods.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He’d be happy you’re finally starting to have a life. I just hope that life doesn’t take you away from us. At least not too soon.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper’s smile fades.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A bush rustles nearby.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina and Harper both draw their weapons.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The go over and stir the bush. Nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As they turn around they are attacked by a small jungle cat with glowing green eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper uses her staff to knock it several yards away.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>It recoils and scurries through the arched entrance to the tomb. As it enters a loud rumbling roar lets out from inside.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Another one of our friends. This is what I called you out here for.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That thing was Blighted.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ya don’t say.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina puts away her hatchets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Check this out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She leads over to a small paddock. There is a pile of corpses that have been mauled viciously, covered in black and gray residue.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ve found them all around the woods here. Looks like Daemon’s blood on all of them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How’d</Text>
+      <Text> a Daemon end up out here?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No telling.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A scream tear through the woods.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two rush back to the entrance.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They find Emmett and the Initiates have arrived.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I swear someone was staring at me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>QueNTIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It was nothing, ya big baby.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOrgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, I swear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s going on?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ms. Blackwell thinks she saw someone staring at her from the trees. I checked. No one was there. Perhaps all of those </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">S’more-ays</Text>
+      <Text> are catching up with her. Playing with her imagination.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>C’mon, let’s get this over with. I have a weird feeling about this place.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t get separated. If you see anything let us know and if we have to fight something, let Harper and I deal with it.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(eyeing Maya and Quentin specifically for the last line)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Initiates nod.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright, let’s go.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The team enter the tomb.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="15" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ancient tombs, Outer crypt - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The group enter the tombs, the Huntresses in the front with their Initiates protecting the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Loremages</Text>
+      <Text> in the rear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright, everyone, light it up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everybody runs their palms over a small crystal hanging over the shoulder strap of their bags and jumpsuits causing them each to illuminate with an ethereal blue light.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper and Lina light up similar crystals on the handles of their weapons.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>QuenTIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>By </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Symius</Text>
+      <Text>, it smells worse than dragon-barf in here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No kidding.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett kneels down and rubs his fingers across a streak of gray blood.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The beasts wounds seem to release sulfurous gases.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A rock falls behind them, followed by the patter of paws.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The party turns around.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A trio of Blighted jaguars has blocked the passage they came through.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don’t let them bite you. We don’t understand much about how the Blight works and if it—</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina shoves him backwards as she rushes forward and attacks the jaguar.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper joins the fray.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quentin rushes forward to join the fight but is stopped by Maya’s forearm.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Remember what she said.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He looks forward at them and back at Maya and backs down.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper uses her staff to vault herself towards the one cat while Lina’s dual hatchets clash with the clashes and fangs of the other two.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper’s jaguar gets the better of her and knocks her to the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She’s using her hands to grab it’s neck while it snaps viciously just inches from her face.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A whistle comes from behind. It turns and looks just as Harper smashes her staff on it’s head from above. The one it was fighting was an illusion.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett drops to his knee and presses a fist to the ground. Vines sprout from the ground and tie the jaguar to the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He casts a smiling nod of support.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Little help here?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina has been backed down into a corner by the other two jaguars. They are closing in on her and her defenses are falling apart.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper’s eyes begin to glow as she faces her palm in their direction.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two jaguars eyes begin to glow as well. They stop attacking Lina and turn to each other. Suddenly and viciously, they begin attacking each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As fur and blood flies into the air, Morgan and the other Initiates turn away. The cats howl ferociously and then both howls stop.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina, out of breath, walks over to Harper keeping her eyes on the beasts.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thank you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(reluctant smile)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let’s move.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 5/8" Page="17" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. ancient tombs, inner crypt - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The party moves further into the tomb.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So, we think those animals drank Daemon’s blood?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, I mean, there are other ways to catch the Blight but that is the most common.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s terrible.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So how would a Daemon get from </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Hydor</Text>
+      <Text> onto Earth?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Same way we do, dimensional portals.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Quentin</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But I thought we destroyed all the Daemons in the war.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not by a long shot.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>After the death of the Daemon Lord, most scattered and went into hiding.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s half the work of Hunters, dealing with the remaining Daemon threat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maya and Quentin look at each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You better get used to stuff like this.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper notices more Blighted blood tracks leading down a long hall.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They came from this way.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Following a long hall, they enter a small crypt with a large stone sarcophagus, etched with symbols and pictures.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look around. They came through here somehow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The party scours each corner of the room.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Must’ve been someone important for them to build such a big tomb for one person.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What a waste.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How so?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dead is dead. What difference does the size of the box they put you in matter.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett ponders for a moment.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think I found it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maya pushes back a corner of the room where a small overgrown mass of vines reveals a small passageway. There is dried gray blood amassed on the thorns of the vine.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina chops away at the vines and the all enter.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="19" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ancient tombs, secret chamber - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They exit the passageway and find what appears to be a cave that lies adjacent to the tomb.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maya grabs her nose.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s worse down here.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">wor</Text>
+      <Text>—</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan gags.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone covers their nostrils.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Across the chamber is they find the gigantic corpse of a Daemon, centered in a pool of it’s own foul blood and being overcome by </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">foilage</Text>
+      <Text> and vines.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, we know how they became Blighted.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EmmetT</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(looking around)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’re gonna need a clean-up crew to dispose of this and deal with the Blighted animals.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hold on...</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(leaning down over the corpse)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She flashes a light on the body.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are those cut marks?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It had to die someway. Probably from centuries ago.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(looking as well)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, she’s right. Those are fresh. Someone recently sliced this thing open. How curious.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Quentin</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Guys, do you hear that?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The party quiets and listens. A muttering noise comes from beyond a small rock formation.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is someone else here?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper draws her staff.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stick behind me.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper pushes forward. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As they approach the rock formation, a figure walks out from behind it. GREGOR walks by, completely unaware of them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">must...I</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">mussssttt</Text>
+      <Text>. End. The end. The ending. Ending. It all ends. Stop. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Stooop</Text>
+      <Text>. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">STOOOP</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Gregor?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The former Guardian stops and turns to them, taking notice of the party for the first time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Guests? What a pity.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to himself)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They don’t know the end is coming.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper notices Lina’s fists clasped tight around her hatchet handles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper shakes her head and Lina relaxes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor turns to Harper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know you. We tried to kill each other once. Funny, would you like some tea?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="20" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. ancient tombs, gregor’s hideout - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The deranged Gregor leads them into a small crevasse which he has turned into a hideout. A poster of a Venezuelan soccer team is sprawled out, along with other small trinkets and toys.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My god? What has happened to you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tea?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He turns around and reveals as porcelain tea pot smeared in gray and black streaks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s daemon blood! You’ve been drinking this?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s oh so refreshing.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="6/8" Page="21" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. AnCIENT TOMBS, SECRET CHAMBER - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Outside the hideout, Lina and Harper stand around nervously while Quentin and Maya play lookouts.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s him. He’s 20 feet away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know. It’s hard. But there’s a right way to handle this. He’s going to pay for </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina laughs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LIna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is he? Like that? He’s off his nut.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(shaking her head)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He deserves to suffer for what he did.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper leans in for a hug but Lina pulls away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m going to call for a cleanup crew and some Guardians to pickup Mary </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Poppins</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let me go with you, it’s not safe.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No, I’ll be okay. Stay here and watch after the kids. If I need anything, I’ll call.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She gestures towards the magical conch shell on her hip.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper relents.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="7/8" Page="22" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. ancIENT TOMBS, Gregor’s hideout - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper enters to find Emmett and Morgan scouring every inch of the small nook.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor babbles to himself in the background.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It looks like he’s been here for months, surviving solely off of Daemon’s blood.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So he’s Blighted, like the rest of the monsters. He that why he sounds so mad.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Presumably, Ms. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Blackwell...But</Text>
+      <Text> I’ve never heard of Blight having this type of effect on people. There might be </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">som</Text>
+      <Text>—</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Without warning, Harper grabs Gregor and flips him over onto his back. She then drives her boot into his face, knocking him unconscious.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett turns around and jumps up in protest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you doing?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper pulls out some rope and ties his hands together.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She rises and pulls up a small machete off of the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You almost became a folk tale. Emmett the Headless.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett and Morgan turn to look at the unconscious former Guardian.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 1/8" Page="22" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HUNTER COMMAND"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. AnciENT TOMBS, ENTRANCE - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As the sunlight bathes Lina’s skin, she reaches into her bag and pulls out what appears to be a small polished rock with glowing runes etched into it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She puts it to her mouth and starts talking.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LinA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(into communicator)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Shadowcrest Command, this is Huntress </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Machado</Text>
+      <Text> at </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Terran</Text>
+      <Text> Dig Site #692. Reporting in.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The rock begins to pulse and glow as another voice comes from the other side.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Hunter Command</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Proceed, Huntress.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Additional Hunter support has arrived. We’ve proceeded to investigate dig site. We’ve encountered a Daemon, deceased. As well as rogue Celestial Guardian Gregor, who seems to have become Blighted...</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(trailing off)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A hooded figure appears in the bushes just beyond the clearing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina stares directly at them, the figure staring back at her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Hunter command</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Huntress, is that all?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, that’s all to report. Requesting a daemonic cleanup crew and Guardian escorts to </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">retrive</Text>
+      <Text> Gregor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Hunter COMMAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Clearing it with </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Command...Yes</Text>
+      <Text>, ma’am. They’re on their </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">way...ETA:</Text>
+      <Text> 3 hours. Anything else?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Excellent.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HUNTER COMMAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Anything else?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nope. Huntress </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Machado</Text>
+      <Text>, out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She puts away the communicator, still keeping eye contact with the hood figure.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="24" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. AncIENT TOMBS, Gregor’s hideout - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A dazed Gregor awakes with his hands tied behind a stalagmite.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look whose awake.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I needed a nap. The last few months have been sheer exhaustion.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor looks around.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He sees Emmett and Harper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Decided to send the girl away. Thought I was unsafe? How ironic. I suppose you’re right.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, you did just try to kill me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(laughing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Believe me, Loremage. I had and have no interest in you whatsoever. But that girl...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper and Emmett look at each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You called her Blackwell? I presume the daughter of my former boss, Arthur Blackwell. That </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Morganna</Text>
+      <Text> he always used to dribble on about.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What problem could you have with her?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Personally, none. However, you’d all do well to know that she will be the one to bring about the Apocalypse.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And here I thought the lunacy was an act.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh this is no ploy and no rambling. She will bring about the resurrection of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ry’naughk</Text>
+      <Text> and the destruction of both worlds. It’s been </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">prophesized</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>By who? You?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There was a reason I was chosen to join the Celestial Guardians. By </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">foretellings</Text>
+      <Text> came with startling accuracy and we were able to prevent many an atrocity that way.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That may be. But clearly, the Blight has tainted your mind. You’re too far gone to be reliable.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t expect you to believe me. I know what I saw. I know it is coming. And I’ll do what I must to prevent it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, good luck with that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Luck is unnecessary. As you said, I’ve become Blighted. Combined with the strength granted to me by my blessing of Light, there is nothing you can do to stop me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Easy to talk trash with your hands tied.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh this? This was merely a distraction while my lovely pets got into position.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper turns to Emmett who immediately runs outside.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="26" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. ANCIENT TOMBS, SECRET CHAMBER - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett arrives as all three Initiates have been surrounded by a pack of Blight animals, tripping over a branch and stumbling to the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="26" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. ANCIENT TOMBS, GREGOR'S HIDEOUT - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper pulls out her staff.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor’s hands snap free from their bindings and he rises to his feet as his eyes begin to close red.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The kin of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ry’naughk’s</Text>
+      <Text> slayer will resurrect the Daemon Lord and bring upon the Apocalypse. So it is said, so it is written. I shall rewrite it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Over my dead body.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fair enough.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They clash.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="6/8" Page="26" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ancient TOMBS, SECRET CHAMBER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The beasts begin snarling and snapping their teeth as they close in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Initiates)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In a moment, I want you to run. You two keep Morgan safe, they are after her.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General">
+      <DualDialogue>
+        <Paragraph Type="Character">
+          <Text>Morgan</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>What?</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+          <Text>Quentin</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>What?</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There’s no time to explain. Just run when I say run and don’t turn back, so matter what.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They nod.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett places his palms on the ground and his eyes begin to glow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The stones and vines below him begin to turn absorb into his skin, turning it into a hard rock form.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Soon his entire body is appears to be made of stone but he moves as he normally does.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Run!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett lunges towards the pack of animals and starts clubbing them with his fists which have formed into small boulders.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He cries out in exasperation.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SEQUENCE 6</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="27" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. AncieNT TOMBS, GREGOR'S HIDEOUT - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper strikes Gregor in the face.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>When he recovers he is now facing 12 different Harpers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Funny girl.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He throws his hands in the air as his eyes begin to glow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A surge of red energy knocks all 12 Harpers backwards.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let’s play.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="27" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ancient tombs, cave - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Initiates stop running and catch their breath for a moment.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hold </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">on...I</Text>
+      <Text> think we’re safe.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The three of them catch their breath.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Quentin</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What the hell is going on?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maya shakes her head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">crazy...Why</Text>
+      <Text> me?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A scream echoes from behind them. They turn to look.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="28" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. ancient TOMBS, SECRET CHAMBER - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett is being overwhelmed by the Blighted Beasts. He’s on the ground, the rock armor around his skin withering. Cuts and scrapes are starting to appear on his skin.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A wisp of red lightning strikes one of the animals in the side.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina appears, holding her twin hatchets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Filthy beasts.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She crosses her blades together as electricity begins to arc between them. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She jams them both down into the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A giant field of red electricity pools out and strikes each animal several times over their bodies. They yelp and scream as they are toss several yards backwards.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett’s stone form fades and he looks to his savior with joy before he collapses onto the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="28" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. ancient TOMBS, GREGOR'S HIDEOUT - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor and the Harpers are combating each other. He is easily able to keep up with their multiple strikes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They each appear to be getting winded.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He lets out two bursts of energy which knock each Harper backwards and finally onto the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>11 Harpers fade away leaving the real one.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No more games...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He walks over the final Harper and looks down in disappointment.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 7/8" Page="28" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. AnCIENT TOMBS, SECRET CHAMBER - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor enters the secret chamber from his hideout.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What have you done to my pets.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Before he can react, Lina strikes him with two incredibly powerful streams of lightning.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Die you piece of crap.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor turns and laughs, the lightning barely affecting him.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He walks towards her, the streams effortlessly being absorbed into his Blighted energy aura.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He gets close and slaps her across the face, sending her flying.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A giant stone fist slams onto him from above.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett, laying prone across the chamber, grins.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The stonework shatters revealing an unscathed Gregor.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett’s mouth drops.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper enters and starts attacking Gregor once more, blood streaming down her cheek.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>GregoR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Enough!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He grabs her by the throat and tosses her directly into Lina who is charging towards him. They fall to the ground in an unconscious heap.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He walks over and grabs Emmett by the ankle, his face contorted in anger.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Within Gregor’s left hand forms a spear made of dark energy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He sets Emmett down by Harper and Lina.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sick of these games...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He raises the spear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Stop!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor turns. Morgan has appeared outside of the cave.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let them go.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quentin and Maya are hiding in the corner of the chamber, prepared to strike.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m the one you want.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor lowers his spear and walks closer to her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You should know. I don’t want to do this. It’s the prophecy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor moves even closer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can thank your father. It says his child will bring about the End of Days. And I can’t let that happen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor is closing in now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Quentin</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">dipshit</Text>
+      <Text>. Our Dad has TWO kids!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor turns and receives an two energy bolts to the face.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He turns to Morgan and knocks her several feet into the air before turning his attention to his attackers.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quentin and Maya charge him with all of their might.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two of them put up a good fight but they are also easily overwhelmed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan watches from the dirt, wind knocked out of her, as the two are cast aside like rag dolls.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So you must be Quentin. The old man’s other cherub.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(he pulls out his spear with a smile)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Excuse my mirth, I take no pleasure in this. Just find the irony intoxicating.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan, desperate, looks at the knocked out Huntresses and Emmett. She sees Maya struggling to fight back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A tear rolls down her eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She hops up and runs out of frame.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor kicks Maya away from him, knocking away his last opposition.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Quentin</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Go ahead, you dickhead. My Dad will fuck you up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You’re Dad will thank me for ridding the world of his putrid waste.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor prepares to strike as a giant orb of dark energy strikes him in the chest.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He turns to the source and sees Morgan, eyes glowing red, daemon blood dripping from her lips.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(with a daemonic voice)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Leave him alone.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As she finishes the chamber begins to shake as energy surges uncontrollably from her body.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Quentin</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to himself)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Morganna</Text>
+      <Text>, what did you do?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Her link with the Daemon Lord has been forged.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He turns and faces the Blighted Morgan. He grip tightens on the shaft.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan looks at her hands and notices a shield and sword appearing, made of dark energy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor charges her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She moves and counters his strikes effortlessly.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This shall be interesting.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="31" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ancient TOMBS, SECRET CHAMBER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor and Blighted Morgan continue to fight, each moving quickly and powerfully with their strikes powered by a glowing red energy force.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Give it up little girl.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan grimaces.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="5/8" Page="32" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ancient tombs, inner crypt - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor is blasted into the Inner Crypt, crushing the ornate </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">sarcophacus</Text>
+      <Text> inside. He lands on his feet as Morgan floats in through the hole he left.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Their weapons morph into sheer balls of energy which begin to pulse with each breath that they take.</Text>
+    </Paragraph>
+    <Paragraph Type="General">
+      <DualDialogue>
+        <Paragraph Type="Character">
+          <Text>GREGOR</Text>
+        </Paragraph>
+        <Paragraph Type="Parenthetical">
+          <Text>(daemonic voice)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>This ends now.</Text>
+        </Paragraph>
+        <Paragraph Type="Character">
+          <Text>Morgan</Text>
+        </Paragraph>
+        <Paragraph Type="Parenthetical">
+          <Text>(daemonic voice)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue">
+          <Text>This ends now.</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The cast their orbs at each other turning into a giant stream of energy clashing in the center of the room, a la Dragon Ball Z epic energy beam battles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They each grimace and strain as they exert overwhelming effort to release this energy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Sweat rolls down each of their faces.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(whispering to herself)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Can’t hold on.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A hooded figure appears in the middle of the room, next to the meeting point of energies.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>SEQUENCE 8</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 1/8" Page="32" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ancient tombs, secret chambER - night</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina wakes up to Harper standing over her.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you okay?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina hops to her feet and surveys the situation.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where is he?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They look around and see Emmett, unconscious on the ground, covered in claw marks with torn clothes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They rush over to him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Take care of him, I’m going to look for the others.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina crouches and starts pulling out bandages for his wounds. She notices the crystal inside is glowing. She tosses it to Harper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LIna</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think the support team arrived.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper catches it and turns to head outside.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She notices Quentin and Maya laid on the ground on the other side of the chamber.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She checks their vitals, relaxing upon realizing they are just knocked out. She stirs them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where is Morgan and Gregor?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quentin is groggy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Quentin</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(groggy)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">No...Morgan</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He struggles to stand but loses his balance. Harper grasps him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Calm down. What happened?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quentin begins to cry.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Look up there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maya points out a hole in the roof of the chamber, one that hadn’t been there before. Light is peeking through.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper leaves and runs back to the Inner Crypt.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="33" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Ancient TOMBS, Inner CRYPT - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper walks into the broken Inner Crypt and finds Morgan and Gregor both lying on the ground, unconscious. She sees the broken sarcophagus and nothing else.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 2/8" Page="34" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ancient tombs, entrance - night</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>There are about two dozen mages gathered around the entrance of the tombs, filing in and out of the small archway. Some dressed in combat suits while others have on the robes of researchers (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Loremages</Text>
+      <Text>).</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quentin and Maya are having their wounds tended by the clerics.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The others have gathered at a fire nearby.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VENJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And so, he’ll be returned to the council where he will face tribunal.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She nods to Aiko who leads a manacled Gregor away, his eyes glowing white and unaware of the world around him.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Arch-Huntress turns to Harper and Lina.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Venji (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>All things considered, you’ve done good work.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This got way out of hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No kidding.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She turns her head to a small tent that has a appeared across the way with a red cross on it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Out of the tent walks Emmett, bandaged and limping. He walks toward them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I just want to know what the hell happened in there.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett arrives and stands next to the Arch-Huntress.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VenJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We’ll have to ask the girl when she wakes up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(sighing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There may be a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">problem...The</Text>
+      <Text> clerics say that she is in a coma.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The other three look down in despair.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Emmett (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They don’t know when or if she’ll wake up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper turns to Quentin and Maya, both laughing distantly on stretchers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Venji</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That’s unfortunate. But we have to find out what happened to that daemon.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1/8" Page="35" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Ancient tombS, SECRET CHAMBER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The chamber is filled with </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">loremages</Text>
+      <Text> and Hunters. The pool of blood is there but the daemon who made it is missing.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="35" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Dark room</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>We see the daemon corpse from earlier, vertical slash marks with blood still oozing out of it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Standing above is the hooded Dark Mage.</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Last Revised"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="210" Selection="34728,34728" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Script Title</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Written by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Name of First Writer</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Based on, If Any</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Address</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phone Number</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <UnanchoredScriptNotes/>
+
+  <SmartType>
+    <Characters>
+      <Character>Harper</Character>
+      <Character>Businessman</Character>
+      <Character>Harperf</Character>
+      <Character>AIKo</Character>
+      <Character>Arch-huntress</Character>
+      <Character>Quentin</Character>
+      <Character>MAYA</Character>
+      <Character>VENJI</Character>
+      <Character>Emmett</Character>
+      <Character>Morgan</Character>
+      <Character>Lina</Character>
+      <Character>Gregor</Character>
+      <Character>Hunter Command</Character>
+      <Character>Quentin4</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+      <SceneIntro>SEQ</SceneIntro>
+      <SceneIntro>HARPER IS INJURED WHILE ON ASSIGNMENT AND LEARNS SHE IS PREGNANT AFTER GOING TO SEE THE CLERICS</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>1 (1</Location>
+      <Location>SHE IS VERY EXCITED BUT ALSO HEARTBROKEN BY THE THOUGHT OF HAVING TO LEAVE SHADOWCREST BEHIND SINCE HER BOYFRIEND IS HUMAN.</Location>
+      <Location>ELEVATOR SHAFT</Location>
+      <Location>SKYSCRAPER, BATHROOM</Location>
+      <Location>SKYSCRAPER, ELEVATOR SHAFT</Location>
+      <Location>SKYSCRAPER, ROOFTOP</Location>
+      <Location>2 (8</Location>
+      <Location>SHADOWCREST, HUNTER COMMONS</Location>
+      <Location>HUNTER'S COMPOUND, ADMIN</Location>
+      <Location>ANCIENT TOMBS, LOREMAGE CAMP</Location>
+      <Location>ANCIENT TOMBS, ENTRANCE</Location>
+      <Location>ANCIENT TOMBS, SECRET CHAMBER</Location>
+      <Location>ANCIENT TOMBS, CAVE</Location>
+      <Location>ANCIENT TOMBS, CRYPT</Location>
+      <Location>ANCIENT TOMBS, ENTRACE</Location>
+      <Location>SKYSCRAPER, ELEVATOR</Location>
+      <Location>SKYSCRAPER, 88TH FLOOR</Location>
+      <Location>88TH FLOOR</Location>
+      <Location>HUNTER'S COMPOUND, COMMONS</Location>
+      <Location>SHADOWCREST, APEX - COMMONS</Location>
+      <Location>SHADOWCREST, APEX</Location>
+      <Location>ANCIENT TOMBS, GREGOR'S HIDEOUT</Location>
+      <Location>ANCIENT TOMBS, INNER CRYPT</Location>
+      <Location>UNKNOWN LOCATION</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>7)</TimeOfDay>
+      <TimeOfDay>15)</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>H</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowAllMarks="No" ShowAllSets="No" ShowPageColor="No">
+    <Revision Color="#000000000000" FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision Color="#000000000000" FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="625">
+    <ScriptPanel DisplayMode="Speed">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="Man 1" Character="Harper"/>
+    <Member Actor="Man 1" Character="Businessman"/>
+    <Member Actor="Man 1" Character="Harperf"/>
+    <Member Actor="Man 1" Character="AIKo"/>
+    <Member Actor="Man 1" Character="Arch-huntress"/>
+    <Member Actor="Man 1" Character="Quentin"/>
+    <Member Actor="Man 1" Character="MAYA"/>
+    <Member Actor="Man 1" Character="VENJI"/>
+    <Member Actor="Man 1" Character="Emmett"/>
+    <Member Actor="Man 1" Character="Morgan"/>
+    <Member Actor="Man 1" Character="Lina"/>
+    <Member Actor="Man 1" Character="Gregor"/>
+    <Member Actor="Man 1" Character="Hunter Command"/>
+    <Member Actor="Man 1" Character="Quentin4"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="AIKO" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ARCH-HUNTRESS" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="BUSINESSMAN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="EMMETT" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="GREGOR" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="HARPER" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="HUNTER COMMAND" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="LINA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="MAYA" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="MORGAN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="QUENTIN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="VENJI" Visible="No"/>
+  </CharacterHighlighting>
+
+  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order"/>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
+    <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+  </DisplayBoards>
+
+</FinalDraft>
