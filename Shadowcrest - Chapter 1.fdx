@@ -2,14 +2,22 @@
 <FinalDraft DocumentType="Script" Template="No" Version="3">
 
   <Content>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Fade in:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 1 - Harper learns she is pregnant. She and Aiko capture a daemon who has been posing as an investment banker. ]</Text>
+    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="1" Title="">
+      <SceneProperties Length="2/8" Page="1" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>INT. SKYSCRAPER, BATHROOM - DAY</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>HARPER (late 20s), stares at herself in a large bathroom mirror.</Text>
+      <Text>HARPER (late </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">20s</Text>
+      <Text>), stares at herself in a large bathroom mirror.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She takes a deep breath. A smile forms but soon fades.</Text>
@@ -79,11 +87,6 @@
       <Text>I have no idea what’s going on.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>[</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">find</Text>
-      <Text> a better way to setup this fight]</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
       <Text>The daemon rises to it’s feet and laughs.</Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -132,7 +135,7 @@
       <Text>She lands on an elevator car below and hurls another ball of energy at the daemon who flies backwards into the wall of the elevator shaft.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="2" Title="">
+      <SceneProperties Length="2/8" Page="2" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Skyscraper, 88th floor - day</Text>
@@ -141,7 +144,7 @@
       <Text>The maintenance worker is oblivious, listening to his music, as the entire floor shakes and a picture falls off the wall behind him.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="2" Title="">
+      <SceneProperties Length="1/8" Page="3" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. skyscraper, EleVATOR SHAFT - day</Text>
@@ -150,8 +153,13 @@
       <Text>The daemon recovers and uses the wall to launch himself at Harper, tackling her as he flies up the elevator shaft with her slung over his shoulder.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="3" Title="">
-        <SceneArcBeats/>
+      <SceneProperties Length="5/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ARCH-HUNTRESS"></CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+          <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
+        </SceneArcBeats>
       </SceneProperties>
       <Text>EXT. SKYSCRAPER, ROOFTOP - DAY</Text>
     </Paragraph>
@@ -165,9 +173,7 @@
       <Text>An radiant arrow pierces the daemon’s chest.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>On the rooftop below, we see AIKO (early </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">30s</Text>
-      <Text>) holding a bow made of pure energy. Standing next to her is Harper.</Text>
+      <Text>On the rooftop below, we see AIKO (early 30s) holding a bow made of pure energy. Standing next to her is Harper.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The daemon grabs the Harper over his shoulder as she dematerializes with a smile.</Text>
@@ -182,9 +188,7 @@
       <Text>Struggling for air, the wounded daemon stares as Harper and Aiko stand over it.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>[</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">insert</Text>
-      <Text> witty banter]</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 2 - Harper asks Aiko to handle the corpse while she goes to dinner with Dante. Dante starts to propose but stops, rattled by something Harper says. Meanwhile, Venji introduces Maya and Quentin to the Apex and lays out their final year of training for them. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="5/8" Page="3" Title="">
@@ -209,9 +213,7 @@
     <Paragraph Type="Action">
       <Text>The Arch-Huntress VENJI </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">ASAHD</Text>
-      <Text> (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">50s</Text>
-      <Text>, fit) stands in front of them, long flowing black hair jostling in the wind. (</Text>
+      <Text> (50s, fit) stands in front of them, long flowing black hair jostling in the wind. (</Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">WTF</Text>
       <Text>?)</Text>
     </Paragraph>
@@ -247,7 +249,7 @@
       <Text>Alright, let’s begin.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 5/8" Page="4" Title="">
+      <SceneProperties Length="3 1/8" Page="4" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -310,6 +312,11 @@
     </Paragraph>
     <Paragraph Type="Action">
       <Text>They turn and follow her into an office.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 3 - Harper arrives at Shadowcrest to debrief with Venji and Aiko about the last assignment. She is then sent to support a Loremage dig on Terra, with Maya and Quentin sent to shadow her. Aiko is sent to help the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Archmage</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold"> on a special assignment. ]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>ADMIN</Text>
@@ -412,9 +419,7 @@
       <Text>HarPER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Yeah, they’re both friends of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Lina’s</Text>
-      <Text>.</Text>
+      <Text>Yeah, they’re both friends of Lina’s.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VenJI</Text>
@@ -489,8 +494,20 @@
     <Paragraph Type="Dialogue">
       <Text>Alright then. Set out and good luck.</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 4 - The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Archmage</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold"> asks Aiko to investigate items that have disappeared from the Guardian Vault. She agrees and then asks why she was chosen to become a Guardian. He explains that he has noticed she always does what is right, regardless of her personal feelings. ]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 5 - Harper and the Initiates arrive at the dig site. They eat </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">s’mores</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold"> and reminisce. They meet up with Lina the next morning. Harper and her talk about </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Matti</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">. ]</Text>
+    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1" Page="6" Title="">
+      <SceneProperties Length="1" Page="7" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -503,9 +520,7 @@
       <Text>A butterfly lands on a wild tulip.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Crouching above it are Emmett (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">30s</Text>
-      <Text>, nerdy) and Morgan (19).</Text>
+      <Text>Crouching above it are Emmett (30s, nerdy) and Morgan (19).</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
@@ -579,7 +594,7 @@
       <Text>You too. Now let’s head back to camp, sun’s going down soon.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 6/8" Page="7" Title="">
+      <SceneProperties Length="2 7/8" Page="8" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -685,9 +700,7 @@
     <Paragraph Type="Dialogue">
       <Text>Speaking of </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
-      <Text>, how’s </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Lina</Text>
-      <Text> doing?</Text>
+      <Text>, how’s Lina doing?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>EmmeTT</Text>
@@ -829,7 +842,7 @@
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="10" Title="">
+      <SceneProperties Length="4/8" Page="11" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
         </SceneArcBeats>
@@ -852,15 +865,13 @@
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Great, everyone’s awake. I’m scouting ahead to link up with </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Lina</Text>
-      <Text>. Meet you guys at the dig site.</Text>
+      <Text>Great, everyone’s awake. I’m scouting ahead to link up with Lina. Meet you guys at the dig site.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>A half-awake Emmett nods as everyone tries to get their bearings.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4" Page="11" Title="">
+      <SceneProperties Length="4 2/8" Page="11" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -1120,14 +1131,16 @@
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How’d</Text>
-      <Text> a Daemon end up out here?</Text>
+      <Text>How’d a Daemon end up out here?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>No telling.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 6 - As they are searching the ruins, Harper and the team are attacked by Blighted Beasts ]</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>A scream tear through the woods.</Text>
@@ -1337,7 +1350,7 @@
       <Text>Let’s move.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 5/8" Page="17" Title="">
+      <SceneProperties Length="1 6/8" Page="17" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -1478,15 +1491,13 @@
       <Text>Lina chops away at the vines and the all enter.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 7/8" Page="19" Title="">
+      <SceneProperties Length="6/8" Page="19" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
-          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+          <CharacterArcBeat Name=""></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
           <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
-          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
       <Text>Int. Ancient tombs, secret chamber - day</Text>
@@ -1533,6 +1544,28 @@
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Well, we know how they became Blighted.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 7 - Aiko questions the vault’s guards and learns that one of them has been stealing goods and selling them on the black market. ]</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 8 - Harper and the others discover a Daemon corpse along with Gregor, a Fallen Guardian who has been missing for several years. He appears deranged, having been living off of Daemon blood for several months. ]</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 4/8" Page="20" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Ancient tombs, SECRET CHAMBER</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>EmmetT</Text>
@@ -1657,7 +1690,7 @@
       <Text>I know you. We tried to kill each other once. Funny, would you like some tea?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="20" Title="">
+      <SceneProperties Length="4/8" Page="21" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -1696,7 +1729,7 @@
       <Text>It’s oh so refreshing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="21" Title="">
+      <SceneProperties Length="6/8" Page="22" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -1766,7 +1799,7 @@
       <Text>Harper relents.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="7/8" Page="22" Title="">
+      <SceneProperties Length="1" Page="22" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -1830,8 +1863,13 @@
     <Paragraph Type="Action">
       <Text>Emmett and Morgan turn to look at the unconscious former Guardian.</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 9 - Lina goes to call in for back up; she notices the Dark Mage lurking nearby. Gregor breaks free upon learning that Morgan is the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Archmage’s</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold"> daughter. He and a group of blighted beasts attack. ]</Text>
+    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 1/8" Page="22" Title="">
+      <SceneProperties Length="1 2/8" Page="23" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HUNTER COMMAND"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -2074,7 +2112,7 @@
       <Text>Harper turns to Emmett who immediately runs outside.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="26" Title="">
+      <SceneProperties Length="2/8" Page="26" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. ANCIENT TOMBS, SECRET CHAMBER - day</Text>
@@ -2083,7 +2121,7 @@
       <Text>Emmett arrives as all three Initiates have been surrounded by a pack of Blight animals, tripping over a branch and stumbling to the ground.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="26" Title="">
+      <SceneProperties Length="6/8" Page="26" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2120,10 +2158,22 @@
     <Paragraph Type="Action">
       <Text>They clash.</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 10 - Aiko arrests the Guard and learns that a client has been erased from his memory. The same client who purchased all of the stolen daemon artifacts. The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Archmage</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold"> suggests it may be a Hunter who is practicing </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">daemonology</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">. ]</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">
+[ Seq. 11 - Gregor has defeated the entire team. After he learns Quentin’s identity, he is preparing to kill him when Morgan drinks the Daemon’s blood, becoming Blighted, and battles Gregor. They are on the verge of destroying one another when the Dark Mage appears. ]</Text>
+    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="26" Title="">
+      <SceneProperties Length="6/8" Page="27" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
           <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
         </SceneArcBeats>
@@ -2188,15 +2238,10 @@
     <Paragraph Type="Action">
       <Text>He cries out in exasperation.</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text>SEQUENCE 6</Text>
-    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="27" Title="">
+      <SceneProperties Length="3/8" Page="28" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
-          <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
-          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
       <Text>Int. AncieNT TOMBS, GREGOR'S HIDEOUT - day</Text>
@@ -2226,7 +2271,7 @@
       <Text>Let’s play.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="27" Title="">
+      <SceneProperties Length="4/8" Page="28" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
           <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
@@ -2269,7 +2314,7 @@
       <Text>A scream echoes from behind them. They turn to look.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="28" Title="">
+      <SceneProperties Length="4/8" Page="29" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
         </SceneArcBeats>
@@ -2304,7 +2349,7 @@
       <Text>Emmett’s stone form fades and he looks to his savior with joy before he collapses onto the ground.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="28" Title="">
+      <SceneProperties Length="3/8" Page="29" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -2333,7 +2378,7 @@
       <Text>He walks over the final Harper and looks down in disappointment.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 7/8" Page="28" Title="">
+      <SceneProperties Length="3" Page="29" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -2573,7 +2618,7 @@
       <Text>This shall be interesting.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="31" Title="">
+      <SceneProperties Length="2/8" Page="32" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -2593,7 +2638,7 @@
       <Text>Morgan grimaces.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="32" Title="">
+      <SceneProperties Length="6/8" Page="33" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
@@ -2609,7 +2654,7 @@
     <Paragraph Type="Action">
       <Text>Their weapons morph into sheer balls of energy which begin to pulse with each breath that they take.</Text>
     </Paragraph>
-    <Paragraph Type="General">
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General">
       <DualDialogue>
         <Paragraph Type="Character">
           <Text>GREGOR</Text>
@@ -2653,10 +2698,10 @@
       <Text>A hooded figure appears in the middle of the room, next to the meeting point of energies.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>SEQUENCE 8</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 12 - Everyone wakes up and find Gregor and Morgan unconscious and the daemon corpse missing. The Guardians arrest Gregor and we learn Morgan is in a coma. We see the Dark Mage at his lair with the Daemon corpse. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 1/8" Page="32" Title="">
+      <SceneProperties Length="1 2/8" Page="33" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -2758,7 +2803,7 @@
       <Text>Harper leaves and runs back to the Inner Crypt.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="33" Title="">
+      <SceneProperties Length="1/8" Page="35" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient TOMBS, Inner CRYPT - day</Text>
@@ -2767,7 +2812,7 @@
       <Text>Harper walks into the broken Inner Crypt and finds Morgan and Gregor both lying on the ground, unconscious. She sees the broken sarcophagus and nothing else.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="34" Title="">
+      <SceneProperties Length="1 2/8" Page="35" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2869,7 +2914,7 @@
       <Text>That’s unfortunate. But we have to find out what happened to that daemon.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="35" Title="">
+      <SceneProperties Length="1/8" Page="36" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient tombS, SECRET CHAMBER</Text>
@@ -2880,7 +2925,7 @@
       <Text> and Hunters. The pool of blood is there but the daemon who made it is missing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="35" Title="">
+      <SceneProperties Length="2/8" Page="36" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Dark room</Text>
@@ -2938,7 +2983,7 @@
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="210" Selection="34728,34728" ShowInvisibles="No"/>
+  <TextState Scaling="212" Selection="2407,2407" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -3175,7 +3220,431 @@
     <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
   </TitlePage>
 
-  <UnanchoredScriptNotes/>
+  <UnanchoredScriptNotes>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T224857" DateTime="20181019T223221" Name="Harper's Pregnancy Test" Type="Plot">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Find a place to mention it. Either in this episode or later.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Maybe Aiko discovers it after going back to the building to clean-up memories.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Maybe a flashback later on which expands on the opening shot.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T231728" DateTime="20181019T223603" Name="Diversity of Magic" Type="Setting">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Go in depth with each character to establish what their powers are. </Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Color, texture, limitations, source, presentation and capabilities.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Use user's magic should be unique to them and their personality.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Also, what are the different types of mages?</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T224459" DateTime="20181019T223812" Name="Use Unique Designations and Descriptors" Type="Writing">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Avoid explicitly DND type designations like "Radiant"</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T223257" DateTime="20181022T222305" Name="Consistent Sluglines" Type="Writing">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Use Sub-location slugs.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T223319" DateTime="20181022T222507" Name="Expand Opening Sequence" Type="Plot">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">More interesting building to the fight.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Have Harper undercover and address the daemon before attacking it.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T223707" DateTime="20181022T223417" Name="Underworld Smuggler" Type="Plot">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">A member of the Shadowcrest organization has been selling access between the worlds. Aiko learns of this while on a special assignment from the Arch-Mage to investigate where the disappearances of Daemon corpses they have locked in a vault.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T223844" DateTime="20181022T223805" Name="Diversity of Daemons" Type="Setting">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Different types with varied abilities.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T230227" DateTime="20181022T224017" Name="Initiates" Type="Setting">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">What is an Initiate?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How does one become an Initiate?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How many other Initiates are there?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Where do they live?</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T230941" DateTime="20181022T224206" Name="Hierarchy" Type="Setting">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Structure</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Rules</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Customs</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Traditions</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">(The Hunters are a military-like branch so rigor and hierarchy are enforced. Salutes, standing at a attention, etc.)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">(The Loremages are a scientific-based branch. They operate like scientists in a lab. More casual. Debate and consensus are encouraged.)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">(The Guardians are a mini-pantheon of Godlike beings. They hold themselves to the highest standards and moral esteem.)</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T224844" DateTime="20181022T224253" Name="Arch-Huntress Venji Asahd" Type="Character">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Backstory</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Skills</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Relationship to Arthur</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Relationship to Harper</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Harper being groomed to replace her</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T231526" DateTime="20181022T224504" Name="Shadowcrest Facilities" Type="Setting">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- The Apex (Hunter Facilities)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- (The Loremage Facilities)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- (The Guardian Facilities)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Where do families live?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Where do the children live while studying?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Do just Initiates live in the facilities?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- What do the different buildings look like?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- What does the area around Shadowcrest look like? (It's built above the former lair of Ry'naughk.)</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T230315" DateTime="20181022T224824" Name="The Magical World" Type="Setting">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Change the name from Hydor to something less stupid sounding.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Also create a demonym.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T225035" DateTime="20181022T224934" Name="Pin down personality types" Type="Character">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Harper</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Aiko</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Clancy</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Morgan</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Quentin</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">- Maya</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T225903" DateTime="20181022T225035" Name="Audience / Pre-Teen and Up" Type="Writing">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Accessible to pre-teens but edgy and smart enough for adults to be interested.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">For example: Voltron: Legendary Defender, Young Justice.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T231424" DateTime="20181022T231135" Name="Description of the Magical World" Type="Setting">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">What are the distinctive characteristics that make the magical world distinct from our own?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Color of the sky? Color of the oceans?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Local flora and fauna?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The different and their homes?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Citys and towns?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Farmland? What do they grow?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">What kind of animals do they domesticate? What do they look like?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Relationships between the different races?</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T231900" DateTime="20181022T231805" Name="Portals" Type="Setting">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How do the portals work? Where are they located? Are they the only portals between the world? Are there othere ways to travel between worlds without portals?</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T232202" DateTime="20181022T232001" Name="Foreshadow Maya's Werewolfiness" Type="Character">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Have her notice things before others due to her heightened senses.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Have someone give her a piece of silver jewelry which she is afraid to handle.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T232314" DateTime="20181022T232238" Name="The Blight" Type="Plot">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">What is it?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How does one contract it?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How does one control it?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How does one get rid of it?</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T232407" DateTime="20181022T232333" Name="History of Daemons and Ry'naughk" Type="Setting">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">What happened to the Daemon's after the death of Ry'naughk?</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T232600" DateTime="20181022T232443" Name="Blighted Gregor" Type="Character">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How did Gregor end up in the cave?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Why did Gregor end up drinking the Daemon's blood?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How is he able to control the animals?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How does the Blight mix with his Blessing of Light?</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T232741" DateTime="20181022T232702" Name="Communicators" Type="Setting">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How do they work?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Who is on the other end?</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T233139" DateTime="20181022T232741" Name="Magical Flashlights / Electromagnetic Daemon" Type="Setting">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Why don't they just use regular flashlights in the human world?</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Oh, Emmett forgot to pick up batteries (because he's not used to human tech) so they have to use their magical lights.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">But then Harper was prepared and picked some up with the smores.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">While entering the cave, they notice electrical interference is causing the flashlights to short out (causing the jaguars to get the drop on them.) </Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">It's due to the daemon being an electromagnetic-type of daemon.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">This means all of the Blighted creatures from him have some type of electromagnetic powers, including Morganna, afterwards.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T233257" DateTime="20181022T233226" Name="Why does it take so long for Shadowcrest Command to arrive" Type="Plot">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Maybe there is a hydra attack in the Magical world and everyone is busy.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T233455" DateTime="20181022T233422" Name="Lina's POwer can't be Electricity" Type="Character">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Not if the Daemon blight gives Morgan EM powers.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T234339" DateTime="20181022T233459" Name="The Dark Mage" Type="Plot">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">He should be introduced earlier in the investigation of Aiko.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">She investigates the missing Daemon corpses for Arther.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Finds the guard on the Daemon Vault has been taking bribes in exchange for leaving the vault unguarded at various times.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Aiko learns that Lina has been seen around the vaults each time a Daemon corpse has gone missing.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Why is the Dark Mage Collecting Corpses?</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#000000000000" DateModified="20181022T234323" DateTime="20181022T234239" Name="Electromagnetic Daemon" Type="Plot">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The Daemon they encounter is an electromagnetic daemon and the blight it produces have EM powers. This should be a significant aspect.</Text>
+      </Paragraph>
+    </ScriptNote>
+    <ScriptNote Author="" Color="#FFFF00000000" DateModified="20181023T002015" DateTime="20181023T000033" Name="Outline" Type="Writing">
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">FIRST DRAFT REVERSE OUTLINE</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">1. Fight Daemon in the Skyscraper (1-3)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">2. Arch-Huntress assigns Initiates to Harper in the Apex (3-6)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">3. Rendezvous with Emmett's party at Ancient Ruins (6-13)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">4. Search Ancient Ruins (13-19)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">5. Find Daemon Corpose and Gregor (19-25)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">6. Gregor defeats the team (25-31)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">7. Morgan drinks the Daemon Blood and they are knocked out (31-33)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">8. Help Arrives / Aftermath (33-35)</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">NEW OUTLINE</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">1. Opening Sequence: Huntresses confront Daemon in Manhattan</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">2. Venji assigns the Initiates to Harper</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">3. Arthur asks Aiko to investigate the missing Daemon corpses</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">4. Harper and the Initiates rendezvous with Emmett's team</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">5. Team is ambushed by Blighted Beasts</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">6. Team finds Daemon corpse along with Gregor</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">7. </Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">8. </Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">9. </Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">10. Gregor and Blighted Beasts Attack</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">11. Morgan becomes Blighted / Morgan-Gregor Battle</Text>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">12. Help Arrives / Aftermath</Text>
+      </Paragraph>
+    </ScriptNote>
+  </UnanchoredScriptNotes>
 
   <SmartType>
     <Characters>
@@ -3233,6 +3702,7 @@
       <Location>ANCIENT TOMBS, GREGOR'S HIDEOUT</Location>
       <Location>ANCIENT TOMBS, INNER CRYPT</Location>
       <Location>UNKNOWN LOCATION</Location>
+      <Location>ANCIENT TOMBS, MEADOW</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -3292,8 +3762,8 @@
     <Revision Color="#000000000000" FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
   </Revisions>
 
-  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="625">
-    <ScriptPanel DisplayMode="Speed">
+  <SplitState ActivePanel="1" SplitMode="None" SplitterPosition="1358">
+    <ScriptPanel DisplayMode="Page">
       <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Verdana" RevisionID="0" Size="9" Style=""/>
     </ScriptPanel>
   </SplitState>
@@ -3584,6 +4054,7 @@
   </CastList>
 
   <CharacterHighlighting>
+    <Character Color="#FFFFFFFFFFFF" Name="" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="AIKO" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="ARCH-HUNTRESS" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="BUSINESSMAN" Visible="No"/>
@@ -3598,7 +4069,13 @@
     <Character Color="#FFFFFFFFFFFF" Name="VENJI" Visible="No"/>
   </CharacterHighlighting>
 
-  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order"/>
+  <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order">
+    <Column Width="50">Order</Column>
+    <Column Width="50">Title</Column>
+    <Column Width="64">Location</Column>
+    <Column UserType="CharacterColumnType" Width="62">HARPER</Column>
+    <Column UserType="CharacterArcColumnType" Width="97">HARPER</Column>
+  </CharacterNavigatorPreferences>
 
   <AltCollection/>
 
@@ -3607,8 +4084,8 @@
   <ListItems/>
 
   <DisplayBoards>
-    <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
     <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
   </DisplayBoards>
 
 </FinalDraft>
