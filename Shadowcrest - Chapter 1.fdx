@@ -5,193 +5,349 @@
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Fade in:</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 1 - Harper learns she is pregnant. She and Aiko capture a daemon who has been posing as an investment banker. ]</Text>
-    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="1" Title="">
-        <SceneArcBeats/>
+      <SceneProperties Length="3 3/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ACCOUNTANT"></CharacterArcBeat>
+          <CharacterArcBeat Name="ARCH-HUNTRESS"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
+          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
+          <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
+          <CharacterArcBeat Name="WESTMORELAND"></CharacterArcBeat>
+        </SceneArcBeats>
       </SceneProperties>
-      <Text>INT. SKYSCRAPER, BATHROOM - DAY</Text>
+      <Text>INT. westeros financial - DAY</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>HARPER (late </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">RESTROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>HARPER EVANS (late </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">20s</Text>
-      <Text>), stares at herself in a large bathroom mirror.</Text>
+      <Text>, auburn-hair pulled into a bun) stares into large mirror of the ladies room.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She takes a deep breath. A smile forms but soon fades.</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="1" Title="">
-        <SceneArcBeats/>
-      </SceneProperties>
-      <Text>Int. Skyscraper, 88th floor - day</Text>
+    <Paragraph Type="Action">
+      <Text>88TH FLOOR</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A young INVESTMENT BANKER walks past an empty slew of cubicles. A maintenance worker vacuums while nodding his head to the music in his headphones.</Text>
+      <Text>A slick investment banker named CHUCK WESTMORELAND rushes past an empty slew of cubicles. A maintenance worker vacuums while listening to music on his headphones.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He taps his foot against the marble floors as an empty elevator car opens up in front of him.</Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="7/8" Page="1" Title="">
-        <SceneArcBeats>
-          <CharacterArcBeat Name="BUSINESSMAN"></CharacterArcBeat>
-          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
-        </SceneArcBeats>
-      </SceneProperties>
-      <Text>Int. SKYSCRAPER, elevator - DAY</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The banker is alone. He checks his watch.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>A lip presses close to his ear.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>HaRPER</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Peek-a-boo.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>A silver metal staff smacks the back of the banker’s legs and he falls down.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Harper stands over him, staff pressed against his chest.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Harper (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>We can do this the easy way or the hard way. I’ll admit, I kind of like the hard way.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>BusinesSMAN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Wha</Text>
-      <Text>—? Who the hell are you?!</Text>
+      <Text>He stops in the elevator bay where Harper waits in a long black skirt and horn-rimmed glasses. He checks his watch.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Don’t act stupid. We both know how this ends. Give up now.</Text>
+      <Text>These things take forever sometimes.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Businessman</Text>
+      <Text>WesTMORELAND</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I have no idea what’s going on.</Text>
+      <Text>Yeah, they shut down all but one after 6. The cheap bastards.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The daemon rises to it’s feet and laughs.</Text>
+      <Text>She smiles at him.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A stony-green hand grabs Harper by the throat and lifts her off the ground.</Text>
+      <Text>The elevator arrives.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper clasps her hands together and pushes a blast of energy into the beasts chest. The two of them fly apart, the monster tearing through the metal side of the elevator.</Text>
+      <Text>ELEVATOR</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper is pushed to the other side but quickly grabs her staff and jumps into the shaft after it.</Text>
+      <Text>As the door starts to close, a female ACCOUNTANT calls out.</Text>
     </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="2" Title="">
-        <SceneArcBeats/>
-      </SceneProperties>
-      <Text>INT. SKYSCRAPER, ELEVATOR SHAFT - DAY</Text>
+    <Paragraph Type="Character">
+      <Text>Accountant</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(rushing to elevator)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hold the door.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Westmoreland pokes the door close button repeatedly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The door closes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Westmoreland</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Aw</Text>
+      <Text>, shoot. Guess I pressed the wrong button.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He turns to give Harper a sly wink. She smirks back at him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>WesTMORELAND (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don’t think we’ve met before.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m Harper. Doing some consulting work for the legal team.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>WesTMORELAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Charles Westmoreland the third. Everyone calls me Chuck. Pleased to meet you, Harper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I bet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>WestmorELAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s that supposed to mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She bobs her head from side to side.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ve heard some things about Charles Westmoreland the third.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>WestMORELAND</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh yeah? Someone telling tales out of school?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I mean, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">y’know</Text>
+      <Text>. A couple friends of mine. Liz Connors. Brenda Albright.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(cold)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They say you’ve got a secret.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He looks confused.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The emergency stop engages itself.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A lip presses close to his ear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (CONT’D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well I’ve got a secret too.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Westmoreland turns to find himself alone in the elevator with her purse. She has disappeared. He begins to laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He gets tripped on his back. Harper stands over him with a silver staff pressed against his chest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Westmoreland</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Want to play games, witch. Let’s play.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Westmoreland’s skin begins to pulsate and shift like worms are moving beneath it. The color changes to a grey-green as his hands turn to giant claws.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The GREEN DAEMON now pushes the staff aside and stands up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper watches as it grows and grows until it’s over 8 feet tall, head almost breaching the roof of the elevator.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She slings the staff over her shoulder. It shrinks to a quarter of it’s original length. She assumes a combat stance.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A stone-like hand grabs Harper’s throat and lifts her off the ground.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper clasps her hands together and a blast of energy leaps from her knuckles. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two of them fly apart, the monster tearing through the metal siding of the elevator.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper slams into the wall behind her, then follows the beast into the shaft.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ELEVATOR SHAFT</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Harper balances on a beam between elevator tracks. She looks around.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The shaft is mostly shadows with plenty of spots for the daemon to hide.</Text>
+      <Text>The shaft is filled with shadows with the occasional streak of light.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A couple elevators are still moving.</Text>
+      <Text>Harper closes her eyes and takes a breath.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper closes her eyes and focuses.</Text>
+      <Text>ASTRAL PLANE: </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Her vision shifts to the astral plane where she can sense the consciousness of those around her.</Text>
+      <Text>- Harper’s vision leaves her body. She hovers around herself for a moment, glancing around. She can hear daemonic whispers and thoughts nearby and turns to a shadow up above.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lurking in a shadow above, she can see through the eyes of the daemon as he leaps down, ready to smash her with his giant fists.</Text>
+      <Text>- Her vision zooms into show the daemon gripping a metal beam in the darkness.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper dodges the strike and starts counter-attacking with her staff.</Text>
+      <Text>- She can now see through the daemon’s eyes as it leaps down towards her. Harper can see herself open her eyes which are glowing white for a split-second.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The two of them exchange blows for a while on the beam.</Text>
+      <Text>END OF ASTRAL PLANE</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The daemon lunges forward and shoulders Harper off.</Text>
+      <Text>Harper sidesteps the blow and begins counter-attacking with her staff.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She lands on an elevator car below and hurls another ball of energy at the daemon who flies backwards into the wall of the elevator shaft.</Text>
+      <Text>The two of them exchange a quick flurry of blows on the beam before the daemon lunges forward and shoulders her off.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She lands on an adjacent elevator car. She catches her breath and then hurls another ball of energy at the daemon who flies backwards into the wall of the elevator shaft.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>88TH FLOOR</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The maintenance worker is oblivious, listening to his music, as a picture falls off the wall behind him.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ELEVATOR SHAFT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The daemon recovers and dangles from a nearby beam.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>It lets out a horrendous screech as a pair of black wings sprout from it’s back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>It then uses the wall to launch itself towards Harper who tries to dive out of the way. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>One of it’s talons grabs her by the ankle and it proceeds to fly up and out of the elevator shaft.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="2" Title="">
-        <SceneArcBeats/>
-      </SceneProperties>
-      <Text>Int. Skyscraper, 88th floor - day</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The maintenance worker is oblivious, listening to his music, as the entire floor shakes and a picture falls off the wall behind him.</Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="3" Title="">
-        <SceneArcBeats/>
-      </SceneProperties>
-      <Text>Int. skyscraper, EleVATOR SHAFT - day</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The daemon recovers and uses the wall to launch himself at Harper, tackling her as he flies up the elevator shaft with her slung over his shoulder.</Text>
-    </Paragraph>
-    <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="3" Title="">
+      <SceneProperties Length="7/8" Page="4" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="ARCH-HUNTRESS"></CharacterArcBeat>
-          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
-          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
-          <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
+          <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>EXT. SKYSCRAPER, ROOFTOP - DAY</Text>
+      <Text>Ext. westerOS FINANCIAL rooftop - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The daemon breaks through the ventilation shaft to the room and begins soaring upwards over the building.</Text>
+      <Text>The daemon breaks through the ventilation shaft to the roof with Harper still in it’s grip. It begins soaring upwards.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper is struggling against it’s grasp.</Text>
+      <Text>An arrow made of blue energy pierces the daemon’s back.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>An radiant arrow pierces the daemon’s chest.</Text>
+      <Text>The daemon turns to see it’s attacker and notices Harper dematerializing from between it’s feet.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>On the rooftop below, we see AIKO (early 30s) holding a bow made of pure energy. Standing next to her is Harper.</Text>
+      <Text>She reappears on the rooftop standing next to the female accountant from the elevator, AIKO </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">TANAKA</Text>
+      <Text> (early 30s, dragon tattoo covering her left arm) holding a black longbow.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The daemon grabs the Harper over his shoulder as she dematerializes with a smile.</Text>
+      <Text>Aiko pulls back her bow once more as an energy arrow forms in her hand.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Another arrow flies into the Daemon, tearing through it’s wing. It begins to fall.</Text>
+      <Text>The arrow strikes the daemon in the chest. It begins to plummet.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The daemon strikes the rooftop below with a smash.</Text>
+      <Text>The daemon crashes into the rooftop with a smash.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Struggling for air, the wounded daemon stares as Harper and Aiko stand over it.</Text>
+      <Text>Harper and Aiko gather in front of it silently as it takes its final breath.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Think you can cover for me. I have, uh—</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Aiko smirks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Aiko</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Go ahead. Give </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">loverboy</Text>
+      <Text> my regards.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Love you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper gives her a quick hug and vanishes. Aiko turns to the daemon’s remains.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Aiko</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is what happens when you don’t hold the elevator for people.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="4/8" Page="5" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. WesterOS FINANCIAL - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">RESTROOM</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper stands in front of the mirror, hands resting on the counter.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As her eyes open, they are glowing white for a moment before turning natural.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She takes a deep breath.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She stares at herself in the mirror before looking back down at a positive pregnancy test.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 2 - Harper asks Aiko to handle the corpse while she goes to dinner with Dante. Dante starts to propose but stops, rattled by something Harper says. Meanwhile, Venji introduces Maya and Quentin to the Apex and lays out their final year of training for them. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="3" Title="">
+      <SceneProperties Length="5/8" Page="5" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ARCH-HUNTRESS"></CharacterArcBeat>
           <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
@@ -249,7 +405,7 @@
       <Text>Alright, let’s begin.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3 1/8" Page="4" Title="">
+      <SceneProperties Length="3 1/8" Page="6" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -507,7 +663,7 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1" Page="7" Title="">
+      <SceneProperties Length="1" Page="9" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -594,7 +750,7 @@
       <Text>You too. Now let’s head back to camp, sun’s going down soon.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 7/8" Page="8" Title="">
+      <SceneProperties Length="2 7/8" Page="10" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -842,7 +998,7 @@
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="11" Title="">
+      <SceneProperties Length="4/8" Page="13" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
         </SceneArcBeats>
@@ -871,7 +1027,7 @@
       <Text>A half-awake Emmett nods as everyone tries to get their bearings.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 2/8" Page="11" Title="">
+      <SceneProperties Length="4 2/8" Page="13" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -1211,7 +1367,7 @@
       <Text>The team enter the tomb.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 7/8" Page="15" Title="">
+      <SceneProperties Length="1 7/8" Page="17" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -1350,7 +1506,7 @@
       <Text>Let’s move.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 6/8" Page="17" Title="">
+      <SceneProperties Length="1 6/8" Page="19" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -1491,7 +1647,7 @@
       <Text>Lina chops away at the vines and the all enter.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="19" Title="">
+      <SceneProperties Length="6/8" Page="21" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name=""></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -1555,7 +1711,7 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 8 - Harper and the others discover a Daemon corpse along with Gregor, a Fallen Guardian who has been missing for several years. He appears deranged, having been living off of Daemon blood for several months. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 4/8" Page="20" Title="">
+      <SceneProperties Length="1 3/8" Page="22" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -1690,7 +1846,7 @@
       <Text>I know you. We tried to kill each other once. Funny, would you like some tea?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="21" Title="">
+      <SceneProperties Length="4/8" Page="23" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -1729,7 +1885,7 @@
       <Text>It’s oh so refreshing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="22" Title="">
+      <SceneProperties Length="6/8" Page="23" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -1799,7 +1955,7 @@
       <Text>Harper relents.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1" Page="22" Title="">
+      <SceneProperties Length="1" Page="24" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -1869,7 +2025,7 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold"> daughter. He and a group of blighted beasts attack. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="23" Title="">
+      <SceneProperties Length="1 2/8" Page="25" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HUNTER COMMAND"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -1968,7 +2124,7 @@
       <Text>She puts away the communicator, still keeping eye contact with the hood figure.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 7/8" Page="24" Title="">
+      <SceneProperties Length="1 7/8" Page="26" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -2112,7 +2268,7 @@
       <Text>Harper turns to Emmett who immediately runs outside.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="26" Title="">
+      <SceneProperties Length="2/8" Page="28" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. ANCIENT TOMBS, SECRET CHAMBER - day</Text>
@@ -2121,7 +2277,7 @@
       <Text>Emmett arrives as all three Initiates have been surrounded by a pack of Blight animals, tripping over a branch and stumbling to the ground.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="26" Title="">
+      <SceneProperties Length="6/8" Page="28" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2170,7 +2326,7 @@
 [ Seq. 11 - Gregor has defeated the entire team. After he learns Quentin’s identity, he is preparing to kill him when Morgan drinks the Daemon’s blood, becoming Blighted, and battles Gregor. They are on the verge of destroying one another when the Dark Mage appears. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="27" Title="">
+      <SceneProperties Length="6/8" Page="29" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -2239,7 +2395,7 @@
       <Text>He cries out in exasperation.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="28" Title="">
+      <SceneProperties Length="3/8" Page="30" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -2271,7 +2427,7 @@
       <Text>Let’s play.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="28" Title="">
+      <SceneProperties Length="4/8" Page="30" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
           <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
@@ -2314,7 +2470,7 @@
       <Text>A scream echoes from behind them. They turn to look.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="29" Title="">
+      <SceneProperties Length="4/8" Page="31" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
         </SceneArcBeats>
@@ -2349,7 +2505,7 @@
       <Text>Emmett’s stone form fades and he looks to his savior with joy before he collapses onto the ground.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="29" Title="">
+      <SceneProperties Length="3/8" Page="31" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -2378,7 +2534,7 @@
       <Text>He walks over the final Harper and looks down in disappointment.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3" Page="29" Title="">
+      <SceneProperties Length="3" Page="31" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -2618,7 +2774,7 @@
       <Text>This shall be interesting.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="32" Title="">
+      <SceneProperties Length="2/8" Page="34" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -2638,7 +2794,7 @@
       <Text>Morgan grimaces.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="33" Title="">
+      <SceneProperties Length="6/8" Page="35" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
@@ -2701,7 +2857,7 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 12 - Everyone wakes up and find Gregor and Morgan unconscious and the daemon corpse missing. The Guardians arrest Gregor and we learn Morgan is in a coma. We see the Dark Mage at his lair with the Daemon corpse. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="33" Title="">
+      <SceneProperties Length="1 2/8" Page="35" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -2803,7 +2959,7 @@
       <Text>Harper leaves and runs back to the Inner Crypt.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="35" Title="">
+      <SceneProperties Length="1/8" Page="37" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient TOMBS, Inner CRYPT - day</Text>
@@ -2812,7 +2968,7 @@
       <Text>Harper walks into the broken Inner Crypt and finds Morgan and Gregor both lying on the ground, unconscious. She sees the broken sarcophagus and nothing else.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="35" Title="">
+      <SceneProperties Length="1 2/8" Page="37" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2914,7 +3070,7 @@
       <Text>That’s unfortunate. But we have to find out what happened to that daemon.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="36" Title="">
+      <SceneProperties Length="1/8" Page="38" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient tombS, SECRET CHAMBER</Text>
@@ -2925,7 +3081,7 @@
       <Text> and Hunters. The pool of blood is there but the daemon who made it is missing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="36" Title="">
+      <SceneProperties Length="2/8" Page="38" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Dark room</Text>
@@ -2983,7 +3139,7 @@
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="212" Selection="2407,2407" ShowInvisibles="No"/>
+  <TextState Scaling="212" Selection="4947,4955" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -3662,6 +3818,8 @@
       <Character>Gregor</Character>
       <Character>Hunter Command</Character>
       <Character>Quentin4</Character>
+      <Character>Westmoreland</Character>
+      <Character>Accountant</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -3703,6 +3861,7 @@
       <Location>ANCIENT TOMBS, INNER CRYPT</Location>
       <Location>UNKNOWN LOCATION</Location>
       <Location>ANCIENT TOMBS, MEADOW</Location>
+      <Location>WESTEROS FINANCIAL</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -4043,6 +4202,8 @@
     <Member Actor="Man 1" Character="Gregor"/>
     <Member Actor="Man 1" Character="Hunter Command"/>
     <Member Actor="Man 1" Character="Quentin4"/>
+    <Member Actor="" Character="Westmoreland"/>
+    <Member Actor="" Character="Accountant"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -4055,9 +4216,9 @@
 
   <CharacterHighlighting>
     <Character Color="#FFFFFFFFFFFF" Name="" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ACCOUNTANT" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="AIKO" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="ARCH-HUNTRESS" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="BUSINESSMAN" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="EMMETT" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="GREGOR" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="HARPER" Visible="No"/>
@@ -4067,6 +4228,7 @@
     <Character Color="#FFFFFFFFFFFF" Name="MORGAN" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="QUENTIN" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="VENJI" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="WESTMORELAND" Visible="No"/>
   </CharacterHighlighting>
 
   <CharacterNavigatorPreferences IsSortAscending="Yes" SortColumn="Order">
