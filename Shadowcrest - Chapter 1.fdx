@@ -1298,7 +1298,7 @@
       <Text>Panning down, we see a room underneath…</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 5/8" Page="16" Title="">
+      <SceneProperties Length="4 4/8" Page="16" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
@@ -1665,104 +1665,107 @@
       <Text>Aiko</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Whatever I can do, sir.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 5 - Harper and the Initiates arrive at the dig site. They eat </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">s’mores</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold"> and reminisce. They meet up with Lina the next morning. Harper and her talk about </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Matti</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">. ]</Text>
+      <Text>Whatever I can do, sir— Arthur.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1" Page="21" Title="">
+      <SceneProperties Length="1 1/8" Page="21" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Ext. ancient tombs, meadow - day</Text>
+      <Text>Ext. spooky jungle - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A butterfly lands on a wild tulip.</Text>
+      <Text>A butterfly lands on a wild flower.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Crouching above it are Emmett (30s, nerdy) and Morgan (19).</Text>
+      <Text>EMMETT CALVIN (30s, nerdy) and MORGAN BLACKWELL (19) crouch down to observe it.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
     </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(whispering)</Text>
+    </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>See here? I’m pretty sure they call this one a </Text>
+      <Text>Look here? I believe they call this one a </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">butterflea</Text>
       <Text>. Humans consider them quite beautiful but you’ll notice it’s quite grotesque up close.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Morgan</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(intrigued)</Text>
-    </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Hmm.</Text>
+      <Text>Intriguing.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>So, ironically, they serve as a sort of analogy for the Humans.</Text>
+      <Text>They serve as a sort of analogy for the Humans themselves.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Harper</Text>
+      <Text>Harper (o.S.)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Could be said about Mages also.</Text>
+      <Text>Same could be said about us.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Emmett and Morgan turn around, startled.</Text>
+      <Text>Harper appears behind them as Emmett and Morgan turn around startled. The butterfly flutters away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HarpER (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And it’s fly, not flea.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Ah, Harper. We didn’t see you arrive.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Morgan</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Hello, Huntress Evans.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>HarpER</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text>(smiling)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Out here on Earth we don’t use titles. And remember, it’s always Earth, instead of Terra.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Morgan</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Yes, ma’am.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>EmmeTT</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>It’s good to see you friend.</Text>
+      <Text>Harper. I suspected they would send you.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You too. Now let’s head back to camp, sun’s going down soon.</Text>
+      <Text>Well, you and Lina can’t have all of the fun.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She gives him a big hug.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EmmetT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let me introduce you to my Initiate—</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Morgan and I go way back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She steps forward and gives her a hug too.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We should head back to camp. Sun’s going down soon.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 7/8" Page="22" Title="">
+      <SceneProperties Length="2 2/8" Page="22" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -1771,40 +1774,50 @@
           <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Ext. ancient tombS, LOREMAGE CAMP - dusk</Text>
+      <Text>Ext. Loremage camp - night</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Emmett and Harper sitting on a log, drinking cider.</Text>
+      <Text>A small campfire sits surrounded by two tents and a set of camping chairs and chests.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett and Harper sit on a log and drink hot chocolate.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(avoiding eye contact)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>So, I imagine you must come out here a lot with Dante.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper laughs.</Text>
+      <Text>Harper smirks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EmmeTT (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Well, we’re in Venezuela right and Dante lives in Manhattan, so it’s a bit of a trek. It’s not exactly around the corner.</Text>
+      <Text>Well, we’re in Venezuela. Dante lives in Manhattan. It’s a bit of a trek.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Ah, I see. I’m not very familiar with their geography.</Text>
+      <Text>Ah, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Terran</Text>
+      <Text> geography was never a strength of mine.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You should spend more time here. It’s pretty fun.</Text>
+      <Text>You should spend some time here. It’s pretty fun.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>EmMETT</Text>
@@ -1821,60 +1834,43 @@
     <Paragraph Type="Dialogue">
       <Text>You never know, Em. You might find a nice </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Terran</Text>
-      <Text> girl and fall in love.</Text>
+      <Text> girl and settle down.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I could never love one of them.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Harper</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Don’t be so close-minded.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Emmett</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>It’s not </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">that...It’s</Text>
-      <Text> just...</Text>
+      <Text>Maybe...</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He takes a deep gulp and looks at the side of Harper’s face in the firelight.</Text>
+      <Text>He stares at the side of Harper’s face in the firelight.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(turning to face him)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
-      <Text> used to say never let happiness slip by you.</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(grabbing his hand)</Text>
+      <Text> used to say never let your happiness slip by you.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Emmett smiles and nods.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Harper (CONT’D)</Text>
+      <Text>Harper (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Speaking of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
-      <Text>, how’s Lina doing?</Text>
+      <Text>Speaking of which?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She looks at him.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>EmmeTT</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>She’s doing well. She understands this world better than I do.</Text>
+      <Text>She’s doing well. She understands this world so much better than I do.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>HarpER</Text>
@@ -1886,108 +1882,67 @@
       <Text>The two of them laugh.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Across the camp site, The Initiates are gathered around the campfire, excited.</Text>
+      <Text>BY THE CAMPFIRE</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maya, Morgan and Quentin are gathered around the fire.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Maya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>So how was it?</Text>
+      <Text>…and then she showed us the Apex which we can’t really talk about. But it was awesome.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Morgan</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>It was breath-taking.</Text>
+      <Text>I’ve been inside…</Text>
     </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MaYA</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Did it last long?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Morgan</Text>
+    <Paragraph Type="Parenthetical">
+      <Text>(turning to Quentin)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>They said it did but it felt like it was over in a flash.</Text>
+      <Text>Our father took us there once when we were younger.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maya turns to Quentin.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>QuentIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What? You seemed excited. I didn’t want to spoil your fun.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Perks of having a powerful dad, I guess.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan and Quentin look at each other.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>QuentIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s not all it’s cracked up to be.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So I’m curious. Since your Dad’s like 500 years old, does that mean you two are also going to live forever?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Morgan shrugs.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>QuenTIN</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I really don’t want to hear about this.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Maya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Then close your ears.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Morgan</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>And then, she called my name, I walked up there, looking fabulous, grabbed the badge and shook her hand. She called me Morgan.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Maya</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>That’s so awesome. The Arch-Huntress didn’t do anything like that for us. She told us we’re Initiates and gave us a tour.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MorGAN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>There’s not a lot of action and dazzle in </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Lorecraft</Text>
-      <Text> so it seems like we take any excuse to celebrate as an opportunity to go all out.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Quentin</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Losermages</Text>
-      <Text> like to have parties? How surprising.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Morgan slaps him on the shoulder.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>MOrgaN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Don’t think just because you’re a Hunter, I still can’t beat you up. </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Somethings</Text>
-      <Text> never change little brother.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Quentin</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(under his breath)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>By two minutes.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>QuenTIN (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(normal voice)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Have you spoken to Mother or Father?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Morgan</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Father came to visit the Arch-Loremage before Emmett and I left. He said he was very proud of us.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Quentin smiles.</Text>
+      <Text>He’s not immortal. He can die. Just like the rest of us. He’s just got a lot of magic in him. Magic can keep you alive for a long time but not forever.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Harper and Emmett approach.</Text>
@@ -1996,50 +1951,59 @@
       <Text>HarpER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Alright, so I brought a treat for your first adventure here on Earth.</Text>
+      <Text>Alright, so I brought a surprise.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She reaches into her bag and produces a bag and two boxes.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Harper (CONT’D)</Text>
+      <Text>Harper (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>We’re going to make a mystical treat that Humans refer to </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">as...S’mores</Text>
-      <Text>.</Text>
+      <Text>It’s an mystical Terran treat the Humans refer to as S’mores.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="25" Title="">
+      <SceneProperties Length="5/8" Page="24" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Ext. AnciENT TOMBS, LOREMAGE CAMP - morning</Text>
+      <Text>Ext. loREMAGE CAMP - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper packs up her tent and walks over to the campfire.</Text>
+      <Text>The camp is asleep.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Initiates and Emmett are sleeping wildly around the snuffed out campfire with white and brown streaks across their smiling faces.</Text>
+      <Text>Emmett is sitting in a folding chair by the snuffed out fire, head hanging off his shoulder with marshmallow and chocolate residue on his cheeks.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper notices a trail of ants crawling up Quentin’s face.</Text>
+      <Text>Maya is curled tightly inside her tent, next to Maya who is stretched out widely next to her.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He jumps up, trying to swipe the bugs from his cheek but losing his balance as his hands are still inside the bag. He topples over the equipment, waking everyone up.</Text>
+      <Text>Quentin’s feet stick out from the top of his sleeping bag.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper bangs her staff against the end of the metal posts of Emmett’s chair.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Initiates stick their heads out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett is so startled, he falls backwards, taking the chair down with him.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Great, everyone’s awake. I’m scouting ahead to link up with Lina. Meet you guys at the dig site.</Text>
+      <Text>I’m scouting ahead, linking up with Lina. Meet us at the dig by noon.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A half-awake Emmett nods as everyone tries to get their bearings.</Text>
+      <Text>A barely coherent Emmett nods as everyone else tries to get their bearings.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 2/8" Page="25" Title="">
+      <SceneProperties Length="3" Page="25" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2049,16 +2013,28 @@
           <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Ext. Ancient tombs, entrance - day</Text>
+      <Text>Ext. Ancient tombs - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper treks through the forest, using her staff to push aside the branches of the thick brush.</Text>
+      <Text>Harper treks through the forest.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She enters a clearing and sees the moss-covered, nature-reclaimed tomb they have been sent to investigate.</Text>
+      <Text>She enters a clearing and sees the moss-covered stone structure in the shape of a human skull.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She hears a twig break nearby.</Text>
+      <Text>A twig breaks nearby.</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>One of these days.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A female voice comes from behind her.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
@@ -2066,29 +2042,13 @@
     <Paragraph Type="Dialogue">
       <Text>Dammit.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Harper</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>You know you can’t sneak up on me.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>One of these days.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Harper</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Keep telling yourself that.</Text>
-    </Paragraph>
     <Paragraph Type="Action">
-      <Text>The two of them hug.</Text>
+      <Text>Behind her is LINA </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">MACHADO</Text>
+      <Text> (21, Hispanic) who has failed to sneak up on her. The two of them hug.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>HarPER (CONT’D)</Text>
+      <Text>HarPER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>How have you been?</Text>
@@ -2097,97 +2057,81 @@
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Aside from getting my ass eaten by mosquitoes, dandy.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Harper hesitates.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Shut up. Where’s the nerds?</Text>
+      <Text>Just dandy. Getting my ass eaten by mosquitoes. Emmett was bugging the shit out of me so I had to scout ahead.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>There on their way. Along with Maya and Q. They’re my new Initiates.</Text>
+      <Text>Well him and Morgan are on their way. Along with Maya and Quentin, my new Initiates.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Awesome!</Text>
+      <Text>Really?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>HarpeR</Text>
     </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(joking)</Text>
+    </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>We’ll see. They both need some work.</Text>
+      <Text>Yeah, I did such a great job with you, they decided to give me two this time.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Well, I mean, I couldn’t fight before you started training me but look at me now.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>She pulls out her hatchet with a flourish and puts it back in it’s hip holster.</Text>
+      <Text>What do you think?</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Harper</Text>
+      <Text>HarpER</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>It’s not the fighting. I don’t know if they have the </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">mindset</Text>
-      <Text>.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Lina looks confused.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Harper (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>You know she’s super closed-off and he’s out to prove himself. Both of those things can be dangerous out here.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Lina nods and leads them over to a log near where she has a sleeping bag rolled up.</Text>
+      <Text>Too early to say. You were in the Academy with them. Was wondering if you had any insight.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Well, just keeping trying. You got through to me somehow and I’m sure you’ll make great Hunters out of them too. I’ll work with them too. They trust me.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Harper</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Wait, wait, wait. So you’re officially a “Great Hunter” now? When did this happen? Wasn’t I just called in to help you secure a your location.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I mean, I could handle it. I just wanted an excuse to see my </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">bestie</Text>
-      <Text>.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>HarPER</Text>
+      <Text>Maya’s cool. Quiet but strong. Q.</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
-      <Text>(laughing)</Text>
+      <Text>(shaking her head)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Uh huh. You and </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
-      <Text> really are cut from the same mold.</Text>
+      <Text>The boy’s a wildcard.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The mood gets a little dark.</Text>
+      <Text>Harper grins.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nothing. Just. That takes me back.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(smirking)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Esta</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic"> </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">loca</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They smile but Lina begins to gaze off into the distance.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
@@ -2195,11 +2139,11 @@
     <Paragraph Type="Dialogue">
       <Text>I really miss him sometimes.</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper pats her on the shoulder.</Text>
+    </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(patting Lina’s shoulder)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>I don’t.</Text>
@@ -2208,62 +2152,39 @@
       <Text>Lina is startled.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Harper (CONT’D)</Text>
+      <Text>Harper (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Cuz</Text>
-      <Text> I see him in you all the time. He would be super proud of you right now. He’d be jealous that I get to see the great Huntress that you have become.</Text>
+      <Text> I see him in you constantly. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
+      <Text> would be so proud of you and so jealous of me because I get to see the powerful woman that you’re becoming.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>So you agree that I’m great?</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>They laugh.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina (CONT’D)</Text>
+    <Paragraph Type="Parenthetical">
+      <Text>(smiling)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I think he’d also be proud of you. I hear you’re spending more and more time on Earth. Things going well with Dante?</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Harper smiles and nods.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>He’d be happy you’re finally starting to have a life. I just hope that life doesn’t take you away from us. At least not too soon.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Harper’s smile fades.</Text>
+      <Text>He’d be proud of you too.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>A bush rustles nearby.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lina and Harper both draw their weapons.</Text>
+      <Text>Lina and Harper both draw their weapons and investigate. Nothing.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The go over and stir the bush. Nothing.</Text>
+      <Text>As they turn around they are charged by a small JUNGLE CAT.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>As they turn around they are attacked by a small jungle cat with glowing green eyes.</Text>
+      <Text>Harper extends her staff and knocks it several feet away. As it recoils, it’s eyes begin to glow purple.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper uses her staff to knock it several yards away.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>It recoils and scurries through the arched entrance to the tomb. As it enters a loud rumbling roar lets out from inside.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Another one of our friends. This is what I called you out here for.</Text>
+      <Text>The cat turns and scurries through the arched mouth of the tomb. A loud rumbling noise follows.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
@@ -2277,35 +2198,11 @@
     <Paragraph Type="Dialogue">
       <Text>Ya don’t say.</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Lina puts away her hatchets.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Check this out.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>She leads over to a small paddock. There is a pile of corpses that have been mauled viciously, covered in black and gray residue.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina (CONT’D)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I’ve found them all around the woods here. Looks like Daemon’s blood on all of them.</Text>
-    </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>How’d a Daemon end up out here?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>No telling.</Text>
+      <Text>How’d a daemon end up all the way out here?</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 6 - As they are searching the ruins, Harper and the team are attacked by Blighted Beasts ]</Text>
@@ -2379,7 +2276,7 @@
       <Text>The team enter the tomb.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 7/8" Page="30" Title="">
+      <SceneProperties Length="1 7/8" Page="28" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2518,7 +2415,7 @@
       <Text>Let’s move.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 6/8" Page="31" Title="">
+      <SceneProperties Length="1 6/8" Page="30" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2659,7 +2556,7 @@
       <Text>Lina chops away at the vines and the all enter.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="33" Title="">
+      <SceneProperties Length="6/8" Page="31" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name=""></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2723,7 +2620,7 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 8 - Harper and the others discover a Daemon corpse along with Gregor, a Fallen Guardian who has been missing for several years. He appears deranged, having been living off of Daemon blood for several months. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 4/8" Page="34" Title="">
+      <SceneProperties Length="1 4/8" Page="32" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -2860,7 +2757,7 @@
       <Text>I know you. We tried to kill each other once. Funny, would you like some tea?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="35" Title="">
+      <SceneProperties Length="4/8" Page="34" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -2899,7 +2796,7 @@
       <Text>It’s oh so refreshing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="7/8" Page="36" Title="">
+      <SceneProperties Length="6/8" Page="34" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -2969,7 +2866,7 @@
       <Text>Harper relents.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="7/8" Page="37" Title="">
+      <SceneProperties Length="1" Page="35" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -3039,7 +2936,7 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold"> daughter. He and a group of blighted beasts attack. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="37" Title="">
+      <SceneProperties Length="1 2/8" Page="36" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HUNTER COMMAND"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -3138,7 +3035,7 @@
       <Text>She puts away the communicator, still keeping eye contact with the hood figure.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 7/8" Page="39" Title="">
+      <SceneProperties Length="1 7/8" Page="37" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -3282,7 +3179,7 @@
       <Text>Harper turns to Emmett who immediately runs outside.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="41" Title="">
+      <SceneProperties Length="2/8" Page="39" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. ANCIENT TOMBS, SECRET CHAMBER - day</Text>
@@ -3291,7 +3188,7 @@
       <Text>Emmett arrives as all three Initiates have been surrounded by a pack of Blight animals, tripping over a branch and stumbling to the ground.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="41" Title="">
+      <SceneProperties Length="6/8" Page="39" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -3340,7 +3237,7 @@
 [ Seq. 11 - Gregor has defeated the entire team. After he learns Quentin’s identity, he is preparing to kill him when Morgan drinks the Daemon’s blood, becoming Blighted, and battles Gregor. They are on the verge of destroying one another when the Dark Mage appears. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="41" Title="">
+      <SceneProperties Length="6/8" Page="39" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -3409,7 +3306,7 @@
       <Text>He cries out in exasperation.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="42" Title="">
+      <SceneProperties Length="3/8" Page="40" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3441,7 +3338,7 @@
       <Text>Let’s play.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="42" Title="">
+      <SceneProperties Length="3/8" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
           <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
@@ -3484,7 +3381,7 @@
       <Text>A scream echoes from behind them. They turn to look.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="43" Title="">
+      <SceneProperties Length="4/8" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3519,7 +3416,7 @@
       <Text>Emmett’s stone form fades and he looks to his savior with joy before he collapses onto the ground.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="43" Title="">
+      <SceneProperties Length="3/8" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3548,7 +3445,7 @@
       <Text>He walks over the final Harper and looks down in disappointment.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3" Page="44" Title="">
+      <SceneProperties Length="3" Page="42" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -3788,7 +3685,7 @@
       <Text>This shall be interesting.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="47" Title="">
+      <SceneProperties Length="2/8" Page="45" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3808,7 +3705,7 @@
       <Text>Morgan grimaces.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="47" Title="">
+      <SceneProperties Length="6/8" Page="45" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
@@ -3871,7 +3768,7 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 12 - Everyone wakes up and find Gregor and Morgan unconscious and the daemon corpse missing. The Guardians arrest Gregor and we learn Morgan is in a coma. We see the Dark Mage at his lair with the Daemon corpse. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 1/8" Page="47" Title="">
+      <SceneProperties Length="1 2/8" Page="46" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -3973,7 +3870,7 @@
       <Text>Harper leaves and runs back to the Inner Crypt.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="49" Title="">
+      <SceneProperties Length="2/8" Page="47" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient TOMBS, Inner CRYPT - day</Text>
@@ -3982,7 +3879,7 @@
       <Text>Harper walks into the broken Inner Crypt and finds Morgan and Gregor both lying on the ground, unconscious. She sees the broken sarcophagus and nothing else.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="49" Title="">
+      <SceneProperties Length="1 2/8" Page="47" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -4084,7 +3981,7 @@
       <Text>That’s unfortunate. But we have to find out what happened to that daemon.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="50" Title="">
+      <SceneProperties Length="1/8" Page="48" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient tombS, SECRET CHAMBER</Text>
@@ -4095,7 +3992,7 @@
       <Text> and Hunters. The pool of blood is there but the daemon who made it is missing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="50" Title="">
+      <SceneProperties Length="2/8" Page="48" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Dark room</Text>
@@ -4142,7 +4039,9 @@
   </HeaderAndFooter>
 
   <SpellCheckIgnoreLists>
-    <IgnoredRanges/>
+    <IgnoredRanges>
+      <Range End="23247" Start="23240"/>
+    </IgnoredRanges>
     <IgnoredWords/>
   </SpellCheckIgnoreLists>
 
@@ -4153,7 +4052,7 @@
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="212" Selection="20436,20436" ShowInvisibles="No"/>
+  <TextState Scaling="212" Selection="25133,25133" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -4882,6 +4781,7 @@
       <Location>FANCY RESTAURANT</Location>
       <Location>THE CONDUIT</Location>
       <Location>THE DARK GARDEN</Location>
+      <Location>LOREMAGE CAMP</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -5224,7 +5124,7 @@
     <Member Actor="Man 1" Character="Accountant"/>
     <Member Actor="Man 1" Character="Hunter Command"/>
     <Member Actor="Man 1" Character="Arch-huntress"/>
-    <Member Actor="" Character="Aikko"/>
+    <Member Actor="Man 1" Character="Aikko"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
