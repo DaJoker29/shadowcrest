@@ -1298,7 +1298,7 @@
       <Text>Panning down, we see a room underneath…</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 4/8" Page="16" Title="">
+      <SceneProperties Length="4 2/8" Page="16" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
@@ -1412,7 +1412,7 @@
       <Text>Arthur</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Forgive me if I dawdle, tendencies of an old man. And I’m older than most. They say the average mage lives to be 150 years old. I’m not approaching triple that.</Text>
+      <Text>Forgive me if I dawdle, tendencies of an old man. And I’m older than most. They say the average mage lives to be 150 years old. I’m now approaching triple that.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
@@ -1519,7 +1519,7 @@
       <Text>Aiko</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Sir, I don’t understand. You’re the leader of the Guardian Council. I don’t mean to be rude but can’t they—</Text>
+      <Text>Sir, I don’t mean to be rude but isn’t this something you should be asking the Council?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Arthur</Text>
@@ -1635,7 +1635,7 @@
     <Paragraph Type="Dialogue">
       <Text>As a Huntress, my job is to serve the Order. If the </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Archmage</Text>
-      <Text> needs help, I’ll help.</Text>
+      <Text> needs help, I’ll help. Whatever I can do to help.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Arthur smiles.</Text>
@@ -1646,29 +1646,8 @@
     <Paragraph Type="Dialogue">
       <Text>I’m beginning to see why Harper speaks so highly of you.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Aiko</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>What’s the problem?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>ArtHUR</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>An item has gone missing from the Guardian Vault. The only ones with access are the members of the Guardian Council and myself. Until I determine the culprit, I trust not the Guardians. But you. Harper trusts you with her life and thus my faith in her transfers to you.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Aiko nods.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Aiko</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Whatever I can do, sir— Arthur.</Text>
-    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 1/8" Page="21" Title="">
+      <SceneProperties Length="1" Page="21" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2000,7 +1979,7 @@
       <Text>A barely coherent Emmett nods as everyone else tries to get their bearings.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 7/8" Page="25" Title="">
+      <SceneProperties Length="2 7/8" Page="24" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2250,7 +2229,7 @@
       <Text>They enter the tomb.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="28" Title="">
+      <SceneProperties Length="2 3/8" Page="27" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2453,7 +2432,7 @@
       <Text>Maya pushes back an overgrown mass of vines to reveal a small passageway.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2" Page="30" Title="">
+      <SceneProperties Length="1 6/8" Page="30" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name=""></CharacterArcBeat>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
@@ -2623,17 +2602,301 @@
     <Paragraph Type="Dialogue">
       <Text>I know you. We tried to kill each other once. Would you like some tea?</Text>
     </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2/8" Page="31" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. Mount arethe - day</Text>
+    </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 7 - Aiko questions the vault’s guards and learns that one of them has been stealing goods and selling them on the black market. ]</Text>
+      <Text>The peak of Mount Arethe sits above the clouds. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hovering above, a stone building carved from white marble. The three suns of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Hydor</Text>
+      <Text> reflect brightly off of the golden columns that line the entrance.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="2 5/8" Page="31" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
+          <CharacterArcBeat Name="BAEN"></CharacterArcBeat>
+          <CharacterArcBeat Name="CALIPHA"></CharacterArcBeat>
+          <CharacterArcBeat Name="FAEDRIS"></CharacterArcBeat>
+          <CharacterArcBeat Name="SATINE"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>int. MouNT ARETHE - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>COUNCIL CHAMBERS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Braziers hang from the ceiling made from the same stone as the exterior.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Arthur Blackwell sits at the head of a long table with six chairs on either side. Two chair lies empty while the other ten hold figures all dressed in the same magical armor as Arthur.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>On the right: 1 Dwarf, 3 Humans, 1 Dark Elf, A Dragon (in scaly humanoid form). </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>On the left sat: 1 Gorgon, 1 Imp, 1 Ogre, 1 Golem.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They all sit in silence, looking distressed.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Dwarf (SATINE </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">MOREHAVEN</Text>
+      <Text>) speaks first.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
+      <Text>Satine</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is an outrage!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ArtHUR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I understand you are upset, my de—</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SatINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Upset? Disappointed is more like it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Now the Dark Elf (BAEN </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">LARKFOOT</Text>
+      <Text>) adds.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Baen</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was under the impression this council was formed to operate as a unit, not serve the whims of an aging megalomaniac.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Dragon (FAEDRIS) growls.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FaeDRIS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Watch it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Arthur waves him down.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ArthuR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m sorry you feel this way Baen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Gorgon (CALIPHA </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">MONGRE</Text>
+      <Text>) speaks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Calipha</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What about the other seat? Since you’ve made the decision for one, can we at least be trusted to promote a candidate of our own.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ArthuR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course, dear. And know, this is not a matter of distrust. But a matter of urgency. The balances on the human realm are most in disarray.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SatINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But we already have four mages on the Council. We even added another to replace your last mistake. Why another? And why not let us vote on it unless you distrust us.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ArtHUR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Four mages trained and suited for maintaining order in this realm. With a Huntress, we will have the means to operate on Terra without complication.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SatINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is no good Arthur.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The dwarf slaps the table.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Golem and the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Orge</Text>
+      <Text> begin to argue. Soon most of the table is shouting and the room is swallowed in a castrophony.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Faedris barks and a loud boom fills the room.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Faedris</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Enough!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The room quiets.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The dragon rises to his feet.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FaeDRIS (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Need I remind you this council would not exist were it not for the sacrifices made by this man. He was chosen by the Cosmos and we were ALL chosen by him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SatINE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>By process though!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BAEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, chosen by our peers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FaeDRIS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Many of you are too young to remember the days of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">olde</Text>
+      <Text>, the beginnings of this council. Nay, before there even was a Council...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Arthur extends his hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Arthur</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Faedris, dear friend, let them speak.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The dragon sits, a puff of smoke exiting it’s nostrils.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>CalIPHA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How is this any different than Ry’naughk’s Court then?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ArthuR</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It’s true. This council was formed as a balance to the unhinged autocracy that it once fought. And, while I value all of your opinions and wish to hear your dissent, know that my decision today was not made out of arrogance or haste but out of sheer necessity. I don’t expect you all to agree with it but understand that it this decision is final.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1" Page="34" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
+          <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>OUTSIDE THE COUNCIL CHAMBERS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Aiko stands beside the Council doors, arms folded and eyes closed. She appears to be meditating.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The doors are burst open by the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Orge</Text>
+      <Text>. She’s startled.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The Council members march past her, some giving disapproving glances.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Finally, Arthur emerges along with Faedris.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The dragon looks her up and down before leaving.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Aiko</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How did it go?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Arthur</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Terrible. Which was quite better than I expected.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He places both hands on her shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ArTHUR (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But regardless, it’s official.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He steps back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ArtHUR (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know what must be done?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Aiko</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Arthur</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(leaning in, whispering)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Remember: trust no one.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(regular volume)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And welcome to the Guardian Council.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Aiko looks nervous and excited.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 8 - Gregor appears deranged. They question him and discover that he has been surviving on daemon blood for months. Lina is overwhelmed by the presence of her brother’s killer and Harper calms her down.]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="32" Title="">
+      <SceneProperties Length="4/8" Page="35" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -2672,7 +2935,7 @@
       <Text>It’s oh so refreshing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="32" Title="">
+      <SceneProperties Length="6/8" Page="35" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -2744,7 +3007,7 @@
       <Text>Harper relents.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1" Page="33" Title="">
+      <SceneProperties Length="1" Page="36" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2816,7 +3079,7 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold"> daughter. He and a group of blighted beasts attack. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="34" Title="">
+      <SceneProperties Length="1 2/8" Page="37" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HUNTER COMMAND"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -2915,7 +3178,7 @@
       <Text>She puts away the communicator, still keeping eye contact with the hood figure.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 7/8" Page="35" Title="">
+      <SceneProperties Length="1 7/8" Page="38" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -3059,7 +3322,7 @@
       <Text>Harper turns to Emmett who immediately runs outside.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="37" Title="">
+      <SceneProperties Length="2/8" Page="40" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. ANCIENT TOMBS, SECRET CHAMBER - day</Text>
@@ -3068,7 +3331,7 @@
       <Text>Emmett arrives as all three Initiates have been surrounded by a pack of Blight animals, tripping over a branch and stumbling to the ground.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="37" Title="">
+      <SceneProperties Length="6/8" Page="40" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -3117,7 +3380,7 @@
 [ Seq. 11 - Gregor has defeated the entire team. After he learns Quentin’s identity, he is preparing to kill him when Morgan drinks the Daemon’s blood, becoming Blighted, and battles Gregor. They are on the verge of destroying one another when the Dark Mage appears. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="38" Title="">
+      <SceneProperties Length="6/8" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -3186,7 +3449,7 @@
       <Text>He cries out in exasperation.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="39" Title="">
+      <SceneProperties Length="3/8" Page="42" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3218,7 +3481,7 @@
       <Text>Let’s play.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="39" Title="">
+      <SceneProperties Length="4/8" Page="42" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
           <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
@@ -3261,7 +3524,7 @@
       <Text>A scream echoes from behind them. They turn to look.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="39" Title="">
+      <SceneProperties Length="4/8" Page="43" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3296,7 +3559,7 @@
       <Text>Emmett’s stone form fades and he looks to his savior with joy before he collapses onto the ground.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="40" Title="">
+      <SceneProperties Length="3/8" Page="43" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3325,7 +3588,7 @@
       <Text>He walks over the final Harper and looks down in disappointment.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3" Page="40" Title="">
+      <SceneProperties Length="3" Page="43" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -3444,7 +3707,9 @@
       <Text>Gregor moves even closer.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Gregor (CONT’D)</Text>
+      <Text>Gregor (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>You can thank your father. It says his child will bring about the End of Days. And I can’t let that happen.</Text>
@@ -3565,7 +3830,7 @@
       <Text>This shall be interesting.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="43" Title="">
+      <SceneProperties Length="2/8" Page="46" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3585,7 +3850,7 @@
       <Text>Morgan grimaces.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="43" Title="">
+      <SceneProperties Length="6/8" Page="47" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
@@ -3650,7 +3915,7 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 12 - Everyone wakes up and find Gregor and Morgan unconscious and the daemon corpse missing. The Guardians arrest Gregor and we learn Morgan is in a coma. We see the Dark Mage at his lair with the Daemon corpse. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="44" Title="">
+      <SceneProperties Length="1 2/8" Page="47" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -3752,7 +4017,7 @@
       <Text>Harper leaves and runs back to the Inner Crypt.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="45" Title="">
+      <SceneProperties Length="1/8" Page="49" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient TOMBS, Inner CRYPT - day</Text>
@@ -3761,7 +4026,7 @@
       <Text>Harper walks into the broken Inner Crypt and finds Morgan and Gregor both lying on the ground, unconscious. She sees the broken sarcophagus and nothing else.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="45" Title="">
+      <SceneProperties Length="1 2/8" Page="49" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -3863,7 +4128,7 @@
       <Text>That’s unfortunate. But we have to find out what happened to that daemon.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="47" Title="">
+      <SceneProperties Length="1/8" Page="50" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient tombS, SECRET CHAMBER</Text>
@@ -3874,7 +4139,7 @@
       <Text> and Hunters. The pool of blood is there but the daemon who made it is missing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="47" Title="">
+      <SceneProperties Length="2/8" Page="50" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Dark room</Text>
@@ -3922,7 +4187,7 @@
 
   <SpellCheckIgnoreLists>
     <IgnoredRanges>
-      <Range End="23247" Start="23240"/>
+      <Range End="22904" Start="22897"/>
     </IgnoredRanges>
     <IgnoredWords/>
   </SpellCheckIgnoreLists>
@@ -3934,7 +4199,7 @@
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="212" Selection="29941,29941" ShowInvisibles="No"/>
+  <TextState Scaling="212" Selection="33240,33240" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -4616,6 +4881,10 @@
       <Character>Hunter Command</Character>
       <Character>Arch-huntress</Character>
       <Character>Aikko</Character>
+      <Character>Satine</Character>
+      <Character>Baen</Character>
+      <Character>Calipha</Character>
+      <Character>Faedris</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -4665,6 +4934,8 @@
       <Location>THE DARK GARDEN</Location>
       <Location>LOREMAGE CAMP</Location>
       <Location>ANCIENT TOMBS</Location>
+      <Location>MOUNT ARETHE</Location>
+      <Location>OUTSIDE COUNCIL CHAMBERS</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -5008,6 +5279,10 @@
     <Member Actor="Man 1" Character="Hunter Command"/>
     <Member Actor="Man 1" Character="Arch-huntress"/>
     <Member Actor="Man 1" Character="Aikko"/>
+    <Member Actor="" Character="Satine"/>
+    <Member Actor="" Character="Baen"/>
+    <Member Actor="" Character="Calipha"/>
+    <Member Actor="" Character="Faedris"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -5023,9 +5298,12 @@
     <Character Color="#FFFFFFFFFFFF" Name="ACCOUNTANT" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="AIKO" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="ARTHUR" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="BAEN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="CALIPHA" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="DANTE" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="EMMETT" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="ENCHANTRESS" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="FAEDRIS" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="GREGOR" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="HARPER" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="HUNTER COMMAND" Visible="No"/>
@@ -5033,6 +5311,7 @@
     <Character Color="#FFFFFFFFFFFF" Name="MAYA" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="MORGAN" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="QUENTIN" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="SATINE" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="VENJI" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="WESTMORELAND" Visible="No"/>
   </CharacterHighlighting>
