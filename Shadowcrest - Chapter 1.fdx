@@ -2434,7 +2434,6 @@
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="1 6/8" Page="30" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name=""></CharacterArcBeat>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2809,10 +2808,12 @@
       <Text>It’s true. This council was formed as a balance to the unhinged autocracy that it once fought. And, while I value all of your opinions and wish to hear your dissent, know that my decision today was not made out of arrogance or haste but out of sheer necessity. I don’t expect you all to agree with it but understand that it this decision is final.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1" Page="34" Title="">
+      <SceneProperties Length="7/8" Page="34" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
       <Text>OUTSIDE THE COUNCIL CHAMBERS</Text>
@@ -2892,23 +2893,31 @@
     <Paragraph Type="Action">
       <Text>Aiko looks nervous and excited.</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 8 - Gregor appears deranged. They question him and discover that he has been surviving on daemon blood for months. Lina is overwhelmed by the presence of her brother’s killer and Harper calms her down.]</Text>
-    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="35" Title="">
+      <SceneProperties Length="5/8" Page="35" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Int. ancient tombs, gregor’s hideout - day</Text>
+      <Text>Int. Gregor’s hideout - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The deranged Gregor leads them into a small crevasse which he has turned into a hideout. A poster of a Venezuelan soccer team is sprawled out, along with other small trinkets and toys.</Text>
+      <Text>Gregor leads Emmett and Harper into a small crevasse-turned-hideout. A poster of a Venezuelan soccer team is stretched over a rock, three parallel slashes running through it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>There is an assortment of trinkets and junk spread across the dirt.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor walks over to a porcelain tea pot with caked-on grey stains.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(looking around)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>My god? What has happened to you?</Text>
@@ -2919,14 +2928,11 @@
     <Paragraph Type="Dialogue">
       <Text>Tea?</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text>He turns around and reveals as porcelain tea pot smeared in gray and black streaks.</Text>
-    </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>That’s daemon blood! You’ve been drinking this?</Text>
+      <Text>No, thank you.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Gregor</Text>
@@ -2934,49 +2940,123 @@
     <Paragraph Type="Dialogue">
       <Text>It’s oh so refreshing.</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper silently declines and turns to leave.</Text>
+    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="35" Title="">
+      <SceneProperties Length="1 6/8" Page="35" Title="">
         <SceneArcBeats>
+          <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Int. AnCIENT TOMBS, SECRET CHAMBER - day</Text>
+      <Text>Int. Secret cave - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Outside the hideout, Lina and Harper stand around nervously while Quentin and Maya play lookouts.</Text>
+      <Text>Harper joins Lina who is pacing nervously while the Initiates fiddle with their walkie-talkies.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>That’s him. He’s 20 feet away.</Text>
+      <Text>You’re leaving him alone with Em.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I know. It’s hard. But there’s a right way to handle this. He’s going to pay for </Text>
+      <Text>Gregor’s barely lucid, I don’t think he’s much of a threat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe. Don’t know if I buy it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper places a hand on her shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You okay?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina shakes her head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>20 feet. He’s 20 feet away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There’s a right way and a wrong way to handle this. And no matter how much you want to want to, walking in there and putting a blade in his head is definitely the wrong way. But trust me, he’s going to pay for </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lina laughs.</Text>
+      <Text>Lina looks at her.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>LIna</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Is he? Like that? He’s off his nut.</Text>
+      <Text>You think he’s really crazy? Because if he is, I don’t see how he could.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett leaves the hideout.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It looks like he’s become Blighted.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Blight doesn’t do that.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett pauses briefly on his way over to the Initiates.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>EmmETT</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(interrupting)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>To be fair, we don’t truly understand </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">what </Text>
+      <Text>the Blight does. We’ve never been able to do an effective study on Blighted Mages. It’s simply too dangerous.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And Gregor used to be a Guardian. How the Blessing of Light interacts with the curse, </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Symius</Text>
+      <Text> only knows.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text>(shaking her head)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>He deserves to suffer for what he did.</Text>
+      <Text>Look, all I know is he deserves to suffer for what he’s did.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper leans in for a hug but Lina pulls away.</Text>
+      <Text>Harper tries to comfort her. Lina pulls away.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina (</Text>
@@ -2984,7 +3064,7 @@
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I’m going to call for a cleanup crew and some Guardians to pickup Mary </Text>
+      <Text>I need some air. I’ll call for containment and a Guardian to pickup Mary </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Poppins</Text>
       <Text>.</Text>
     </Paragraph>
@@ -2998,57 +3078,91 @@
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>No, I’ll be okay. Stay here and watch after the kids. If I need anything, I’ll call.</Text>
+      <Text>I’ll be okay. Stay here and watch after the kids.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(gesturing towards her walkie-talkie)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Call if you see anything.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She gestures towards the magical conch shell on her hip.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Harper relents.</Text>
+      <Text>Lina nods.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1" Page="36" Title="">
+      <SceneProperties Length="1 1/8" Page="37" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
+          <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Int. ancIENT TOMBS, Gregor’s hideout - day</Text>
+      <Text>Int. GregOR'S HIDEOUT - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper enters to find Emmett and Morgan scouring every inch of the small nook.</Text>
+      <Text>Harper enters to find Emmett and the Initiates scouring every inch of the small nook.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Gregor babbles to himself in the background.</Text>
+      <Text>They are sifting through old books and other collected junk.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What’s this?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maya picks up an old vinyl sleeve and an aged brittle record falls out and shatters on the floor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Gregor</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No! You’re ruining my treasure.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone tenses up and stares at him.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Gregor jerks his head to the side and starts to whimper.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett shakes his head and continues searching.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>It looks like he’s been here for months, surviving solely off of Daemon’s blood.</Text>
+      <Text>It looks like he’s been down here for months, surviving solely off of a Daemon’s blood.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Morgan</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>So he’s Blighted, like the rest of the monsters. He that why he sounds so mad.</Text>
+      <Text>So he’s become Blighted, like the rest of the monsters. Is that why he’s so… </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She twirls a finger by her head.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Presumably, Ms. </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Blackwell...But</Text>
-      <Text> I’ve never heard of Blight having this type of effect on people. There might be </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">som</Text>
-      <Text>—</Text>
+      <Text>Presumably, Ms. Blackwell… Although I’ve never head of such a presentation before, there is very little we—</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Without warning, Harper grabs Gregor and flips him over onto his back. She then drives her boot into his face, knocking him unconscious.</Text>
+      <Text>Without warning, Harper grabs Gregor and flips him over onto a table. He falls through and lands hard on the floor, her boot being driven into his neck. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Emmett turns around and jumps up in protest.</Text>
+      <Text>With a clean punch to the face, she knocks him out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett turns and screams in protest.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett (</Text>
@@ -3059,126 +3173,140 @@
       <Text>What are you doing?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper pulls out some rope and ties his hands together.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>She rises and pulls up a small machete off of the ground.</Text>
+      <Text>Harper reaches into the splintered remains of the table and pulls a long, curved blade from his hands.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You almost became a folk tale. Emmett the Headless.</Text>
+      <Text>You almost became a folk tale, Emmett the Headless.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Emmett and Morgan turn to look at the unconscious former Guardian.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 9 - Lina goes to call in for back up; she notices the Dark Mage lurking nearby. Gregor breaks free upon learning that Morgan is the </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">Archmage’s</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold"> daughter. He and a group of blighted beasts attack. ]</Text>
+      <Text>They all turn to look at the unconscious Guardian.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="37" Title="">
+      <SceneProperties Length="2/8" Page="38" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. AnciENT TOMBs - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ENTRANCE</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina exits the cave and glances around at the treeline around her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Taking off her backpack, she rests her knees on the ground and draws a runic symbol in the dirt.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She closes her eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3/8" Page="39" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="HUNTER COMMAND"></CharacterArcBeat>
+          <CharacterArcBeat Name="ENCHANTRESS"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Ext. AnciENT TOMBS, ENTRANCE - day</Text>
+      <Text>Int. The conDUIT - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>As the sunlight bathes Lina’s skin, she reaches into her bag and pulls out what appears to be a small polished rock with glowing runes etched into it.</Text>
+      <Text>In a dark quiet room at the back of the Spire, the young Enchantress sits in a prayer pose.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She puts it to her mouth and starts talking.</Text>
+      <Text>She lifts her head and opens her eyes to find Lina kneeling in front of her.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>LinA</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(into communicator)</Text>
+      <Text>EnchaNTRESS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Shadowcrest Command, this is Huntress </Text>
+      <Text>Greetings, Huntress </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Machado</Text>
-      <Text> at </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Terran</Text>
-      <Text> Dig Site #692. Reporting in.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The rock begins to pulse and glow as another voice comes from the other side.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Hunter Command</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Proceed, Huntress.</Text>
+      <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Additional Hunter support has arrived. We’ve proceeded to investigate dig site. We’ve encountered a Daemon, deceased. As well as rogue Celestial Guardian Gregor, who seems to have become Blighted...</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(trailing off)</Text>
+      <Text>Isla, I have an urgent message for the Arch-Huntress…</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A hooded figure appears in the bushes just beyond the clearing.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Lina stares directly at them, the figure staring back at her.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Hunter command</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Huntress, is that all?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Yes, that’s all to report. Requesting a daemonic cleanup crew and Guardian escorts to </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">retrive</Text>
-      <Text> Gregor.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Hunter COMMAND</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Clearing it with </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Command...Yes</Text>
-      <Text>, ma’am. They’re on their </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">way...ETA:</Text>
-      <Text> 3 hours. Anything else?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Excellent.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>HUNTER COMMAND</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Anything else?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Nope. Huntress </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Machado</Text>
-      <Text>, out.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>She puts away the communicator, still keeping eye contact with the hood figure.</Text>
+      <Text>Lina’s head turns to the right.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 7/8" Page="38" Title="">
+      <SceneProperties Length="7/8" Page="39" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ISLA"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Ancient tombs - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina is still kneeling and Isla the Enchantress has appeared in front her above the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">sigil</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Her focus is on the treeline where the DARK MAGE is standing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Isla</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ma’am?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Completely still, she continues.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tell her we need a containment team here right away. We’ve found a Daemon corpse on site. And also, bring a Guardian detail. We’ve found Gregor the Prescient. He seems to carry the Blight.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Isla</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is that all, ma’am?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes, that’s all Isla.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Isla</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’ll convey the message right away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thank you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Isla</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tis my duty, ma’am.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Isla fades away.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina rises to her feet and starts toward the Dark Mage.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 9 - He and a group of blighted beasts attack. ]</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="1 7/8" Page="40" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -3209,7 +3337,9 @@
       <Text>He sees Emmett and Harper.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Gregor (CONT’D)</Text>
+      <Text>Gregor (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Decided to send the girl away. Thought I was unsafe? How ironic. I suppose you’re right.</Text>
@@ -3233,7 +3363,9 @@
       <Text>Harper and Emmett look at each other.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Gregor (CONT’D)</Text>
+      <Text>Gregor (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>You called her Blackwell? I presume the daughter of my former boss, Arthur Blackwell. That </Text>
@@ -3322,7 +3454,7 @@
       <Text>Harper turns to Emmett who immediately runs outside.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="40" Title="">
+      <SceneProperties Length="1/8" Page="42" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. ANCIENT TOMBS, SECRET CHAMBER - day</Text>
@@ -3331,7 +3463,7 @@
       <Text>Emmett arrives as all three Initiates have been surrounded by a pack of Blight animals, tripping over a branch and stumbling to the ground.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="40" Title="">
+      <SceneProperties Length="6/8" Page="42" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -3349,9 +3481,7 @@
       <Text>Gregor</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>The kin of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ry’naughk’s</Text>
-      <Text> slayer will resurrect the Daemon Lord and bring upon the Apocalypse. So it is said, so it is written. I shall rewrite it.</Text>
+      <Text>The kin of Ry’naughk’s slayer will resurrect the Daemon Lord and bring upon the Apocalypse. So it is said, so it is written. I shall rewrite it.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
@@ -3380,7 +3510,7 @@
 [ Seq. 11 - Gregor has defeated the entire team. After he learns Quentin’s identity, he is preparing to kill him when Morgan drinks the Daemon’s blood, becoming Blighted, and battles Gregor. They are on the verge of destroying one another when the Dark Mage appears. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="41" Title="">
+      <SceneProperties Length="6/8" Page="42" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -3449,7 +3579,7 @@
       <Text>He cries out in exasperation.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="42" Title="">
+      <SceneProperties Length="3/8" Page="43" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3481,7 +3611,7 @@
       <Text>Let’s play.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="42" Title="">
+      <SceneProperties Length="3/8" Page="43" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
           <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
@@ -3524,7 +3654,7 @@
       <Text>A scream echoes from behind them. They turn to look.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="43" Title="">
+      <SceneProperties Length="4/8" Page="44" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3559,7 +3689,7 @@
       <Text>Emmett’s stone form fades and he looks to his savior with joy before he collapses onto the ground.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="43" Title="">
+      <SceneProperties Length="3/8" Page="44" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3588,7 +3718,7 @@
       <Text>He walks over the final Harper and looks down in disappointment.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3" Page="43" Title="">
+      <SceneProperties Length="3" Page="45" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -3830,7 +3960,7 @@
       <Text>This shall be interesting.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="46" Title="">
+      <SceneProperties Length="2/8" Page="48" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
         </SceneArcBeats>
@@ -3850,7 +3980,7 @@
       <Text>Morgan grimaces.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="47" Title="">
+      <SceneProperties Length="6/8" Page="48" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
@@ -3915,7 +4045,7 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold">[ Seq. 12 - Everyone wakes up and find Gregor and Morgan unconscious and the daemon corpse missing. The Guardians arrest Gregor and we learn Morgan is in a coma. We see the Dark Mage at his lair with the Daemon corpse. ]</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="47" Title="">
+      <SceneProperties Length="1 1/8" Page="48" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -4017,7 +4147,7 @@
       <Text>Harper leaves and runs back to the Inner Crypt.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="49" Title="">
+      <SceneProperties Length="2/8" Page="50" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient TOMBS, Inner CRYPT - day</Text>
@@ -4026,7 +4156,7 @@
       <Text>Harper walks into the broken Inner Crypt and finds Morgan and Gregor both lying on the ground, unconscious. She sees the broken sarcophagus and nothing else.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="49" Title="">
+      <SceneProperties Length="1 2/8" Page="50" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -4128,7 +4258,7 @@
       <Text>That’s unfortunate. But we have to find out what happened to that daemon.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="50" Title="">
+      <SceneProperties Length="1/8" Page="51" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient tombS, SECRET CHAMBER</Text>
@@ -4139,7 +4269,7 @@
       <Text> and Hunters. The pool of blood is there but the daemon who made it is missing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="50" Title="">
+      <SceneProperties Length="2/8" Page="51" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Dark room</Text>
@@ -4199,7 +4329,7 @@
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="212" Selection="33240,33240" ShowInvisibles="No"/>
+  <TextState Scaling="212" Selection="37805,37805" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -4885,6 +5015,7 @@
       <Character>Baen</Character>
       <Character>Calipha</Character>
       <Character>Faedris</Character>
+      <Character>Isla</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -4936,6 +5067,7 @@
       <Location>ANCIENT TOMBS</Location>
       <Location>MOUNT ARETHE</Location>
       <Location>OUTSIDE COUNCIL CHAMBERS</Location>
+      <Location>GREGOR'S HIDEOUT</Location>
     </Locations>
     <TimesOfDay Separator=" - ">
       <TimeOfDay>DAY</TimeOfDay>
@@ -5279,10 +5411,11 @@
     <Member Actor="Man 1" Character="Hunter Command"/>
     <Member Actor="Man 1" Character="Arch-huntress"/>
     <Member Actor="Man 1" Character="Aikko"/>
-    <Member Actor="" Character="Satine"/>
-    <Member Actor="" Character="Baen"/>
-    <Member Actor="" Character="Calipha"/>
-    <Member Actor="" Character="Faedris"/>
+    <Member Actor="Man 1" Character="Satine"/>
+    <Member Actor="Man 1" Character="Baen"/>
+    <Member Actor="Man 1" Character="Calipha"/>
+    <Member Actor="Man 1" Character="Faedris"/>
+    <Member Actor="" Character="Isla"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -5294,7 +5427,6 @@
   </CastList>
 
   <CharacterHighlighting>
-    <Character Color="#FFFFFFFFFFFF" Name="" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="ACCOUNTANT" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="AIKO" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="ARTHUR" Visible="No"/>
@@ -5306,7 +5438,7 @@
     <Character Color="#FFFFFFFFFFFF" Name="FAEDRIS" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="GREGOR" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="HARPER" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="HUNTER COMMAND" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="ISLA" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="LINA" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="MAYA" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="MORGAN" Visible="No"/>
@@ -5331,8 +5463,8 @@
   <ListItems/>
 
   <DisplayBoards>
-    <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
     <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
   </DisplayBoards>
 
 </FinalDraft>
