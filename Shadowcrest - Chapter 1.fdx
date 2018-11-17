@@ -403,8 +403,9 @@
       <Text>She stares at herself in the mirror before looking back down at a positive pregnancy test.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 2/8" Page="6" Title="">
+      <SceneProperties Length="1 6/8" Page="6" Title="">
         <SceneArcBeats>
+          <CharacterArcBeat Name="KERISS"></CharacterArcBeat>
           <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
           <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
           <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
@@ -440,32 +441,95 @@
       <Text>At the base of the stairs a dozen teens in identical outfits but grey.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Two of them, MAYA LOWELL (19) and QUENTIN BLACKWELL (19), are standing nervously, eyes forward.</Text>
+      <Text>One is MAYA LOWELL, 19, a plain girl who still felt awkward about combing her hair. Her face was calm but there was a hint of anxiety beneath the surface.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>One of the women steps forward, ARCH-HUNTRESS VENJI </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">ASAHD</Text>
-      <Text> (late 50s), and addresses the formation.</Text>
+      <Text>Next to Maya stood QUENTIN BLACKWELL, also 19, a wiry teen who couldn’t look more smug if he tried. And he was trying.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>MISTRESS </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">HELDA</Text>
+      <Text> KERISS, late 40s, steps forward to address the teens. A hush falls over them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Keriss</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let me be the first to commend you
+for your hard work and dedication;
+studying and training for the past
+three years to learn our craft. And
+now, for your final year, you will leave the classroom behind and</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>practice our craft in the field</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>beside real Hunters. Not all of you</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>will succeed. Not all of you will</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>survive. But those who do will</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>become the next generation of</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hunters and Huntresses. I hope you</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>are ready. Now, she’s a woman of few words but I hope I can convince the Arch Huntress to come up here and say a few words.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Another woman steps forward. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>This is ARCH-HUNTRESS </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">AKKARA</Text>
+      <Text> VENJI, early </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">70s</Text>
+      <Text>, a tall, bald woman who, despite her age, was the most intimidating presence on the courtyard.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Maya and Quentin glance at each other and smile.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She looks over all of their faces before stating in a booming voice.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VenJI</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Let me be the first to commend you for your hard work and dedication; studying and training for the past three years to learn our craft. And now, for your final year, you will leave the classroom behind and practice our craft in the field beside real Hunters. Not all of you will succeed. Not all of you will survive. But those who do will become the next generation of Hunters and Huntresses. I hope you are ready.</Text>
+      <Text>Today… you graduate.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She looks over each of the newcomers faces.</Text>
+      <Text>There is an awkward pause as everyone waits for the rest.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quentin leans over to Maya.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>VenJI (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
-      <Text>)</Text>
+      <Text>QuenTIN</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(whispering)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>When you are ready, come and join us in the Apex.</Text>
+      <Text>Seriously?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The large doors of the cathedral slowly swing open.</Text>
+      <Text>The Arch Huntress takes a step back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>kerISS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Thank you Arch Huntress. When you are all ready, please come and join us in the Apex.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The large doors of the cathedral crawl ajar.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Maya and Quentin turn to each other.</Text>
@@ -474,18 +538,18 @@
       <Text>Maya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You think we’re ready?</Text>
+      <Text>She really is a woman of few words.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>QueNTIN</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Hell yeah.</Text>
+      <Text>Guess so.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="6/8" Page="7" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
+          <CharacterArcBeat Name="KERISS"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
       <Text>Int. Apex entrance - day</Text>
@@ -494,24 +558,22 @@
       <Text>The Initiates enter the cathedral to find it barren and empty. Unlit sconces line the wall with cobwebs gathering on them.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Arch-Huntress stands at the front of the room with the other mages.</Text>
+      <Text>The Mistress Keriss stands at the front of the room with the other.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>As the Initiates gather in front of her, she continues.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>VenJI</Text>
+      <Text>keriss</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Now you learn our first secret. The Hunters have not operated out of the Apex cathedral for decades.</Text>
+      <Text>The first secret we share with you Initiates today. Hunters have not operated out of the Apex cathedral for decades.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She waves her hand and the pulpit along with the floor beneath it vanish. A dark stairway leading down with ropes of blue pure light lining the walls.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Venji (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
-      <Text>)</Text>
+      <Text>keriss (CONT’D)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>As you know, Shadowcrest was built upon the Daemon Lord’s lair after the </Text>
@@ -522,10 +584,11 @@
       <Text>She guides them down the staircase.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 2/8" Page="8" Title="">
+      <SceneProperties Length="2 5/8" Page="8" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
+          <CharacterArcBeat Name="KERISS"></CharacterArcBeat>
           <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
           <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
           <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
@@ -540,7 +603,7 @@
       <Text>Large rooms line with walls filled with mages working on various tasks.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Venji</Text>
+      <Text>keriss</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Welcome to the Apex Commons, your new home. This is where all Hunter operations in both world originate. We coordinate with agents scattered amongst both worlds to fight real threats in real time.</Text>
@@ -549,7 +612,7 @@
       <Text>Maya and Quentin are enamored.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Venji (</Text>
+      <Text>keriss (</Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
       <Text>)</Text>
     </Paragraph>
@@ -557,24 +620,21 @@
       <Text>Ah, bless the Cosmos, it seems we have a visitor. The Arch-mage himself.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Up walks a tall, sturdy man with white hair wearing gold and white plate mail: </Text>
+      <Text>Up walks </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">ARCHMAGE</Text>
-      <Text> ARTHUR BLACKWELL (60s).</Text>
+      <Text> ARTHUR BLACKWELL, late 60s, a sturdy man in golden and pearl armor. His face wouldn’t betray it but he was over 500 years old, although he spoke like a person who had countless tragedies etched into his memories.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Arthur</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Ah, pay me no mind. Just having a look at the new Initiates.</Text>
+      <Text>Pay me no mind. Just wanted to see the new Initiates.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>VenJI</Text>
+      <Text>Keriss</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Yes, a large lot this year. I sense a few extraordinary picks in the bunch.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Maya turns to Quentin whose lips are sweaty.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The </Text>
@@ -585,85 +645,108 @@
       <Text>Arthur</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Make us proud.</Text>
+      <Text>I’m sure you’ll all make us proud.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He walks away gracefully.</Text>
+      <Text>As he turns to walk away, Quentin throws him one hand in a brief wave.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Maya leans over.</Text>
+      <Text>The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Archmage</Text>
+      <Text> stops and nods before continuing away, gracefully.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quentin glances towards the floor.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Maya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Afraid Daddy would embarrass you?</Text>
+      <Text>He’s probably really busy.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Quentin looks her in the eye.</Text>
+      <Text>Her looks up at her.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>QuenTIN</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Shut up.</Text>
+      <Text>Obviously.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She smirks.</Text>
+      <Text>He shakes his head.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Venji</Text>
+      <Text>keriSS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Alright. Well that’s enough from me. The constables will guide you to the living quarters where you’ll find your new uniforms. Later this evening we will give you assignments. That is all Initiates.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Venji turns around and notices Aiko, still in her Earth clothing, ducking behind a pillar.</Text>
+      <Text>Alright. Well that’s enough from me. The constables will guide you to the living quarters where you’ll find your new uniforms. Later this evening we will give you assignments. Here’s some final words from the Arch Huntress.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Venji (</Text>
+      <Text>VeNJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Make us proud.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Another long pause.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KerISS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That is all Initiates.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone disperses.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Keriss and Venji turn around to find Aiko, leaning against a pillar.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KerISS (</Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Huntress </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Tanaka</Text>
-      <Text>, a word please.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Aiko approaches her with her hands folded.</Text>
+      <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Please don’t, ma’am. I beg of you.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Venji</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Don’t worry, Aiko. You don’t have time to take on an Initiate.</Text>
+      <Text>Doing your whole “woman of few words” routine?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Aiko pumps her fist in joy then looks confused.</Text>
+      <Text>Venji smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VenJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We enjoy it. Plus, whenever I have to speak to them directly, it catches them off-guard hearing me stay more than three words.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Why not?</Text>
+      <Text>Twisted. I love it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Keriss grins and walks away.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They begin to walk down a large hallway.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Venji</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>The </Text>
+      <Text>Oh, before I forget, the </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Archmage</Text>
-      <Text> has asked for your help specifically in regards to a special assignment.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Aiko looks even more confused.</Text>
+      <Text> has asked for your help with a special assignment.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
@@ -675,25 +758,28 @@
       <Text>Venji</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Could be. Who knows. He may be testing you. There is a seat open on the Council.</Text>
+      <Text>Could be. Who knows. Could have something to do with the Council. There is a open seat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Venji looks at her suggestively.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Yeah, right. Me, a Guardian. That’s a good one.</Text>
+      <Text>Armor doesn’t really suit me.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Venji</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You never know.</Text>
+      <Text>Well, it’s always good to keep an open mind.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Harper maybe. </Text>
+      <Text>Me, a Guardian? No. Harper, maybe. </Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text>(shaking her head)</Text>
@@ -705,7 +791,7 @@
       <Text>VenJI</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Speaking of which, where is she. I was hoping to debrief about Westeros.</Text>
+      <Text>Speaking of which, where is Mistress Evans. I was hoping to debrief about Westeros.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
@@ -714,7 +800,7 @@
       <Text>You know where.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2" Page="10" Title="">
+      <SceneProperties Length="1 7/8" Page="11" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="DANTE"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -723,13 +809,13 @@
       <Text>Int. fancy restaurant - night</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A man, DANTE EMERSON (30s, dark-skinned) is sitting alone at his table.</Text>
+      <Text>DANTE EMERSON, early 30s, is sitting alone at a table. He’s calm and oblivious. His dark suit hangs quite loose but he doesn’t wear it enough to bother getting it brought in. He might after tonight though.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He’s covering his mouth with one hand while the other fiddles with the lid of a jewelry box. Inside the box is a diamond engagement ring.</Text>
+      <Text>One hand rests on the table while the other holds open the lid of a jewelry box. Inside, a diamond ring.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He’s staring at the diamond, deep in contemplation. He looks morose.</Text>
+      <Text>He’s staring at the diamond, deep in somber contemplation.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>He snaps the box shut and covers it with his napkin.</Text>
@@ -741,7 +827,7 @@
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Hey, babe. Sorry I’m late. Got held up at work.</Text>
+      <Text>Hey. Sorry I’m late. Got held up at work.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Dante gets up and kisses her.</Text>
@@ -756,13 +842,13 @@
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Same old, same old.</Text>
+      <Text>Stress comes with the job.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>He pulls out her chair for her and then takes a seat.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He stares at her oddly. It takes her a moment to notice.</Text>
+      <Text>He stares at her oddly.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper (</Text>
@@ -776,7 +862,7 @@
       <Text>Dante</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>So, first off, I dig the hair. Second, since when do you wear glasses?</Text>
+      <Text>Since when do you wear glasses?</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Harper touches her face.</Text>
@@ -787,7 +873,7 @@
     <Paragraph Type="Dialogue">
       <Text>Oh, yeah. </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Um</Text>
-      <Text>— Since we’re gonna be out on Halloween, the school decided to do a dress-up day for the kids. I decided to go as Mrs. Raleigh, one of the other teachers. You kind of have to know her to understand.</Text>
+      <Text>— Since we’re gonna be out on Halloween, the school decided to do a dress-up day for the kids. I decided to go as Mrs. Raleigh, one of the other teachers. You kind of have to know her.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Dante nods.</Text>
@@ -813,7 +899,7 @@
     <Paragraph Type="Dialogue">
       <Text>Something wrong. You seem </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">kinda</Text>
-      <Text> down lately.</Text>
+      <Text> distressed lately.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
@@ -837,9 +923,9 @@
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I don’t know. She’s been so distant lately. You know, after </Text>
+      <Text>I don’t know. She’s been so withdrawn. You know, after </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
-      <Text> died I was worried for her. She didn’t eat or sleep or do anything. Then it seemed like she turned a corner, you know. But now, I don’t know. She’s still got a lot of pain, more pain than I could ever imagine. And I’m just worried about what she’ll end up doing because of it.</Text>
+      <Text> died I was really worried. She didn’t eat or sleep or do anything. Then it seemed like she turned a corner, you know. But now… I don’t know. She’s still got a lot of pain, more pain than I could ever imagine. And I’m just worried about what she’ll end up doing because of it.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Dante</Text>
@@ -851,13 +937,13 @@
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>No— I don’t know. She’s had a rough life. So much darkness and pain.  Sometimes I wonder if it will ever leave. If it even can.</Text>
+      <Text>No— I don’t know. She’s had a rough life. So much darkness.  Sometimes I wonder if it will ever leave her. If it even can.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Dante nods silently.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The waiter comes and asks if for their drinks while Dante slips the jewelry box back into his pocket.</Text>
+      <Text>The waiter comes and asks for their drinks while Dante slips the jewelry box back into his pocket.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="2/8" Page="12" Title="">
@@ -873,10 +959,11 @@
       <Text>In the center of the compound lies a tower known as THE CONDUIT; crafted from marble it pierces upward from it’s wide base and tapers off to a fine point.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 1/8" Page="12" Title="">
+      <SceneProperties Length="1 1/8" Page="13" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="ENCHANTRESS"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="ISLA"></CharacterArcBeat>
+          <CharacterArcBeat Name="KERISS"></CharacterArcBeat>
           <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
@@ -889,22 +976,19 @@
       <Text>A swirling ball of red energy, twice the size of a house, floats midair.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A flat stone rests underneath. Three white-haired ENCHANTRESSES in red robes standing a triangle around it. Hands crossed, as if in prayer.</Text>
+      <Text>A flat stone rests underneath. Three white-haired ENCHANTRESSES in red robes standing a triangle around it. Hands folded, as if in prayer.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Venji enters.</Text>
+      <Text>Keriss enters.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A fourth enchantress approaches her, this one much younger. She bows her head.</Text>
+      <Text>A timid young enchantress named ISLA, late twenties, approaches and bows her head.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Enchantress</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(soft, flat voice)</Text>
+      <Text>ISLA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>She is arriving now madam.</Text>
+      <Text>She is arriving now Mistress.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The other enchantresses begin to chant in an ancient tongue.</Text>
@@ -922,10 +1006,10 @@
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Ladies.</Text>
+      <Text>Sisters…</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper notices Venji waiting for her.</Text>
+      <Text>Harper notices Keriss waiting for her.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper (</Text>
@@ -933,27 +1017,24 @@
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Ma’am.</Text>
+      <Text>To what do I owe the honor.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Venji</Text>
+      <Text>kerISS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I have an assignment for you.</Text>
+      <Text>The Arch Huntress has an assignment for you.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper turns to the orb and then back to Venji. She makes a strained face.</Text>
+      <Text>Harper turns to the orb and then back at her.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>VenJI (</Text>
+      <Text>kerISS (</Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Lina is reporting Blight on Terra and requesting backup. I thought you would want to go.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Harper nods.</Text>
+      <Text>Normally, she’d wait for you to settle in but Lina is reporting Blight on Terra and requesting backup. I thought you would want to go.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
@@ -968,12 +1049,13 @@
       <Text>Speaking of which…</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She turns to the side to reveal MAYA and QUENTIN standing by the doorway behind her.</Text>
+      <Text>She steps to the side to reveal MAYA and QUENTIN.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 6/8" Page="13" Title="">
+      <SceneProperties Length="3 2/8" Page="14" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="KERISS"></CharacterArcBeat>
           <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
           <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
           <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
@@ -982,55 +1064,83 @@
       <Text>Ext. Shadowcrest - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>GROUNDS</Text>
+      <Text>MAIN GARDENS</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper and Venji are walking along the pathway between two manicured lawns.</Text>
+      <Text>Arch Huntress Venji is drinking tea on a patio overlooking the training yard.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Maya and Quentin are a few paces behind.</Text>
+      <Text>Harper walks in, Keriss behind her.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Harper</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(whispered, upset)</Text>
+      <Text>KerISS</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Why two?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Venji</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Only until Aiko is finished with her Guardian assignment.</Text>
+      <Text>She insisted on seeing you ma’am.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>So I get no say in this?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Venji</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>No.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>HARPER</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Things are kind of weird, right now. An Initiate is a big commitment.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Venji</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>A commitment you agreed to when you became a Huntress.</Text>
+      <Text>I’m sorry to interrupt you, Arch Huntress. But I can’t take on two Initiates, right now.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>They stop walking.</Text>
+      <Text>Venji sets down her cup and looks at Harper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VenJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why is that Mistress Evans?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I— Umm… Now is just not a good time for me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Venji</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It would seem.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She stands up and approaches Harper.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VenJI (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now, I’ve always had high hopes for you Harper. You’ve been one of my most loyal and disciplined Huntresses. There was once a time when I deemed you a worthy successor for my position.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Keriss, still lurking in the background, shifts uneasily.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VeNJI (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But lately, you’ve been lax with your responsibilities, neglecting your duties.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ma’am, I’ve bee—</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VenJI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There is no room for excuses in the life of a Huntress. Now, I’m glad you’ve found love and I wish you the best. But you made a commitment upon joining this Order. An commitment not to be taken lightly. If you can’t honor those duties here, then maybe it’s time you consider Uncoupling.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper wipes away a tear.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Venji (</Text>
@@ -1038,10 +1148,10 @@
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Look, I’m happy that you have found someone. But just because your life on Terra is going well doesn’t mean you can neglect your responsibilities here.</Text>
+      <Text>With Aiko away on assignment, we’re down a trainer and I need you to double up. Can you do this, Mistress Evans?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper sighs and nods.</Text>
+      <Text>Harper nods.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Venji (</Text>
@@ -1049,7 +1159,7 @@
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Now, get them equipped and ready to go. Time is of the essence.</Text>
+      <Text>Good. Get them equipped and ready to go. Time is of the essence.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
@@ -1058,10 +1168,13 @@
       <Text>Yes, ma’am.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Venji leaves.</Text>
+      <Text>GROUNDS</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper walks over to the Initiates.</Text>
+      <Text>The Initiates are waiting outside the Garden Gates as Harper exits.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She forces a smile and approaches them.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper (</Text>
@@ -1091,7 +1204,7 @@
       <Text>Maya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Maya Lowell, Huntress.</Text>
+      <Text>Maya Lowell, Mistress Evans.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Harper shakes.</Text>
@@ -1109,13 +1222,13 @@
       <Text>Maya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>My grandfather, ma’am.</Text>
+      <Text>My father, ma’am. Adopted.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Oh.</Text>
+      <Text>Ah. He was a fine Loremage. It’s a shame…</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Harper shows a tinge of sadness.</Text>
@@ -1126,13 +1239,10 @@
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>He was a fine Hunter. It’s a shame…</Text>
+      <Text>And you can call me Harper.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Maya nods.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Harper changes topics to lift the mood.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper (</Text>
@@ -1140,7 +1250,7 @@
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>So, what kind of skills you punks wielding?</Text>
+      <Text>So, show me what you guys got?</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She looks at Maya who nervously pulls her hands out of pockets.</Text>
@@ -1155,16 +1265,16 @@
       <Text>Be ready to be amazed.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Maya, concentrating deeply, sticks out her arm. An ethereal hawk starts to form.</Text>
+      <Text>Maya sticks out her arm. With much concentration, an ethereal green hawk appears out of nowhere.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She opens her eyes and the bird takes flight, circling around overhead.</Text>
+      <Text>The bird takes flight, circling around overhead.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>That’s pretty cool.</Text>
+      <Text>That’s pretty neat.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Quentin chuckles.</Text>
@@ -1182,7 +1292,7 @@
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>What about you then, Chuckles?</Text>
+      <Text>What about you then?</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Quentin grins.</Text>
@@ -1197,28 +1307,24 @@
       <Text>Quentin</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Pretty sick, huh.</Text>
+      <Text>Pretty sick, huh?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Gold. Seems like you might think a little highly of yourself.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Quentin</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Never rusts or corrodes.</Text>
+      <Text>Not bad.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Harper looks at the two of them.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Harper</Text>
+      <Text>Harper (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Well can you guys fight?</Text>
+      <Text>Can you fight though?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Quentin</Text>
@@ -1233,7 +1339,7 @@
       <Text>Sure thing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 1/8" Page="16" Title="">
+      <SceneProperties Length="1 1/8" Page="17" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
@@ -1270,7 +1376,7 @@
       <Text>Really? This is ridiculous.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper than walks over and hands Maya a similar dagger and also a crossbow.</Text>
+      <Text>Harper than walks over and hands Maya a crossbow.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
@@ -1282,7 +1388,7 @@
       <Text>Maya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I got a 98 on my ranged weapons assessment.</Text>
+      <Text>I got a 98 on my ranged assessment.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
@@ -1306,7 +1412,7 @@
       <Text>QuentIN</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>How come she gets a weapon and I get dick?</Text>
+      <Text>So she gets a weapon and I get dick.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Harper tilts her head to the side.</Text>
@@ -1315,13 +1421,13 @@
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Look, all Hunters are required to bring a supplementary weapon into the field but I feel like your power doesn’t need that much help.</Text>
+      <Text>Look, all Hunters are required to bring a supplementary weapon into the field but let’s be honest, can’t really beat metal skin.</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text>(turning to Maya)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>The bird is nice but you might need to protect yourself out there. This will help with that.</Text>
+      <Text>On the other hand, the bird is nice but you’ll need to protect yourself out there.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Quentin sucks his teeth.</Text>
@@ -1329,22 +1435,22 @@
     <Paragraph Type="Action">
       <Text>Maya smiles.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Harper (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
-      <Text>)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Alright, let’s go.</Text>
-    </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="17" Title="">
-        <SceneArcBeats/>
+      <SceneProperties Length="3/8" Page="18" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+        </SceneArcBeats>
       </SceneProperties>
       <Text>Int. The conduit - night</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Harper, Maya and Quentin stand underneath the giant swirling vortex while wearing camping gear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Alright, let’s go.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>A flash of light as the Enchantresses utter their incantations and the three disappear.</Text>
@@ -1353,7 +1459,7 @@
       <Text>Panning down, we see a room underneath…</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 2/8" Page="17" Title="">
+      <SceneProperties Length="4 2/8" Page="18" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
@@ -1365,16 +1471,16 @@
       <Text>Incandescent flowers and vines illuminate a small patch of grass inside a vast chamber. A few scattered trees cast shadows which blanket the walls.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Aiko sits on a bench, nervously staring into the darkness.</Text>
+      <Text>Aiko sits on a bench, staring at the flowers. A tear forms and rolls down her eye.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A male voice comes from behind her.</Text>
+      <Text>A male voice comes from behind her and she wipes it away.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Arthur</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Thanks you for coming.</Text>
+      <Text>Thank you for coming, Huntress.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She starts to rise.</Text>
@@ -1391,7 +1497,7 @@
       <Text>Aiko</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Yes, sir. Thank you, sir.</Text>
+      <Text>Yes, sir.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>He takes a seat beside her, enjoying the view as well.</Text>
@@ -1702,7 +1808,7 @@
       <Text>I’m beginning to see why Harper speaks so highly of you.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 1/8" Page="21" Title="">
+      <SceneProperties Length="1 1/8" Page="22" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -1799,7 +1905,7 @@
       <Text>We should head back to camp. Sun’s going down soon.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 2/8" Page="22" Title="">
+      <SceneProperties Length="2 5/8" Page="23" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -1900,7 +2006,7 @@
       <Text>EmmeTT</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>She’s doing well. She understands this world so much better than I do.</Text>
+      <Text>You know she doesn’t talk to me. Unless it’s what food not to eat and what not to wear. She understands this world so much better than I do.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>HarpER</Text>
@@ -1918,53 +2024,79 @@
       <Text>Maya, Morgan and Quentin are gathered around the fire.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Maya</Text>
+      <Text>Morgan</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">…and</Text>
-      <Text> then she showed us the Apex which we can’t really talk about. But it was awesome.</Text>
+      <Text>It’s horrible. We’re three days behind schedule and </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">that’ll</Text>
+      <Text> hardly give us time to catalogue and sample before the next expedition.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>QuentIN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>They’re rocks. Not like they’re going anywhere.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Morgan</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I’ve been inside…</Text>
+      <Text>No, but they’ll just announced a new expedition on the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Nuusem</Text>
+      <Text> ice caverns back home. If we don’t catalogue this site soon, they may give that assignment to someone else.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Maya</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Only Morgan would be upset about not having </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">enough</Text>
+      <Text> work.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Quentin and Maya share a laugh. Morgan frowns.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
-      <Text>(turning to Quentin)</Text>
+      <Text>(to Quentin)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Our father took us there once when we were younger.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Maya turns to Quentin.</Text>
+      <Text>So have you see father or mother?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>QuentIN</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>What? You seemed excited. I didn’t want to spoil your fun.</Text>
+      <Text>He stopped by as we were touring the Apex.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Maya</Text>
+      <Text>Morgan</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Perks of having a powerful dad, I guess.</Text>
+      <Text>What did he say?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Quentin</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You know. Typical dad stuff. How he’s proud and all that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Morgan</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sounds like him.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Morgan and Quentin look at each other.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>QuentIN</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>It’s not all it’s cracked up to be.</Text>
+      <Text>Maya looks at him forlorn. He shrugs it off.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Maya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>So I’m curious. Since your Dad’s like 500 years old, does that mean you two are also going to live forever?</Text>
+      <Text>So I’m curious. Since your he’s like 500 years old, does that mean you two are also going to live forever?</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Morgan shrugs.</Text>
@@ -1996,7 +2128,7 @@
       <Text>It’s an mystical Terran treat the Humans refer to as S’mores.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="25" Title="">
+      <SceneProperties Length="5/8" Page="26" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
         </SceneArcBeats>
@@ -2034,7 +2166,7 @@
       <Text>A barely coherent Emmett nods as everyone else tries to get their bearings.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 7/8" Page="25" Title="">
+      <SceneProperties Length="2 7/8" Page="27" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2071,12 +2203,17 @@
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Dammit.</Text>
+      <Text>A year ago I wouldn’t have gotten this close. Getting pretty sloppy.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Behind her is LINA </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">MACHADO</Text>
-      <Text> (21, Hispanic) who has failed to sneak up on her. The two of them hug.</Text>
+      <Text>, early </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">20s</Text>
+      <Text>, with two hatchets tucked in holsters over her abdomen. She was full of energy and spoke to Harper like a sister.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The two of them hug.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>HarPER</Text>
@@ -2284,7 +2421,7 @@
       <Text>They enter the tomb.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="28" Title="">
+      <SceneProperties Length="2 3/8" Page="30" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2487,7 +2624,7 @@
       <Text>Maya pushes back an overgrown mass of vines to reveal a small passageway.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 6/8" Page="30" Title="">
+      <SceneProperties Length="1 6/8" Page="32" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -2657,7 +2794,7 @@
       <Text>I know you. We tried to kill each other once. Would you like some tea?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="32" Title="">
+      <SceneProperties Length="2/8" Page="34" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Ext. Mount arethe - day</Text>
@@ -2671,7 +2808,7 @@
       <Text> reflect brightly off of the golden columns that line the entrance.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 5/8" Page="32" Title="">
+      <SceneProperties Length="2 5/8" Page="34" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
           <CharacterArcBeat Name="BAEN"></CharacterArcBeat>
@@ -2863,7 +3000,7 @@
       <Text>It’s true. This council was formed as a balance to the unhinged autocracy that it once fought. And, while I value all of your opinions and wish to hear your dissent, know that my decision today was not made out of arrogance or haste but out of sheer necessity. I don’t expect you all to agree with it but understand that it this decision is final.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="7/8" Page="35" Title="">
+      <SceneProperties Length="7/8" Page="36" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
@@ -2949,7 +3086,7 @@
       <Text>Aiko looks nervous and excited.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="36" Title="">
+      <SceneProperties Length="4/8" Page="37" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -2999,7 +3136,7 @@
       <Text>Harper silently declines and turns to leave.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 6/8" Page="36" Title="">
+      <SceneProperties Length="1 6/8" Page="38" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -3148,7 +3285,7 @@
       <Text>Lina nods.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 1/8" Page="38" Title="">
+      <SceneProperties Length="1 1/8" Page="39" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -3240,7 +3377,7 @@
       <Text>They all turn to look at the unconscious Guardian.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="39" Title="">
+      <SceneProperties Length="2/8" Page="41" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Ext. AnciENT TOMBs - day</Text>
@@ -3258,7 +3395,7 @@
       <Text>She closes her eyes.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="39" Title="">
+      <SceneProperties Length="3/8" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ENCHANTRESS"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -3290,7 +3427,7 @@
       <Text>Lina’s head turns to the right.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="6/8" Page="40" Title="">
+      <SceneProperties Length="6/8" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -3361,7 +3498,7 @@
       <Text>Lina rises to her feet and starts toward the Dark Mage.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 1/8" Page="40" Title="">
+      <SceneProperties Length="4 1/8" Page="42" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -3641,7 +3778,7 @@
       <Text>Harper turns to Emmett who immediately runs outside.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="7/8" Page="44" Title="">
+      <SceneProperties Length="7/8" Page="46" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
@@ -3724,7 +3861,7 @@
       <Text>Just like in training.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="45" Title="">
+      <SceneProperties Length="5/8" Page="47" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
@@ -3778,7 +3915,7 @@
       <Text>Oh, it really is nice to have company. I’ve been ever so lonely.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5 5/8" Page="46" Title="">
+      <SceneProperties Length="5 4/8" Page="47" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
@@ -4242,7 +4379,7 @@
       <Text>Aiko nods.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="7/8" Page="52" Title="">
+      <SceneProperties Length="7/8" Page="53" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -4313,7 +4450,7 @@
       <Text>Emmett grunts across the cavern. Lina heads to his rescue.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="52" Title="">
+      <SceneProperties Length="5/8" Page="54" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -4368,7 +4505,7 @@
       <Text>Let’s play.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="7/8" Page="53" Title="">
+      <SceneProperties Length="7/8" Page="54" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -4435,7 +4572,7 @@
       <Text>He turns to look at the hideout entrance.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="54" Title="">
+      <SceneProperties Length="3/8" Page="55" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -4464,7 +4601,7 @@
       <Text>He walks past her, shaking his head.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3 5/8" Page="54" Title="">
+      <SceneProperties Length="3 5/8" Page="55" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -4767,7 +4904,7 @@
       <Text>From behind glowing red eyes, she smirks.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="58" Title="">
+      <SceneProperties Length="4/8" Page="59" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
@@ -4824,7 +4961,7 @@
       <Text>A HOODED FIGURE appears in the middle of the room, next to the streams of energy.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1" Page="58" Title="">
+      <SceneProperties Length="1" Page="60" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -4917,7 +5054,7 @@
       <Text>Maya points out a hole in the cavern wall. Light is peeking through.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="59" Title="">
+      <SceneProperties Length="2/8" Page="60" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient TOMBS - NIGHT</Text>
@@ -4932,7 +5069,7 @@
       <Text>Morgan and Gregor are both lying on the ground, unconscious. The room is empty.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="59" Title="">
+      <SceneProperties Length="2/8" Page="61" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>OUTER CRYPT</Text>
@@ -4944,7 +5081,7 @@
       <Text>She pulls out her staff, preparing for a fight, when she recognizes Aiko’s face atop a mass of glittering armor.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 3/8" Page="59" Title="">
+      <SceneProperties Length="1 3/8" Page="61" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -5059,7 +5196,7 @@
       <Text>That’s unfortunate. We must find out what happened to that daemon.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="61" Title="">
+      <SceneProperties Length="1/8" Page="62" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. secreT CAVE</Text>
@@ -5070,7 +5207,7 @@
       <Text> and Hunters. The pool of daemon blood remains but the corpse is missing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="61" Title="">
+      <SceneProperties Length="2/8" Page="62" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Dark room</Text>
@@ -5118,7 +5255,7 @@
 
   <SpellCheckIgnoreLists>
     <IgnoredRanges>
-      <Range End="23379" Start="23372"/>
+      <Range End="25563" Start="25556"/>
     </IgnoredRanges>
     <IgnoredWords/>
   </SpellCheckIgnoreLists>
@@ -5130,7 +5267,7 @@
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="212" Selection="5683,5683" ShowInvisibles="No"/>
+  <TextState Scaling="212" Selection="24164,24174" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -5800,27 +5937,28 @@
 
   <SmartType>
     <Characters>
-      <Character>Harper</Character>
-      <Character>Gregor</Character>
-      <Character>Lina</Character>
-      <Character>Emmett</Character>
-      <Character>AIKo</Character>
-      <Character>Arthur</Character>
-      <Character>VENJI</Character>
-      <Character>Quentin</Character>
-      <Character>MAYA</Character>
-      <Character>Morgan</Character>
-      <Character>Dante</Character>
-      <Character>Isla</Character>
-      <Character>Satine</Character>
-      <Character>Westmoreland</Character>
-      <Character>Faedris</Character>
-      <Character>Enchantress</Character>
       <Character>Accountant</Character>
+      <Character>AIKo</Character>
+      <Character>Arch-huntress</Character>
+      <Character>Arthur</Character>
       <Character>Baen</Character>
       <Character>Calipha</Character>
-      <Character>Arch-huntress</Character>
+      <Character>Dante</Character>
+      <Character>Emmett</Character>
+      <Character>Enchantress</Character>
+      <Character>Faedris</Character>
+      <Character>Gregor</Character>
+      <Character>Harper</Character>
+      <Character>Isla</Character>
       <Character>Ja’phael</Character>
+      <Character>Keriss</Character>
+      <Character>Lina</Character>
+      <Character>MAYA</Character>
+      <Character>Morgan</Character>
+      <Character>Quentin</Character>
+      <Character>Satine</Character>
+      <Character>VENJI</Character>
+      <Character>Westmoreland</Character>
     </Characters>
     <Extensions>
       <Extension>(V.O.)</Extension>
@@ -6181,27 +6319,28 @@
       <Element Type="Character"/>
       <Element Type="Dialogue"/>
     </Narrator>
-    <Member Actor="Man 1" Character="Harper"/>
-    <Member Actor="Man 1" Character="Gregor"/>
-    <Member Actor="Man 1" Character="Lina"/>
-    <Member Actor="Man 1" Character="Emmett"/>
-    <Member Actor="Man 1" Character="AIKo"/>
-    <Member Actor="Man 1" Character="Arthur"/>
-    <Member Actor="Man 1" Character="VENJI"/>
-    <Member Actor="Man 1" Character="Quentin"/>
-    <Member Actor="Man 1" Character="MAYA"/>
-    <Member Actor="Man 1" Character="Morgan"/>
-    <Member Actor="Man 1" Character="Dante"/>
-    <Member Actor="Man 1" Character="Isla"/>
-    <Member Actor="Man 1" Character="Satine"/>
-    <Member Actor="Man 1" Character="Westmoreland"/>
-    <Member Actor="Man 1" Character="Faedris"/>
-    <Member Actor="Man 1" Character="Enchantress"/>
     <Member Actor="Man 1" Character="Accountant"/>
+    <Member Actor="Man 1" Character="AIKo"/>
+    <Member Actor="Man 1" Character="Arch-huntress"/>
+    <Member Actor="Man 1" Character="Arthur"/>
     <Member Actor="Man 1" Character="Baen"/>
     <Member Actor="Man 1" Character="Calipha"/>
-    <Member Actor="Man 1" Character="Arch-huntress"/>
+    <Member Actor="Man 1" Character="Dante"/>
+    <Member Actor="Man 1" Character="Emmett"/>
+    <Member Actor="Man 1" Character="Enchantress"/>
+    <Member Actor="Man 1" Character="Faedris"/>
+    <Member Actor="Man 1" Character="Gregor"/>
+    <Member Actor="Man 1" Character="Harper"/>
+    <Member Actor="Man 1" Character="Isla"/>
     <Member Actor="Man 1" Character="Ja’phael"/>
+    <Member Actor="Man 1" Character="Keriss"/>
+    <Member Actor="Man 1" Character="Lina"/>
+    <Member Actor="Man 1" Character="MAYA"/>
+    <Member Actor="Man 1" Character="Morgan"/>
+    <Member Actor="Man 1" Character="Quentin"/>
+    <Member Actor="Man 1" Character="Satine"/>
+    <Member Actor="Man 1" Character="VENJI"/>
+    <Member Actor="Man 1" Character="Westmoreland"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -6226,6 +6365,7 @@
     <Character Color="#FFFFFFFFFFFF" Name="HARPER" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="ISLA" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="JA’PHAEL" Visible="No"/>
+    <Character Color="#FFFFFFFFFFFF" Name="KERISS" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="LINA" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="MAYA" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="MORGAN" Visible="No"/>
