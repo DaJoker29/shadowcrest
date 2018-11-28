@@ -404,9 +404,7 @@
       <Text>Ext. shadowcrest - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The world of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">HYDOR</Text>
-      <Text> has a distinctly different feel than Earth due to the sky being more green than blue.</Text>
+      <Text>The world of HYDOR has a distinctly different feel than Earth due to the sky being more green than blue.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>An ancient cobblestone fortress sits on the side of a snow-capped mountain.</Text>
@@ -452,14 +450,15 @@ on your hard work and dedication;
 the past three years have not been easy. And now, for your final year of training, you will leave the classroom behind and practice our craft in the field beside real Hunters. Not all of you will succeed. Some may not survive. But those who do will form the next generation of Hunters and Huntresses. I hope you</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>are ready. Now, she’s a woman of few words, the overseer of all </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">are</Text>
+      <Text> ready. Now, she’s a woman of few words, the overseer of all </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">battlecraft</Text>
       <Text>, Arch Huntress Venji </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Asahd</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A short, frail looking woman steps forward. ARCH-HUNTRESS VENJI </Text>
+      <Text>A short, bald woman steps forward. ARCH-HUNTRESS VENJI </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">ASAHD</Text>
       <Text>, early </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">70s</Text>
@@ -1668,7 +1667,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Arthur</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>The Celestial Guardians are bound by a sacred code, their duty may conflict with this task. Besides, I have other concerns regarding my Council. And in the event of my demise, the Arch Mages will have their hands quite full; this is of too great importance to let fall through the cracks. No, I need someone trustworthy to do what is right and good, no more and no less. Harper tells me that is you.</Text>
+      <Text>The Celestial Guardians are bound by a sacred code, their duty may conflict with this task. Besides, I have other concerns regarding my Council. And in the event of my demise, the Arch Mages will have their hands quite full; this is of too great importance to fall through the cracks. No, I need someone trustworthy to do what is right and good, no more and no less. Harper tells me that is you.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
@@ -2234,9 +2233,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text> used to say about you.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lina begins to gaze off into the </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">distance.Harper</Text>
-      <Text> pats her on the shoulder.</Text>
+      <Text>Lina begins to gaze off into the distance. Harper pats her on the shoulder.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper (</Text>
@@ -2318,7 +2315,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text> last night.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper scans the brush.</Text>
+      <Text>Harper scans the treeline.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>lina</Text>
@@ -2339,7 +2336,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>They enter the tomb.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 3/8" Page="29" Title="">
+      <SceneProperties Length="2 4/8" Page="29" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -2355,7 +2352,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>OUTER CRYPT</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Huntresses lead the pack as they advance through dark tunnels, flashlights strapped to their shoulders.</Text>
+      <Text>Lina and Harper lead the pack as they creep through a dark tunnel, flashlights strapped to their shoulders.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Maya</Text>
@@ -2364,7 +2361,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>(covering her nose)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Cosmos, what’s that smells?</Text>
+      <Text>Cosmos, what’s that smell?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Quentin</Text>
@@ -2375,22 +2372,16 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>— Holy hell.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Emmett kneels down and rubs his fingers across a streak of gray blood on the floor.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Emmett</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Wounds of Blighted are known to give off noxious fumes.</Text>
+      <Text>Emmett kneels down and runs a finger through a streak of gray liquid on the floor.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You’ll get used to it.</Text>
+      <Text>Blighted blood smell like ass. Ya get used to it after a while.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A rock falls behind them, followed by skittering footsteps.</Text>
+      <Text>A rock falls behind them, followed by some skittering footsteps.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>A trio of BLIGHTED JAGUARS emerge from two side halls behind them.</Text>
@@ -2408,7 +2399,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Maya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Don’t let them touch you.</Text>
+      <Text>Don’t let them bite you.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
@@ -2420,10 +2411,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Lina crosses her hatchets. The flashlights begin to flicker as electricity dances in her eyes.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She casts her arms forward and a surge of lightning shoots forward, knocking each of the jaguars down.</Text>
+      <Text>She casts her arms forward and a surge of lightning shoots forth, knocking each of the jaguars down.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>They quickly rise to their feet and find Harper standing over them. All three cats pounce and begin ripping her to pieces.</Text>
+      <Text>They recover and find Harper standing over them. All three cats pounce and begin ripping her to pieces.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>A few yards away, the real Harper watches as the Jaguars viciously tear each other apart.</Text>
@@ -2447,10 +2438,30 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>They are now deeper into the tomb.</Text>
     </Paragraph>
     <Paragraph Type="Character">
+      <Text>Harper (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I think we’re safe, Emmett. And we could probably use the light.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She gestures towards his arm.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He nods and begins to remove the sleeve. Underneath lies, instead of an arm, light in the shape of an arm. It moves and acts like flesh but pulses with a translucent maroon glow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett notices Maya’s staring and face away, shoving the sleeve into his backpack.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They push on.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
       <Text>Morgan</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>So those animals drank Daemon blood?</Text>
+      <Text>So those animals drank the blood of a daemon?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
@@ -2468,7 +2479,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Maya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>So how would a Daemon get to Earth?</Text>
+      <Text>How would a Daemon get on Earth?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
@@ -2477,51 +2488,45 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Same way we do, dimensional portals.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Quentin</Text>
+      <Text>Morgan</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>But I thought we destroyed all the Daemons in the war.</Text>
+      <Text>The war was 400 year ago. How are they still alive?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Not by a long shot.</Text>
+      <Text>How’s your father still alive?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Harper and Emmett glance at each other.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>After the death of the Daemon Lord, most scattered and went into hiding.</Text>
+      <Text>All we know is after the death of </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ry’naughk</Text>
+      <Text>, most scattered and went into hiding.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Most of what a Hunter does is dealing with the remaining Daemon threat.</Text>
+      <Text>Majority of Hunter assignments deal with the quelling the remaining Daemon threats.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper notices Blighted blood tracks leading down a long hall.</Text>
+      <Text>Harper notices bloody paw prints leading down a long hall.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Following a long hall, they enter a small crypt with a large stone sarcophagus.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Harper (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
-      <Text>)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>The tracks die here.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The party begins to scour the room.</Text>
+      <Text>Following them, they find a small room with a large stone sarcophagus inside. They begin inspecting the room.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Must’ve been important for them to build such a big tomb for one person.</Text>
+      <Text>Must’ve been someone important to earn such a large tomb.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
@@ -2539,10 +2544,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Hey, guys.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Maya pushes back an overgrown mass of vines to reveal a small passageway.</Text>
+      <Text>Maya pushes aside an overgrown mess of vines, revealing a small passageway.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 6/8" Page="31" Title="">
+      <SceneProperties Length="1 5/8" Page="31" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -2550,13 +2555,12 @@ the past three years have not been easy. And now, for your final year of trainin
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
           <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
-          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
       <Text>Int. secret cave - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>On the other side they find a cavern that lies adjacent to the tomb.</Text>
+      <Text>On the other side they find a cavern.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Maya grabs her nose.</Text>
@@ -2579,22 +2583,22 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Morgan gags.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Lina</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>There.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Across the chamber they find the gigantic corpse of a Daemon, lying in a pool of it’s own blood, overtaken by vines and foliage.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Well, we know how they became Blighted.</Text>
+      <Text>Look.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lina and Emmett examine the body.</Text>
+      <Text>Across the chamber a gigantic stone-like corpse lies in a pool of grey liquid, overtaken by vines and foliage.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Lina</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well, there’s your problem.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina and Emmett approach the body and start examining it.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
@@ -2612,7 +2616,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Cut marks.</Text>
+      <Text>Lacerations. Straight. Like from a blade.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
@@ -2626,61 +2630,36 @@ the past three years have not been easy. And now, for your final year of trainin
     <Paragraph Type="Dialogue">
       <Text>No. This corpse has been here for ages, decades probably. But these cuts are fresh.</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(turning to Harper)</Text>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Someone sliced this thing open recently.</Text>
+      <Text>You’re saying someone sliced this thing open recently?</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Quentin</Text>
+      <Text>Maya</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Guys, you hear that?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A muffled voices comes from beyond a small rock formation.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Morgan</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(whispering)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>There is someone else here.</Text>
+      <Text>The sound of someone whistling in the distance, growing louder behind a rock formation.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper draws her staff.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Harper</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Stay behind me.</Text>
+      <Text>Harper draws her staff and approaches, motioning the others behind her.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>As they approach the rock formation, GREGOR walks out from behind it, oblivious to them.</Text>
+      <Text>Oblivious to them, GREGOR THE PRESCIENT steps out from behind the rocks, holding a teapot. He starts to sing as he passes by them.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Gregor</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(crazed, muttering)</Text>
-    </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">must…I</Text>
-      <Text> </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">mussssttt</Text>
-      <Text>. End. The end. The ending. Ending. It all ends. Stop. </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Stooop</Text>
-      <Text>. </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">STOOOP</Text>
-      <Text>!</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">The end, The end , Oh how it all shall end /  The daemons on my back shall make a corpse of all within</Text>
+      <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Emmett</Text>
+      <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Gregor?</Text>
@@ -2692,13 +2671,13 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Gregor</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Guests? What a pity. They don’t even know what’s going to happen.</Text>
+      <Text>Guests? Strange, I wasn’t expecting anyone. No matter, I’ll simply grab more tea.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lina is clenching her hatchets so tightly that her knuckles turn white.</Text>
+      <Text>Harper watches as he walks over with the teapot.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper looks her in the eyes and she relaxes.</Text>
+      <Text>Lina clenches her hatchets, her knuckles turning white.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Gregor turns to Harper.</Text>
@@ -2709,7 +2688,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I know you. We tried to kill each other once. Would you like some tea?</Text>
+      <Text>I remember you. We tried to kill each other once. How do you like your tea?</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="2/8" Page="33" Title="">
@@ -2718,15 +2697,13 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Ext. Mount arethe - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The peak of Mount Arethe sits above the clouds. </Text>
+      <Text>The peak of Mount Arethe pokes through the clouds.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Hovering above, a stone building carved from white marble. The three suns of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Hydor</Text>
-      <Text> reflect brightly off of the golden columns that line the entrance.</Text>
+      <Text>Floating above the mountain, attached via a gigantic chain, is an building carved from white marble. The three suns of Hydor reflect brightly off of the golden columns that line the entrance.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2 5/8" Page="33" Title="">
+      <SceneProperties Length="2 7/8" Page="33" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
           <CharacterArcBeat Name="BAEN"></CharacterArcBeat>
@@ -2741,65 +2718,62 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>COUNCIL CHAMBERS</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Braziers hang from the ceiling made from the same stone as the exterior.</Text>
+      <Text>Stone braziers hang from the ceiling. A long mahogany table rests in the center with thirteen chairs surrounding it.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Arthur Blackwell sits at the head of a long table with six chairs on either side. Two chair lies empty while the other ten hold figures all dressed in the same magical armor as Arthur.</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Archmage</Text>
+      <Text> Blackwell sits at the head. Two chair lie empty on the ends opposite him. The rest are filled with creatures in the same armor gold and pearl armor as his.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>On the right: 1 Dwarf, 3 Humans, 1 Dark Elf, A Dragon (in scaly humanoid form). </Text>
+      <Text>To his right: a dwarf, three mages, a dark elf and a dragon in humanoid form. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>On the left sat: 1 Gorgon, 1 Imp, 1 Ogre, 1 Golem.</Text>
+      <Text>To his left: a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">gorgon</Text>
+      <Text>, an imp, an ogre and a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">golem</Text>
+      <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>They all sit in silence, looking distressed.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Dwarf (</Text>
+      <Text>The dwarf (</Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">HAVERN</Text>
-      <Text> MOREHAVEN SATINE) speaks first.</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">MOREHAVEN</Text>
+      <Text> SATINE) finally speaks.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Satine</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>This is an outrage!</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>ArtHUR</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>I understand you are upset, my de—</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>SatINE</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Upset? Disappointed is more like it.</Text>
+      <Text>This is outrageous!</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Now the Dark Elf (</Text>
+      <Text>Arthur’s folds his hands in front of him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SatINE (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You claim we speak as one voice and yet your ego decides matters for us all.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The dark elf (</Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">LARKFOOT</Text>
-      <Text> BAEN) adds.</Text>
+      <Text> BAEN) chimes in.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Baen</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I was under the impression this council was formed to operate as a unit, not serve the whims of an aging megalomaniac.</Text>
+      <Text>I was under the impression this council was a group of peers, not the peons of a tyrannical megalomaniac.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Dragon (FAEDRIS) growls.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>FaeDRIS</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Watch it.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Arthur waves him down.</Text>
+      <Text>The dragon growls at the elf. Arthur shakes his head at him.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ArthuR</Text>
@@ -2808,59 +2782,81 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>I’m sorry you feel this way Baen.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Gorgon (</Text>
+      <Text>The snake-haired </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">gorgon</Text>
+      <Text> (</Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">MANTISA</Text>
-      <Text> CALIPHA) speaks.</Text>
+      <Text> CALIPHA) speaks. Her forked tongue hissing occasionally.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Calipha</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>What about the other seat? Since you’ve made the decision for one, can we at least be trusted to promote a candidate of our own.</Text>
+      <Text>What about the other chair? Can we at least be trusted to promote a candidate of our own.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ArthuR</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Of course, dear. And know, this is not a matter of distrust. But a matter of urgency. The balances on the human realm are most in disarray.</Text>
+      <Text>Of course, my dear. And know, this is not a matter of distrust. But a matter of urgency. The balances in the human realm are most in disarray.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>SatINE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>But we already have four mages on the Council. We even added another to replace your last mistake. Why another? And why not let us vote on it unless you distrust us.</Text>
+      <Text>There are already more than enough of you </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">smoothbeards</Text>
+      <Text>. Why add another?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Arthur</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Havern</Text>
+      <Text>, my friend, I—</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Satine</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(interrupting)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Especially after the last traitor you brought into our midst.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tense whispers and sharp glances.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ArtHUR</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Four mages trained and suited for maintaining order in this realm. With a Huntress, we will have the means to operate on Terra without complication.</Text>
+      <Text>Guardians, of the four mages none are suited to work in the human realm. With a Huntress in our ranks, we will have the means to operate on Terra without complication.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>SatINE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>This is no good Arthur.</Text>
+      <Text>Then tell us that. Present your argument and let us discuss it. But no!</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The dwarf slaps the table.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Golem and the </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Orge</Text>
-      <Text> begin to argue. Soon most of the table is shouting and the room is swallowed in a castrophony.</Text>
+      <Text>The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">golem</Text>
+      <Text> and the </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">orge</Text>
+      <Text> begin arguing amongst themselves. Soon the table is shouting and the room is swallowed in castrophony.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Faedris barks and a loud boom fills the room.</Text>
+      <Text>The dragon, FAEDRIS, barks and a loud boom fills the room, silencing the other Guardians.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Faedris</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Enough!</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The room quiets.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The dragon rises to his feet.</Text>
@@ -2871,13 +2867,15 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Need I remind you this council would not exist were it not for the sacrifices made by this man. He was chosen by the Cosmos and we were ALL chosen by him.</Text>
+      <Text>Many are too young to remember the beginnings of this council. Well, let me remind you. This council would not exist were it not for Arthur’s sacrifice and wisdom. He was chosen by the Cosmos and we were </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">all</Text>
+      <Text> chosen by him.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>SatINE</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>By process though!</Text>
+      <Text>But by process!</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>BAEN</Text>
@@ -2885,37 +2883,49 @@ the past three years have not been easy. And now, for your final year of trainin
     <Paragraph Type="Dialogue">
       <Text>Yes, chosen by our peers.</Text>
     </Paragraph>
-    <Paragraph Type="Character">
-      <Text>FaeDRIS</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Many of you are too young to remember the days of </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">olde</Text>
-      <Text>, the beginnings of this council. Nay, before there even was a Council…</Text>
-    </Paragraph>
     <Paragraph Type="Action">
-      <Text>Arthur extends his hand.</Text>
+      <Text>The dragon begins to retort when Arthur extends his hand.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Arthur</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Faedris, dear friend, let them speak.</Text>
+      <Text>Let them speak their mind.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The dragon sits, a puff of smoke exiting it’s nostrils.</Text>
+      <Text>The dragon sits, a puff of smoke exiting it’s nostrils. The room settles.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>CalIPHA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>How is this any different than Ry’naughk’s Court then?</Text>
+      <Text>How is this any different than Ry’naughk’s Court?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>One of the humans gasp, and several look shocked at the comparison. Faedris’s nostrils flare again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Arthur stares at her. After a prolonged pause, he stands up.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ArthuR</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>It’s true. This council was formed as a balance to the unhinged autocracy that it once fought. And, while I value all of your opinions and wish to hear your dissent, know that my decision today was not made out of arrogance or haste but out of sheer necessity. I don’t expect you all to agree with it but understand that it this decision is final.</Text>
+      <Text>You were too young to appreciate the true horror of the War. So I shall forgive your last statement as the folly of youth. You’d be best to reconsider before you make such egregious comparisons so lightly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She averts her eyes, the snakes recoiling in response.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He turns to the rest of the council and continues.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>ArTHUR (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And while I value all opinions and wish to hear your dissent, know that my decision today was not made out of arrogance or haste but out of necessity. I don’t expect all to agree but understand that this decision is final.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="7/8" Page="36" Title="">
@@ -2924,26 +2934,26 @@ the past three years have not been easy. And now, for your final year of trainin
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
+          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
       <Text>OUTSIDE THE COUNCIL CHAMBERS</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Aiko stands beside the Council doors, arms folded and eyes closed. She appears to be meditating.</Text>
+      <Text>Aiko sits beside the Council doors, arms folded and eyes closed. She appears to be meditating.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The doors are burst open by the </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Orge</Text>
-      <Text>. She’s startled.</Text>
+      <Text>The doors burst open. She’s startled.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Council members march past her, some giving disapproving glances.</Text>
+      <Text>The ogre is the first one out, followed by the other Guardians, some giving disapproving glances towards her as they leave.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Finally, Arthur emerges along with Faedris.</Text>
+      <Text>Finally, Arthur and Faedris emerge.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The dragon looks her up and down before leaving.</Text>
+      <Text>The dragon eyes her up and down. And then gives a bow towards Arthur and leaves.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
@@ -2955,21 +2965,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Arthur</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Terrible. Which was quite better than I expected.</Text>
+      <Text>Terrible. Which was quite better than I expected. But regardless, it’s done.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He places both hands on her shoulder.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>ArTHUR (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
-      <Text>)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>But regardless, it’s official.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>He steps back.</Text>
+      <Text>He rests his hands on her shoulders and leans in.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ArtHUR (</Text>
@@ -2977,7 +2976,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You know what must be done?</Text>
+      <Text>You remember your assignment?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
@@ -2989,22 +2988,24 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Arthur</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
-      <Text>(leaning in, whispering)</Text>
+      <Text>(whispering)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Remember: trust no one.</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(regular volume)</Text>
+    <Paragraph Type="Action">
+      <Text>He steps back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Arthur (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>And welcome to the Guardian Council.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Aiko looks nervous and excited.</Text>
+      <Text>And welcome to the Celestial Guardians.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="37" Title="">
+      <SceneProperties Length="5/8" Page="37" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -3030,7 +3031,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>(looking around)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>My god? What has happened to you?</Text>
+      <Text>My god? What has happened to him?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Gregor</Text>
@@ -3054,7 +3055,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Harper silently declines and turns to leave.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 6/8" Page="37" Title="">
+      <SceneProperties Length="1 4/8" Page="37" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -3070,72 +3071,67 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You’re leaving him alone with Em.</Text>
+      <Text>You’re leaving them alone together.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Gregor’s barely lucid, I don’t think he’s much of a threat.</Text>
+      <Text>He’s barely lucid, I don’t think he’s much of a threat. Besides, I’d feel sorry for him if he tries to pick a fight with Emmett.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina gives her a questioning look. Harper rubs her shoulder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You doing okay?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina stares deeply into her eyes.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Maybe. Don’t know if I buy it.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Harper places a hand on her shoulder.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Harper</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>You okay?</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Lina shakes her head.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>20 feet. He’s 20 feet away.</Text>
+      <Text>20 feet. The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">sonofabitch</Text>
+      <Text> is 20 feet away. It would be so easy.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>There’s a right way and a wrong way to handle this. And no matter how much you want to want to, walking in there and putting a blade in his head is definitely the wrong way. But trust me, he’s going to pay for </Text>
+      <Text>Trust me, I want to just as badly as you do. But there’s a right way and a wrong way to handle this. And </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
-      <Text>.</Text>
+      <Text> would want both of us to do it the right way.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lina looks at her.</Text>
+      <Text>Lina looks away, eyes watering.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Emmett leaves the hideout and start towards the Initiates.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>LIna</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You think he’s really crazy? Because if he is, I don’t see how he could.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Emmett leaves the hideout.</Text>
+      <Text>You really think he’s crazy?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>It looks like he’s become Blighted.</Text>
+      <Text>How else do you explain it?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Blight doesn’t do that.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Emmett pauses briefly on his way over to the Initiates.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>EmmETT</Text>
@@ -3146,32 +3142,21 @@ the past three years have not been easy. And now, for your final year of trainin
     <Paragraph Type="Dialogue">
       <Text>To be fair, we don’t truly understand </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">what </Text>
-      <Text>the Blight does. We’ve never been able to do an effective study on Blighted Mages. It’s simply too dangerous.</Text>
+      <Text>the Blight does. We’ve never done an effective study on it. Simply too dangerous.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>And Gregor used to be a Guardian. How the Blessing of Light interacts with the curse, </Text>
+      <Text>And Gregor was a Guardian. With the Blessing of Light interacting with the curse, </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Symius</Text>
-      <Text> only knows.</Text>
+      <Text> only knows happens.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina shakes her head. Harper tries to comfort her before she pulls away.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(shaking her head)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Look, all I know is he deserves to suffer for what he’s did.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Harper tries to comfort her. Lina pulls away.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Lina (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
-      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>I need some air. I’ll call for containment and a Guardian to pickup Mary </Text>
@@ -3192,9 +3177,6 @@ the past three years have not been easy. And now, for your final year of trainin
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(gesturing towards her walkie-talkie)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Call if you see anything.</Text>
@@ -3233,7 +3215,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Gregor</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>No! You’re ruining my treasure.</Text>
+      <Text>My treasure!</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Everyone tenses up and stares at him.</Text>
@@ -3248,13 +3230,13 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>It looks like he’s been down here for months, surviving solely off of a Daemon’s blood.</Text>
+      <Text>It looks like he’s been down here for ages, surviving solely off Daemon’s blood.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Morgan</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>So he’s become Blighted, like the rest of the monsters. Is that why he’s so… </Text>
+      <Text>So he’s Blighted, like the rest. Is that why he’s so…</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She twirls a finger by her head.</Text>
@@ -3263,21 +3245,21 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Presumably, Ms. Blackwell… Although I’ve never head of such a presentation before, there is very little we—</Text>
+      <Text>Presumably, Ms. Blackwell… Although I’ve never heard of Blight presented like this before, there is very little we—</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Without warning, Harper grabs Gregor and flips him over onto a table. He falls through and lands hard on the floor, her boot being driven into his neck. </Text>
+      <Text>Without warning, Harper grabs Gregor and flips him over onto a table. He falls through and lands hard on the floor. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>With a clean punch to the face, she knocks him out.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Emmett turns and screams in protest.</Text>
+      <Text>She then drives her booth into his neck. With a clean punch to the face, she knocks him out.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett (</Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
       <Text>)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(shouting)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>What are you doing?</Text>
@@ -3292,11 +3274,14 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>You almost became a folk tale, Emmett the Headless.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>They all turn to look at the unconscious Guardian.</Text>
+      <Text>They all turn to look at the sleeping Guardian.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="2/8" Page="40" Title="">
-        <SceneArcBeats/>
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ENCHANTRESS"></CharacterArcBeat>
+          <CharacterArcBeat Name="LINA"></CharacterArcBeat>
+        </SceneArcBeats>
       </SceneProperties>
       <Text>Ext. AnciENT TOMBs - day</Text>
     </Paragraph>
@@ -3304,31 +3289,28 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>ENTRANCE</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lina exits the cave and glances around at the treeline around her.</Text>
+      <Text>Lina exits the cave and glances around the treeline.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Taking off her backpack, she rests her knees on the ground and draws a runic symbol in the dirt.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>She closes her eyes.</Text>
+      <Text>She takes off her backpack and kneels into a praying position. Using her finger, she draws a runic symbol in the dirt and closes her eyes.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="3/8" Page="40" Title="">
         <SceneArcBeats>
-          <CharacterArcBeat Name="ENCHANTRESS"></CharacterArcBeat>
+          <CharacterArcBeat Name="ISLA"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
       <Text>Int. The conDUIT - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>In a dark quiet room at the back of the Spire, the young Enchantress sits in a prayer pose.</Text>
+      <Text>In a dark quiet room at the back of the Spire, Isla sits in a prayer pose.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She lifts her head and opens her eyes to find Lina kneeling in front of her.</Text>
+      <Text>She lifts her head and opens her eyes to see Lina kneeling in front of her.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>EnchaNTRESS</Text>
+      <Text>isLA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Greetings, Huntress </Text>
@@ -3357,12 +3339,12 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Ext. Ancient tombs - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Lina is still kneeling and Isla the Enchantress has appeared in front her above the </Text>
+      <Text>Lina is still kneeling and Isla the Enchantress has appeared in front her above the hand-drawn </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">sigil</Text>
-      <Text>.</Text>
+      <Text> which is now glowing.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Her focus is on the treeline where the DARK MAGE is standing.</Text>
+      <Text>A DARK MAGE wearing a purple cloak has appeared at the treeline. They stare at each other.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Isla</Text>
@@ -3370,14 +3352,11 @@ the past three years have not been easy. And now, for your final year of trainin
     <Paragraph Type="Dialogue">
       <Text>Ma’am?</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Completely still, she continues.</Text>
-    </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Tell her we need a containment team here right away. We’ve found a Daemon corpse on site. And also, bring a Guardian detail. We’ve found Gregor the Prescient. He seems to carry the Blight.</Text>
+      <Text>We need a containment team here right away. We’ve found a Daemon on-site, deceased. Tell her to also send a Guardian escort. We’ve found Gregor the Prescient. He’s Blighted.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Isla</Text>
@@ -3385,11 +3364,14 @@ the past three years have not been easy. And now, for your final year of trainin
     <Paragraph Type="Dialogue">
       <Text>Is that all, ma’am?</Text>
     </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lina still staring at the Dark Mage.</Text>
+    </Paragraph>
     <Paragraph Type="Character">
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Yes, that’s all Isla.</Text>
+      <Text>Yeah.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Isla</Text>
@@ -3401,7 +3383,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Lina</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Thank you.</Text>
+      <Text>Thank you, Isla.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Isla</Text>
@@ -3410,13 +3392,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Tis my duty, ma’am.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Isla fades away.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Lina rises to her feet and starts toward the Dark Mage.</Text>
+      <Text>The enchantress fades away and Lina starts walking toward the Dark Mage.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 1/8" Page="41" Title="">
+      <SceneProperties Length="3 5/8" Page="41" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
@@ -3462,10 +3441,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>How true, for you at least. The end is coming. So I won’t beat myself up about it.</Text>
+      <Text>For you at least. The end is definitely coming. So I won’t beat myself up about it.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She kneels down a few feet in front of him.</Text>
+      <Text>She kneels down in front of him.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper (</Text>
@@ -3473,13 +3452,13 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>The Guardians are on their way, Gregor. And when they get here, they aren’t going to be happy with what you’ve done. They know your crimes and you know they aren’t the forgiving type.</Text>
+      <Text>The Guardians are on their way, Gregor. The Council knows about your crimes and we both know they aren’t the forgiving type.</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text>(looking puzzled)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I don’t know much about your rules and customs but I’m pretty sure a betrayal like yours earns Banishment to the Void. The way Arthur describes it makes it sound like a fate worse than death. So how does it feel knowing there’s nothing but still, quiet, empty blackness in your future.</Text>
+      <Text>I’m pretty sure betrayal earns you Banishment to the Void. The way Arthur describes it, sounds pretty bad. Nothing but still, quiet, empty blackness for eternity.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She takes a step closer.</Text>
@@ -3490,12 +3469,12 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>After what you did to </Text>
+      <Text>And after what you did to </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Matti</Text>
-      <Text>, I can’t think of any punishment worthy of you. But that comes pretty close. So I’ll accept it, and happily go about my life knowing that your mind is slowly tearing itself apart as your body tries to grasp the emptiness that has swallowed you whole. It’s not justice but it’s close enough. It’ll be a small comfort and, I hope, some type of closure.</Text>
+      <Text>, I can’t think of a better punishment. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Gregor begins to smile at her.</Text>
+      <Text>Gregor smiles.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Gregor</Text>
@@ -3506,23 +3485,17 @@ the past three years have not been easy. And now, for your final year of trainin
     <Paragraph Type="Character">
       <Text>EmmeTT</Text>
     </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(angry)</Text>
-    </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>None of your business.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Gregor laughs.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>GreGOR</Text>
     </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Your ignorance is understandable. Vision is a burden but also a gift; a gift not given to many for they would squander it. One of these days, while I’m withering away in that Void, you’ll realize what a terrible mistake you’ve made. The Void may actually be preferable to what she’ll bring down upon you all.</Text>
+    <Paragraph Type="Parenthetical">
+      <Text>(laughing)</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Harper and Emmett look at each other.</Text>
+    <Paragraph Type="Dialogue">
+      <Text>Your ignorance is understandable. Vision is a burden but also a gift; a gift not given to many for they would squander it. The Void may actually be preferable to what she’ll bring down upon you all.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>EmMETT</Text>
@@ -3534,7 +3507,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Gregor</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>What? Did you think I was trying to kill you? You are of no consequence, Loremage. But that girl…</Text>
+      <Text>What? Did you think I was trying to kill you? You are of no consequence to me, Loremage. But the girl…</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Gregor looks Harper in the eye.</Text>
@@ -3545,25 +3518,31 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>She’s trouble. I’ve foreseen it.</Text>
+      <Text>She is trouble. I’ve foreseen it.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper stands up and turns away.</Text>
+      <Text>Harper turns away to leave.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Desperate words from a doomed soul. I’m through with him.</Text>
+      <Text>Desperate words from a doomed soul.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Emmett)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I’m through with him.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>GreGOR</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Believe me or not, the future has been written. Blood will be shed either way. By spilling her’s now, we prevent that of billions later.</Text>
+      <Text>Believe me or not, the future has been written. Blood will be shed either way. Either her’s now or  billions later.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Emmett stops Harper from walking outside.</Text>
+      <Text>Emmett blocks Harper with his arm.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>EmmETT</Text>
@@ -3575,7 +3554,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>If you want to have your time wasted, sure. I have better things to do.</Text>
+      <Text>If you want to have your time wasted, sure. But I have better things to do.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Gregor shouts from across the room. </Text>
@@ -3604,7 +3583,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>(normal voice)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You called her Blackwell, correct? The daughter of my former master, Arthur Blackwell, slayer of the Death Cosmos himself. I remember him mentioning his precious </Text>
+      <Text>You called her Blackwell, correct? The daughter of my former master, Arthur Blackwell, slayer of the Death Cosmos himself. That must be his precious </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Morganna</Text>
       <Text>. I doubt even he knows the suffering she will inflict upon the worlds.</Text>
     </Paragraph>
@@ -3612,13 +3591,13 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>And here I thought the lunacy was an act.</Text>
+      <Text>And here I thought the crazy was an act.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Gregor</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Oh I’ll admit, my mind comes and goes. The voices, they never cease. But this is no rambling. This has been foretold and unless someone acts to stop it, it will come to fruition.</Text>
+      <Text>My mind comes and goes. The voices, they never cease. But this is no rambling. This has been foretold and unless someone acts to stop it, it shall come to fruition.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>HarPER</Text>
@@ -3630,19 +3609,19 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Gregor</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>There was a reason I was chosen to join the Celestial Guardians. My prophecies were able to prevent countless catastrophes. You’d do well to remember that.</Text>
+      <Text>There is a reason I was a Celestial Guardian. My prophecies diverted countless catastrophes. You’d do well to remember that.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Emmett</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>That may be. But clearly, the Blight has tainted your mind. You’re too far gone to be reliable.</Text>
+      <Text>That may be. But clearly, your mind has been tainted by the Blight. You’re too far gone to be reliable.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Gregor</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I don’t expect you to believe me. I know what I saw. I know it is coming. And I’ll do what I must to prevent it.</Text>
+      <Text>I wouldn’t expect you to believe me. But I know what I saw. I know what is coming. And I’ll do what I must to stop it.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
@@ -3654,25 +3633,25 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Gregor</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Luck is unnecessary. As you said, I have been touched by the Blight. Combined with the strength granted to me by my Blessing, there is nothing you can do to stop me.</Text>
+      <Text>Luck is unnecessary. As you said, I have been touched by the Blight. Combined with the strength of my Blessing, I see nothing you can do to stop me.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Sorry, pal. Anti-magic rope. Easy to talk trash with your hands tied.</Text>
+      <Text>Those aren’t regular ropes.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>GregOR</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You think this can stop me?</Text>
+      <Text>I’m not your regular mage.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>If it’s so ineffective, why haven’t you broken free yet?</Text>
+      <Text>If that’s true, why haven’t you just broken free?</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Gregor</Text>
@@ -3690,10 +3669,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Gregor</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>No. For my loves to come join the party.</Text>
+      <Text>No. For my lovelies to come join the party.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A scream comes from outside the cave.</Text>
+      <Text>A scream echoes from outside the cave.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Harper turns to Emmett who immediately runs outside.</Text>
@@ -3709,19 +3688,18 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Int. Secret cave - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Emmett enters to find Morgan kneeling behind a boulder.</Text>
+      <Text>Emmett finds Morgan kneeling behind a boulder.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Quentin and Maya are in the center of the cavern with countless purple glowing eyes staring back at them from a sea of shadows.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Emmett stumbles to the ground.</Text>
+      <Text>Quentin and Maya are in the center of the cavern, staring into a sea of shadows with countless purple glowing eyes looking back at them.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>EmmeTT</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Kids, get over here.</Text>
+      <Text>Initiates, get </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">outta</Text>
+      <Text> there.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Quentin cracks his knuckles.</Text>
@@ -3768,7 +3746,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>You remember defensive training?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She nods and takes a deep breath, closing her eyes. Her palms start to glow red-hot before she opens them.</Text>
+      <Text>She takes a deep breath and closes her eyes. Her palms start to glow red-hot before she opens them.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She looks at Emmett and nods.</Text>
@@ -3779,7 +3757,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Just like in training.</Text>
+      <Text>Just like in the Academy.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="5/8" Page="46" Title="">
@@ -3798,10 +3776,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>INT. gregoR’S HIDEOUT - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper grabs her staff with a twirl.</Text>
+      <Text>Harper grabs her staff with a twirl and faces Gregor.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Gregor’s hands snap free and he rises to his feet, eyes glowing blood red.</Text>
+      <Text>His hands snap free as his eyes pupils shine indigo.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Gregor</Text>
@@ -3822,7 +3800,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Fair enough.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He rushes forward.</Text>
+      <Text>He attacks with his now-armored fists.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She swings her staff and he catches it mid-blow.</Text>
@@ -3836,7 +3814,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Oh, it really is nice to have company. I’ve been ever so lonely.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5 5/8" Page="47" Title="">
+      <SceneProperties Length="5 3/8" Page="46" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
@@ -3857,22 +3835,22 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>ARMORY</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Mongre</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Mantisa</Text>
       <Text> Calipha stands before a single brazier in the middle of an dark, windowless library.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She lights the flame and the room fills with light.</Text>
+      <Text>Fire pours out the mouths on the snakes, lighting the brazier and the room.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The shelves, instead of books, are lined with a collection of unrelated objects.</Text>
+      <Text>Rather than books, the shelves are lined with a collection of seemingly random objects and artifacts.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Aiko stands be the door, next to an Orc named </Text>
+      <Text>Aiko stands be the door, next to an orc named </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">OLAR</Text>
       <Text> JA’PHAEL.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Calipha turns to them.</Text>
+      <Text>Calipha faces them.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>CaliPHA</Text>
@@ -3881,16 +3859,16 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>(hissing)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>This is the armory. Before your initiation, you must select an item to serve as your talisman.</Text>
+      <Text>This is the armory. From here you shall select a talisman before your initiation.</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text>(waving her arms around)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>But be careful, some are quite immense in their power.</Text>
+      <Text>But be careful, some of these objects are quite immense in their power.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Orc glances at Aiko nervously. She smiles and nods.</Text>
+      <Text>The orc glances at Aiko nervously. She smiles and nods.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>CaliPHA (</Text>
@@ -3901,7 +3879,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Let the talisman choose you.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Aiko begins scouring through the shelves.</Text>
+      <Text>They both begin scouring through the shelves.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
@@ -3913,7 +3891,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>CaliPHA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Some are artifacts we’ve collected over the years. Others are trophies. Powerful totems we’ve gathered from foes the Council has defeated conquered, too powerful to fall back into civilian world.</Text>
+      <Text>Some are artifacts we’ve collected over the years. Others are trophies. Powerful totems we’ve gathered from foes the Council has defeated, too powerful to fall into civilian hands.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Ja’phael touches a large helmet and lets out a howl.</Text>
@@ -3933,13 +3911,13 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Aiko</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>This is amazing. Things like these could save Hunters lives.</Text>
+      <Text>This is amazing. Weapons like these could save Hunters lives.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>CaliPHA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>As I said, these are too powerful to fall back into the civilian world. The selection process for your Order allows too many unstable individuals in. They could never be trusted.</Text>
+      <Text>As I said, these are too powerful to fall back into the civilian world. The selection process for your Order allows too many unstable individuals in. They could never be trusted with such power.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
@@ -3954,7 +3932,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Oh wait…</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Calipha turns, the snakes on her head hissing loudly.</Text>
+      <Text>The snake’s on Calipha’s head start to rattle and hiss loudly.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Ja’phael lets out a grunt. On the shelf in front of him a stone shield with a cracked gemstone in the center.</Text>
@@ -3991,7 +3969,7 @@ the past three years have not been easy. And now, for your final year of trainin
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Excellent. By returning that shield to your people, I hope in some way that can go even further towards mending the relationship between </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Orcs</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">orcs</Text>
       <Text> and the rest of the world.</Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -4007,7 +3985,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>CaliPHA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>And what about you?</Text>
+      <Text>And what about you, mage?</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The Huntress sucks her teeth.</Text>
@@ -4024,7 +4002,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Aiko stops in her tracks.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Sitting in front of her, an ornate longbow crafted from a translucent material.</Text>
+      <Text>Sitting in front of her, a longbow which appears to be crafted out of glass.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She places her hand on it and the stock shimmers a bright white.</Text>
@@ -4038,7 +4016,9 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The Gorgan steps closer.</Text>
+      <Text>The </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">gorgan</Text>
+      <Text> steps closer.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>CaliPHA (</Text>
@@ -4046,22 +4026,14 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>They say the Cosmos </Text>
+      <Text>It is said that the Cosmos </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Lyaris</Text>
-      <Text> forged this weapon and sent it to our world in the heart of a comet as repentance for the evil her brother </Text>
+      <Text> forged this bow to atone for the havoc her brother </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ry’naughk</Text>
-      <Text> had wrought. They say even among the Guardians, only a select few have ever been able to wield it properly. </Text>
+      <Text> had wrought. They say only those pure of heart and spirit can wield it properly.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Aiko grabs the string which glows and emits an odd tone as she pulls it back.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>CalIPHA (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
-      <Text>)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>It would seem Arthur may have chosen wisely with you. Try it out.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The Guardian raises a hand and a target appears across the room.</Text>
@@ -4070,7 +4042,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Aiko looks at her and then back at the bow.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She pulls the string back and forms an energy arrow in it’s place. As she lets go an eerie droning noise accompanies the arrow and turns to a small boom as the target shatters to a million pieces.</Text>
+      <Text>She pulls the string back, forming an energy arrow in it’s place. As she lets go an eerie whistle accompanies the arrow and turns to a small boom as the target shatters to a million pieces.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Ja’phael’s jaw drops.</Text>
@@ -4078,35 +4050,33 @@ the past three years have not been easy. And now, for your final year of trainin
     <Paragraph Type="Action">
       <Text>Calipha looks surprised as well.</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Aiko smiles.</Text>
-    </Paragraph>
     <Paragraph Type="Character">
-      <Text>Aiko</Text>
+      <Text>CalIPHA (</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
+      <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Dibs.</Text>
+      <Text>It would seem Arthur may have chosen wisely.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Aiko smiles.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>COUNCIL CHAMBERS</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The room has been filled by the Council again, along with the new arrivals of Aiko and Ja’phael.</Text>
+      <Text>The Council has reassembled with Aiko and </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ja’pheal</Text>
+      <Text> standing in front of the two empty seats.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Everyone stands in front of their respective chairs.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Arthur gathers their attention and the room quiets.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>He reaches down and grabs a goblet from the table. The other Guardians and Aiko do as well. Ja’phael rushes and grabs his a moment later, looking embarrassed.</Text>
+      <Text>Arthur grabs a goblet from the table and the room quiets. The others follow suit.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ArTHUR</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Today marks an auspicious occasion. Today we induct two new members into our ranks.</Text>
+      <Text>Today marks an auspicious occasion as we induct two new members into our ranks.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>He turns to the new arrivals.</Text>
@@ -4117,7 +4087,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Beyond that, it’s a privilege to welcome our first Orc in the entire Council’s history.</Text>
+      <Text>Beyond that, it’s a privilege to welcome the first orc in the entire Council’s history.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Arthur smiles.</Text>
@@ -4128,14 +4098,12 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>For too long, the </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Orcs</Text>
-      <Text> have suffered from prejudices held from the Daemon Wars. I’m ashamed to say, I’m guilty of it as well. It’s been far too long but no more. And I hope that in time, we can build up the great </Text>
+      <Text>For too long, your people have suffered from deep-seated prejudice. I’m ashamed to say, I’m guilty of it as well. It’s been far too long but no more. And I hope that in time, we can help rebuild the long neglected </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Orcish</Text>
-      <Text> people who we’ve treated so poorly.</Text>
+      <Text> people.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He locks eyes with the Orc.</Text>
+      <Text>He locks eyes with the orc.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ArTHUR (</Text>
@@ -4151,12 +4119,9 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>The group cheers.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A gold light fills the room. It soon subsides and </Text>
+      <Text>A gold light fills the room. It subsides and </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Olar</Text>
       <Text> is now donning the same pearl and gold armor as the rest of them.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Aiko is amazed.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ArTHUR (</Text>
@@ -4164,15 +4129,12 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>And finally, last but certainly not least. In a decision I know was unpopular but I hope many of you will come to respect, I have chosen to add a talented and honorable Huntress to our Order. In the short time I’ve known her, she has proven to be brave and honorable. I believe she possesses all of the abilities needed to excel on our Council. I hope you all will give her a chance to as well. Welcome Aiko </Text>
+      <Text>And finally, in a decision I know was unpopular but I hope you will come to respect, I have chosen to add a Huntress to our Council. In the short time I’ve known her, she has proven herself to be brave, honest and just. I believe she possesses all of the qualities needed to excel as a Guardian. I hope you all will give her a chance to impress you as she has impressed me. Welcome Aiko </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Tanaka</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The light flashes again.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>The room returns to normal and Aiko is in armor.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ArTHUR (</Text>
@@ -4192,17 +4154,17 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Arthur lowers his glass and opens the door.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>On the other side a thirty foot FLAME ELEMENTAL stands.</Text>
+      <Text>A thirty foot tall FLAME ELEMENTAL stands on the other side.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Olar</Text>
-      <Text> drops his goblet and grabs his shield from his back, preparing for a fight. The others look at him wildly.</Text>
+      <Text> drops his goblet and grabs his shield from his back, preparing for a fight.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Aiko smirks.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The flame elemental shrinks down until it’s the size of a human. Its features morph into that of Venji </Text>
+      <Text>The flame elemental shrinks down until it’s the size of a small human. Its features morph into that of Venji </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Asahd</Text>
       <Text>.</Text>
     </Paragraph>
@@ -4212,13 +4174,13 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>You’ve caught us at a rather unfortunate time, Arch-Huntress.</Text>
+      <Text>You’ve caught us at an unfortunate time, Arch-Huntress.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>As the elemental speaks, Venji’s voice comes out only deeper and eerie.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>VenJI</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(in elemental form)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>I’m sorry, </Text>
@@ -4226,7 +4188,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>. It could not wait. It’s Harper’s team.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Arthur turns and faces Aiko who has now put down her drink, a concerned look on her face.</Text>
+      <Text>Arthur turns and faces Aiko who has now put down her drink, hanging on the every word.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>ArTHUR</Text>
@@ -4259,7 +4221,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>To the Void with him!</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Arthur quiets his men and turns back to Venji.</Text>
+      <Text>Arthur turns back to Venji.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Arthur</Text>
@@ -4285,7 +4247,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>CaliPHA</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I’ll fetch the fool.</Text>
+      <Text>I’ll fetch that devil.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Arthur</Text>
@@ -4294,10 +4256,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Might I suggest you bring Aiko along with you. Her experience as a Huntress may prove useful in navigating through Terra and the Order.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Calipha looks at Aiko reluctantly.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Aiko nods.</Text>
+      <Text>Calipha looks at Aiko reluctantly and nods.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="7/8" Page="52" Title="">
@@ -4311,10 +4270,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Int. seCRET CAVE - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The burnt remains of a jaguar disintegrate in a cloud of smoke as it slams against the rock face.</Text>
+      <Text>The burnt remains of a jaguar disintegrate in a cloud of soot as it slams against the cave wall.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Morgan lowers her hands, flames dancing from her palms.</Text>
+      <Text>Morgan lowers her hands, pink flames dancing from her palms.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Emmett yells from behind.</Text>
@@ -4338,16 +4297,17 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>(struggling)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I’m a little busy here!</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kinda</Text>
+      <Text> busy!</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>One of the three surrounding Emmett falls to the ground, an arrow sticking out of it’s side.</Text>
+      <Text>One of the cats surrounding Emmett falls to the ground, an arrow sticking out of it’s side.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Maya loads another bolt into her crossbow.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A green hawk screeches past Morgan’s face. She turns just in time to dodge another jaguar leaping towards her.</Text>
+      <Text>A glowing green hawk screeches past Morgan’s face. She turns just in time to dodge another jaguar leaping towards her.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Electricity crackles through the beast as a hatchet blade pierces it’s skull.</Text>
@@ -4371,10 +4331,9 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Emmett grunts across the cavern. Lina heads to his rescue.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="5/8" Page="53" Title="">
+      <SceneProperties Length="3/8" Page="52" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
-          <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
       <Text>Int. GregoR’S HIDEOUT - day</Text>
@@ -4383,39 +4342,26 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Gregor has Harper in a bear hug, gripping her tightly against his chest.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>In a bright flash, his golden armor disappears and he falls to his knees.</Text>
+      <Text>Harper </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">headbutts</Text>
+      <Text> him and he falls to his knees.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper sweeps his legs from underneath him.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Harper</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>About time.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Gregor</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>No matter. I’ll still defeat you.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Gregor rises to his feet as a red aura envelops him.</Text>
+      <Text>Gregor rises to his feet as a </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">purpleish</Text>
+      <Text> aura envelops him.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Her eyes begin to glow as 11 more Harpers appear in front of him.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Gregor (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
-      <Text>)</Text>
+      <Text>Gregor</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Funny girl.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A surge of red energy knocks all 12 Harpers backwards.</Text>
+      <Text>A surge of energy knocks all 12 Harpers backwards.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Gregor (</Text>
@@ -4426,7 +4372,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Let’s play.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="7/8" Page="54" Title="">
+      <SceneProperties Length="6/8" Page="53" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -4436,10 +4382,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Int. SecRET CAVE - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Quentin is on the ground, being overwhelmed by two beasts. The metal armor is showing cracks and scrapes, revealing his own skin underneath.</Text>
+      <Text>Quentin is on the ground, being overwhelmed by two beasts. The metal armor is showing cracks and scrapes, revealing his normal skin underneath.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The others are battling even more beasts.</Text>
+      <Text>The others are battling even more creatures.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>A wisp of red lightning strikes one of the animals in the side. An arrow catches another.</Text>
@@ -4472,18 +4418,6 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Lina tries to stand but collapses. Emmett helps her to a nearby rock.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Lina (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
-      <Text>)</Text>
-    </Paragraph>
-    <Paragraph Type="Parenthetical">
-      <Text>(out of breath)</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Gimme</Text>
-      <Text> a second.</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
       <Text>EmmetT</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
@@ -4493,7 +4427,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>He turns to look at the hideout entrance.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3/8" Page="55" Title="">
+      <SceneProperties Length="3/8" Page="54" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -4522,7 +4456,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>He walks past her, shaking his head.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3 5/8" Page="55" Title="">
+      <SceneProperties Length="3 3/8" Page="54" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -4552,7 +4486,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Die you piece of crap.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Gregor turns and laughs, the lightning being absorbed into his Blighted energy aura.</Text>
+      <Text>Gregor turns and laughs, the lightning being absorbed into his energy aura.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The lightning becomes surrounded by a vortex filled with rocks and pebbles. Emmett focuses on him.</Text>
@@ -4689,7 +4623,7 @@ the past three years have not been easy. And now, for your final year of trainin
     <Paragraph Type="Dialogue">
       <Text>Hey, </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">dipshit</Text>
-      <Text>. Our Dad has TWO kids!</Text>
+      <Text>. Arthur Blackwell has TWO kids!</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Quentin pushes Morgan out of the way as he lunges towards Gregor with his dagger.</Text>
@@ -4698,10 +4632,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>The blade pierces his ribs and he lets out a snort.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Maya charges him with her blade as well.</Text>
+      <Text>Maya charges him as well.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Gregor smacks them both to the ground, Maya’s dagger slides away, but they both rise once more.</Text>
+      <Text>Gregor smacks them both to the ground, Maya’s crossbow slides away, but they both rise once more.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Maya swipes him with her bare hands, leaving a large set of lacerations on his exposed abdomen.</Text>
@@ -4733,32 +4667,25 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Excuse my mirth, I take little pleasure in this. But I always did find your father detestable. Causing him sorrow is just </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">intoxicaitng</Text>
-      <Text>.</Text>
+      <Text>Excuse my mirth, I take little pleasure in this. But your father has it coming.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Morgan looks at the knocked out Huntresses and Emmett. She sees Maya struggling to stand up.</Text>
+      <Text>Morgan looks at the downed Huntresses and Emmett. She sees Maya struggling to stand up.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>A tear rolls down her eyes and she crawls away.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Maya grabs Gregor’s leg, failing to do more than annoy him.</Text>
+      <Text>Maya grabs Gregor’s leg, failing to do more than annoy him. He kicks her away, knocking back his last bit of opposition.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He kicks her away, knocking back his last bit of opposition.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>He looks down at Quentin whose bloodied face scowls back at him.</Text>
+      <Text>He looks down at Quentin, scowling back at him.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Quentin</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Go ahead, you idiot. My </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Dad’ll</Text>
-      <Text> kill you.</Text>
+      <Text>Go ahead, do it. My Dad’s gonna kill you.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Gregor</Text>
@@ -4767,10 +4694,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>That may be. But the world will thank me.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Gregor starts to lunge when a giant ball of dark red energy slams into his chest.</Text>
+      <Text>Gregor starts to lunge when a giant ball of light red energy slams into his chest.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He sees Morgan, eyes glowing red, grey and black liquid dripping from her lips.</Text>
+      <Text>He sees Morgan, eyes glowing, grey and black liquid dripping from her lips.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Morgan</Text>
@@ -4782,7 +4709,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Enough!</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The chamber begins to shake as energy surges uncontrollably from her body.</Text>
+      <Text>The chamber begins to shake as energy pulses from her body.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Quentin</Text>
@@ -4791,15 +4718,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>(to himself)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>No. </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Morganna</Text>
-      <Text>, what did you do?</Text>
-    </Paragraph>
-    <Paragraph Type="Character">
-      <Text>Gregor</Text>
-    </Paragraph>
-    <Paragraph Type="Dialogue">
-      <Text>Her link with the Daemon Lord has been forged.</Text>
+      <Text>No. What did you do?</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Gregor tightens the grip on his spear.</Text>
@@ -4808,24 +4727,16 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>A sword and shield form from dark energy in Morgan’s palms.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Gregor (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
-      <Text>)</Text>
+      <Text>Gregor</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>This shall be interesting.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Gregor lunges at her.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>She dodges and counters his strikes effortlessly.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>From behind glowing red eyes, she smirks.</Text>
+      <Text>Gregor lunges at her. She dodges and counters his strikes effortlessly. From behind glowing red eyes, she smirks.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4/8" Page="59" Title="">
+      <SceneProperties Length="4/8" Page="57" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="GREGOR"></CharacterArcBeat>
           <CharacterArcBeat Name="MORGAN"></CharacterArcBeat>
@@ -4837,10 +4748,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>INNER CRYPT</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Gregor crashes through the wall, crushing the sarcophagus inside. Morgan floats in through the hole he created.</Text>
+      <Text>Gregor crashes through the wall, crushing the sarcophagus.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Their weapons morph into balls of energy which begin to pulse with each breath that they take.</Text>
+      <Text>Their weapons morph into balls of energy.</Text>
     </Paragraph>
     <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General">
       <DualDialogue>
@@ -4865,10 +4776,10 @@ the past three years have not been easy. And now, for your final year of trainin
       </DualDialogue>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Their orbs turn into a giant stream of energy which they hurl at each other, meeting in the middle.</Text>
+      <Text>Their orbs turn to giant streams which meet in the middle of the room.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>They each grimace and strain as the streams clash. Sweat rolls down each of their faces.</Text>
+      <Text>They each grimace and strain as the streams clash.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Morgan (</Text>
@@ -4879,10 +4790,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Can’t hold on.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A HOODED FIGURE appears in the middle of the room, next to the streams of energy.</Text>
+      <Text>The DARK MAGE appears in the middle of the room.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1" Page="59" Title="">
+      <SceneProperties Length="1" Page="58" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
           <CharacterArcBeat Name="LINA"></CharacterArcBeat>
@@ -4899,7 +4810,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Are you okay?</Text>
+      <Text>You okay?</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Lina sits up and looks around.</Text>
@@ -4926,16 +4837,13 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Support team should be here by now.</Text>
+      <Text>Containment team should be here by now.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper turns to head outside.</Text>
+      <Text>Harper turns to head outside and notices Quentin and Maya lying on the ground.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Quentin and Maya lay on the ground in front of her.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>She checks their vitals and then wakes them.</Text>
+      <Text>She checks their vitals and wakes them.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
@@ -4950,8 +4858,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Quentin</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Oh </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">no…Morgan…</Text>
+      <Text>Oh no… Morgan…</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>He struggles to his feet but loses his balance. Harper catches him.</Text>
@@ -4975,7 +4882,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Maya points out a hole in the cavern wall. Light is peeking through.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="60" Title="">
+      <SceneProperties Length="2/8" Page="59" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>Int. Ancient TOMBS - NIGHT</Text>
@@ -4990,7 +4897,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Morgan and Gregor are both lying on the ground, unconscious. The room is empty.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="60" Title="">
+      <SceneProperties Length="2/8" Page="59" Title="">
         <SceneArcBeats/>
       </SceneProperties>
       <Text>OUTER CRYPT</Text>
@@ -4999,10 +4906,13 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Harper is walking through the tunnels when she notices a light ahead.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She pulls out her staff, preparing for a fight, when she recognizes Aiko’s face atop a mass of glittering armor.</Text>
+      <Text>She pulls out her staff, preparing for a fight, until she recognizes Aiko’s face atop a mass of glittering armor.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They both smile upon seeing each other.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 3/8" Page="60" Title="">
+      <SceneProperties Length="1 3/8" Page="59" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="EMMETT"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
@@ -5092,9 +5002,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>(sighing)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>We’ll be waiting </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">then…The</Text>
-      <Text> clerics say that she’s in a coma.</Text>
+      <Text>We’ll be waiting then… The clerics say that she’s in a coma.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>They look down in despair.</Text>
@@ -5117,10 +5025,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>That’s unfortunate. We must find out what happened to that daemon.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1/8" Page="62" Title="">
+      <SceneProperties Length="1/8" Page="60" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>Int. secreT CAVE</Text>
+      <Text>Int. secreT CAVE - night</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The chamber is filled with </Text>
@@ -5128,10 +5036,10 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text> and Hunters. The pool of daemon blood remains but the corpse is missing.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="2/8" Page="62" Title="">
+      <SceneProperties Length="2/8" Page="60" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>Int. Dark room</Text>
+      <Text>Int. Dark room - night</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>We see the daemon corpse, vertical slash marks with blood still oozing out of it.</Text>
@@ -5176,7 +5084,7 @@ the past three years have not been easy. And now, for your final year of trainin
 
   <SpellCheckIgnoreLists>
     <IgnoredRanges>
-      <Range End="26770" Start="26763"/>
+      <Range End="26757" Start="26750"/>
     </IgnoredRanges>
     <IgnoredWords/>
   </SpellCheckIgnoreLists>
@@ -5188,7 +5096,7 @@ the past three years have not been easy. And now, for your final year of trainin
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="212" Selection="29028,29028" ShowInvisibles="No"/>
+  <TextState Scaling="212" Selection="61564,61564" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
@@ -5311,7 +5219,13 @@ the past three years have not been easy. And now, for your final year of trainin
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Script Title</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Shadowcrest</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Chapter 1</Text>
       </Paragraph>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
@@ -5332,7 +5246,8 @@ the past three years have not been easy. And now, for your final year of trainin
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
       </Paragraph>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Name of First Writer</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Dewitt A Buckingham, </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">III</Text>
       </Paragraph>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
@@ -5345,9 +5260,6 @@ the past three years have not been easy. And now, for your final year of trainin
       </Paragraph>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Based on, If Any</Text>
       </Paragraph>
       <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
@@ -5411,18 +5323,9 @@ the past three years have not been easy. And now, for your final year of trainin
       </Paragraph>
       <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
         <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
-      </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Address</Text>
-      </Paragraph>
-      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
-        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Phone Number</Text>
       </Paragraph>
     </Content>
-    <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+    <TextState Scaling="100" Selection="105,105" ShowInvisibles="No"/>
   </TitlePage>
 
   <UnanchoredScriptNotes>
@@ -6263,7 +6166,7 @@ the past three years have not been easy. And now, for your final year of trainin
     <Member Actor="Man 1" Character="Baen"/>
     <Member Actor="Man 1" Character="Enchantress"/>
     <Member Actor="Man 1" Character="Arch-huntress"/>
-    <Member Actor="" Character="Aik0"/>
+    <Member Actor="Man 1" Character="Aik0"/>
   </Cast>
 
   <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
@@ -6282,7 +6185,6 @@ the past three years have not been easy. And now, for your final year of trainin
     <Character Color="#FFFFFFFFFFFF" Name="CALIPHA" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="DANTE" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="EMMETT" Visible="No"/>
-    <Character Color="#FFFFFFFFFFFF" Name="ENCHANTRESS" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="FAEDRIS" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="GREGOR" Visible="No"/>
     <Character Color="#FFFFFFFFFFFF" Name="HARPER" Visible="No"/>
@@ -6313,8 +6215,8 @@ the past three years have not been easy. And now, for your final year of trainin
   <ListItems/>
 
   <DisplayBoards>
-    <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
     <DisplayBoard Height="10000" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="55" ScrollOrigin="0,0" Type="StoryMap" Width="2032" ZoomLevel="100.000"/>
   </DisplayBoards>
 
 </FinalDraft>
