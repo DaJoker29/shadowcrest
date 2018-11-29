@@ -6,45 +6,43 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Fade in:</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="3 5/8" Page="1" Title="">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Restroom</Text>
+      <Text> - day</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>HARPER EVANS, early 30s, stares into the mirror. A pretty smile hides behind a tortured face; she always appears to be solving a difficult problem in her head.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She straightens her glasses and pats down her blouse before taking a deep breath. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She smiles for a moment but it quickly fades.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <SceneProperties Length="3 4/8" Page="1" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="ACCOUNTANT"></CharacterArcBeat>
-          <CharacterArcBeat Name="ARCH-HUNTRESS"></CharacterArcBeat>
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
-          <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
-          <CharacterArcBeat Name="QUENTIN"></CharacterArcBeat>
-          <CharacterArcBeat Name="VENJI"></CharacterArcBeat>
           <CharacterArcBeat Name="WESTMORELAND"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>INT. westeros financial - DAY</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>88TH FLOOR - </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">RESTROOM</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>HARPER EVANS, late </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">20s</Text>
-      <Text>, stares into the mirror. She’s gorgeous but it’s hard to notice; she always appears to be solving a difficult problem in her head.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>She straightens her horn-rimmed glasses and pats down her blouse before taking a deep breath. </Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>A smile creeps through but soon fades.</Text>
+      <Text>Int. manhattan skyscraper - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>88TH FLOOR - OFFICE</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A slick investment banker named CHUCK WESTMORELAND bobs past a slew of empty cubicles. A MAINTENANCE WORKER vacuums while listening to music on his headphones.</Text>
+      <Text>A greasy-looking hotshot named CHUCK WESTMORELAND dances past a slew of empty cubicles. A JANITOR listens to music on a small radio as he vacuums.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper waits in the elevator bay as Westmoreland turns the corner and stops. He pops in a stick of bubble gum before approaching.</Text>
+      <Text>Westmoreland turns the corner to the elevator bay and stops. He notices Harper waiting patiently. He pops in a stick of bubble gum before approaching.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He checks her out while checking his watch.</Text>
+      <Text>He checks his watch, merely a subterfuge to hide his inappropriate staring.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Westmoreland</Text>
@@ -53,7 +51,7 @@
       <Text>These things take forever sometimes.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She gives him a subtle nod.</Text>
+      <Text>She turns and nods.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>WesTMORELAND (</Text>
@@ -76,7 +74,7 @@
       <Text>ELEVATOR</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>They enter. As the door starts closes, an plain-looking female ACCOUNTANT calls out from the hall.</Text>
+      <Text>They enter. As it starts to shut, a plain-looking FEMALE ACCOUNTANT calls out from the hall.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Accountant</Text>
@@ -88,7 +86,7 @@
       <Text>Hold the door.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Westmoreland jabs the ‘door close’ button.</Text>
+      <Text>Westmoreland pokes the ‘door close’ button a few times.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The door closes.</Text>
@@ -97,7 +95,7 @@
       <Text>Westmoreland</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
-      <Text>(sarcastic)</Text>
+      <Text>(grinning)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text>Oops.</Text>
@@ -114,7 +112,7 @@
       <Text>I don’t think we’ve met. Charles Westmoreland the third.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper watches the numbers on the indicator showing what floor they are passing.</Text>
+      <Text>Harper stares at the numbers showing what floor they are passing.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>WestMORELAND (</Text>
@@ -124,14 +122,11 @@
     <Paragraph Type="Dialogue">
       <Text>What’s your name, gorgeous?</Text>
     </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Still holding his hand out.</Text>
-    </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Not important.</Text>
+      <Text>Harper. But that’s not important.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>WestmorELAND</Text>
@@ -140,13 +135,13 @@
       <Text>What?</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She tilts her head from side to side.</Text>
+      <Text>She bobs her head from side to side.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>My name isn’t important.</Text>
+      <Text>My name doesn’t matter.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She turns to him.</Text>
@@ -157,12 +152,12 @@
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>But your name is </Text>
+      <Text>But yours does, </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Charles Westmoreland the third</Text>
       <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He pulls back, confused.</Text>
+      <Text>He finally lowers his hand and raises an eyebrow.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper (</Text>
@@ -170,10 +165,10 @@
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Liz Connors, Brenda Albright. They tell me things about Charles Westmoreland the third.</Text>
+      <Text>I know some other names that matter: Liz Connors, Brenda Albright.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She grins.</Text>
+      <Text>She looks him in the eye.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper (</Text>
@@ -181,39 +176,49 @@
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>They say you’ve got a secret.</Text>
+      <Text>They tell me Charles Westmoreland the third has a secret.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The emergency stop engages and the light’s dim.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>A pair of lips press close to Westmoreland’s ear.</Text>
+      <Text>He examines her for a moment and starts to grin.</Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text>Harper (</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">CONT’D</Text>
-      <Text>)</Text>
+      <Text>WesTMORELAND</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Well so do I.</Text>
+      <Text>They didn’t tell you shit. They haven’t said shit to anybody. Not since I ripped them into a million pieces, just like I’m gonna do you.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Westmoreland notices the girl has vanished, her purse lying on the ground. </Text>
+      <Text>The car jerks to a halt as the emergency stop engages and the light’s dim.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>He starts to laugh before spitting his gum onto the floor.</Text>
+      <Text>A pair of lips press close to his ear.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Well I have a secret too.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The woman has disappeared, her purse lying at Westmoreland’s feet. </Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He starts to laugh and spits his gum onto the floor.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>WestMORELAND</Text>
     </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(looking around him)</Text>
+    </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>I’m gonna rip you into a thousand little pieces. Dump your bones where I dumped their’s.</Text>
+      <Text>I’m gonna grind up your bones and make a stew.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Something hits his leg and he falls onto his back. </Text>
+      <Text>A silver pole hits his legs and he falls onto his back. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper stands over him, pressing a silver staff against his chest.</Text>
+      <Text>Harper now stands over him, pressing a silver staff into his chest.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Westmoreland (</Text>
@@ -224,25 +229,22 @@
       <Text>Let’s play, witch.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Westmoreland’s skin begins to squirm and turn sage green. His hands morph into claws. He is now the GREEN DAEMON which pushes the staff away and rises to it’s feet.</Text>
+      <Text>Westmoreland’s skin begins to squirm and turn change colors. His hands morph into stone-like claws. A GREEN DAEMON  now pushes the staff away and rises to it’s feet.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper slides the staff over her shoulder as the daemon grows and grows until it’s head bends the roof of the elevator.</Text>
+      <Text>Harper stands back as the daemon grows and grows until it’s head bends the roof of the elevator. She clenches her jaw.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>It’s stone-like hand grabs Harper by the throat, lifting her off the ground.</Text>
+      <Text>A giant hand grips Harper’s neck, lifting her off the ground.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She closes her eyes and presses two fingers to her forehead. </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The daemon lets out a painful screen as she penetrates it’s mind.</Text>
+      <Text>A blue light flashes in it’s eyes and the daemon lets out a painful screech before throwing her against the wall.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The monster casts her against the wall before tearing through the metal siding of the elevator car.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>Harper follows it into the shaft.</Text>
+      <Text>It busts through the metal siding. Harpers catches her breath and follows the beast into the shaft.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>ELEVATOR SHAFT</Text>
@@ -251,52 +253,52 @@
       <Text>Harper balances on a I-beam between elevator tracks as she looks around.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Nothing but shadows and the occasional streak of light.</Text>
+      <Text>Nothing but shadows and the occasional flicker of light.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper closes her eyes and focuses. When she opens them again they are glowing orange.</Text>
+      <Text>Harper closes her eyes and concentrates. When she opens them again, her pupils are glowing royal blue.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>START OF ASTRAL PLANE: </Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>- Harper’s consciousness leaves her body. Glances around for a moment before she hears whispering in the daemon tongue, thoughts from the beast’s subconscious, coming from a shadow above her.</Text>
+      <Text>- Harper’s mind leaves her body. She glances around for a moment before noticing daemonic whispers, thoughts from the beast’s subconscious, coming from a shadow above.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>- Her vision zooms into the daemon gripping a metal beam in the darkness.</Text>
+      <Text>- Her mind zooms in. The daemon is watching her, while hanging from a metal beam in the darkness.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>- She can now see through the daemon’s eyes as it leaps down towards her. Just before it reaches her, her eyes turn normal again.</Text>
+      <Text>- She now sees through the daemon’s eyes as it leaps towards her motionless body. Just before it reaches, her eyes stop glowing.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>END OF ASTRAL PLANE</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper sidesteps and begins swiping the monster with her staff.</Text>
+      <Text>Harper ducks the attack and begins swiping the monster with her staff.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>From the beam, the two of them exchange a quick flurry of blows before the daemon lunges forward, knocking her off.</Text>
+      <Text>From the beam, the two of them exchange a quick flurry of blows before the daemon knocks her off.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>She hits the wall before landing on an adjacent I-beam.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The daemon lets out a horrendous screech as a pair of black wings sprout from it’s back.</Text>
+      <Text>The daemon howls as a pair of black wings sprout from it’s back.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>It launches itself towards Harper who dives out of the way. It misses her and slams into the wall behind it.</Text>
+      <Text>It launches towards Harper who dives out of the way. The daemon just misses her and slams into the wall.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>88TH FLOOR - OFFICE</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A picture falls off the wall as the whole floor rattles. The maintenance worker continues to clean, completely oblivious, listening to his music.</Text>
+      <Text>A picture falls off the wall as the whole floor rattles. The janitor continues cleaning, music keeping him oblivious to the world around him.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>ELEVATOR SHAFT</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Shaking off the blow, one of the beast’s talon’s grabs Harper’s ankle and it proceeds to fly up and out of the elevator shaft.</Text>
+      <Text>As Harper struggles back to her feet and the beast shakes off the blow, one of it’s talon’s grabs Harper’s ankle. She fails to pry it loose and the monster proceeds to fly up and out of the elevator shaft.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
       <SceneProperties Length="1" Page="4" Title="">
@@ -305,48 +307,54 @@
           <CharacterArcBeat Name="HARPER"></CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text>Ext. westerOS FINANCIAL rooftop - DUSK</Text>
+      <Text>Ext. manhattan skyscraper - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The daemon crashes through the ventilation shaft with Harper.</Text>
+      <Text>The daemon crashes through the ventilation shaft with Harper dangling in the air beneath it.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>A yellow light pierces the daemon’s back. It turns and notices Harper dematerializing.</Text>
+      <Text>A yellow light pierces the daemon’s back. The beast turns and notices Harper dematerializing.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Another yellow light flashes above.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>As the daemon flies upwards, the plain accountant from the elevator bay is diving towards it with a white compound hunting bow in hand.</Text>
+      <Text>As the daemon flies upwards, the accountant from the elevator bay dives towards it with a compound hunting bow in hand.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She pulls back the bowstring and yellow energy pours from her hand, taking the shape of an arrow.</Text>
+      <Text>She pulls back the string and yellow energy pours from her hand, taking the shape of an arrow.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>The arrow pierces the daemon’s skull, causing it to the plummet to the rooftop with a smash.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>The accountant disappears in a another flash of yellow light.</Text>
+      <Text>The accountant disappears in another flash of light.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>As the daemon takes it’s final breath, Harper walks up with her cohort appearing right next to her.</Text>
+      <Text>As the daemon takes it’s final breath on the rooftop, Harper walks up to it. The accountant re-appears right next to her.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Her friend is AIKO </Text>
+      <Text>Harper’s cohort is AIKO </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">TANAKA</Text>
-      <Text>, early 30s. She has a neck tattoo of a dragon and a pleased with herself grin, both eager to burst out of the formal attire she was in.</Text>
+      <Text>, early 30s. She has a neck tattoo of a dragon and a pleased with herself grin, both eager to burst out of her corporate subterfuge.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>Harper</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He really stuck that landing.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>This is what you get when you don’t hold the elevator.</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Eh</Text>
+      <Text>, I’d give him three </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">6s</Text>
+      <Text>.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>They both laugh.</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>A small sac on the daemon’s chest bursts, squirting green pus in the air. Aiko plugs her nose.</Text>
+      <Text>Harper looks at her puzzled.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Aiko (</Text>
@@ -354,10 +362,17 @@
       <Text>)</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Oh god.</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Cuz</Text>
+      <Text> he’s— It’s a biblical thing.</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(sigh)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whatever.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>Harper smirks.</Text>
+      <Text>Harper nods.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text>Harper</Text>
@@ -369,9 +384,7 @@
       <Text>Aiko</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text>Of course. Give </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">loverboy</Text>
-      <Text> my regards.</Text>
+      <Text>Give lover-boy my regards.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Harper gives her a hug and dematerializes again.</Text>
@@ -380,20 +393,18 @@
       <SceneProperties Length="2/8" Page="5" Title="">
         <SceneArcBeats/>
       </SceneProperties>
-      <Text>Int. WesterOS FINANCIAL - day</Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text>88TH FLOOR - </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">RESTROOM</Text>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">restroom</Text>
+      <Text> - day</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text>Harper’s glowing eyes turn back to normal. She is still standing in front of the mirror, hands resting on the counter.</Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text>She takes a deep breath and stares in the mirror. In front of her is an over the counter pregnancy test with a little blue plus sign in the window.</Text>
+      <Text>She looks in the mirror. In front of her is an over the counter pregnancy test with a little blue plus sign in the window.</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="1 6/8" Page="5" Title="">
+      <SceneProperties Length="1 7/8" Page="6" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="KERISS"></CharacterArcBeat>
           <CharacterArcBeat Name="MAYA"></CharacterArcBeat>
@@ -1452,7 +1463,7 @@ the past three years have not been easy. And now, for your final year of trainin
       <Text>Panning down, we see a room underneath…</Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
-      <SceneProperties Length="4 1/8" Page="18" Title="">
+      <SceneProperties Length="4 1/8" Page="19" Title="">
         <SceneArcBeats>
           <CharacterArcBeat Name="AIKO"></CharacterArcBeat>
           <CharacterArcBeat Name="ARTHUR"></CharacterArcBeat>
@@ -5084,7 +5095,7 @@ the past three years have not been easy. And now, for your final year of trainin
 
   <SpellCheckIgnoreLists>
     <IgnoredRanges>
-      <Range End="26757" Start="26750"/>
+      <Range End="26981" Start="26974"/>
     </IgnoredRanges>
     <IgnoredWords/>
   </SpellCheckIgnoreLists>
@@ -5096,7 +5107,7 @@ the past three years have not been easy. And now, for your final year of trainin
 
   <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
 
-  <TextState Scaling="212" Selection="61564,61564" ShowInvisibles="No"/>
+  <TextState Scaling="212" Selection="6002,6002" ShowInvisibles="No"/>
 
   <ElementSettings Type="General">
     <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
